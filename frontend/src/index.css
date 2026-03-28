@@ -491,33 +491,26 @@ a.media-awards-formula-link {
 .home-hero::before {
   content: "";
   position: absolute;
-  inset: 0;
-  background: repeating-linear-gradient(
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 175px;
+  background: linear-gradient(
     -55deg,
-    transparent              0px,
-    transparent              60px,
-    rgba(201, 168,  76, 0.18) 60px,
-    rgba(201, 168,  76, 0.18) 85px,
-    transparent              85px,
-    transparent              145px,
-    rgba(180,  90, 120, 0.15) 145px,
-    rgba(180,  90, 120, 0.15) 170px,
-    transparent              170px,
-    transparent              230px,
-    rgba( 60, 180, 170, 0.13) 230px,
-    rgba( 60, 180, 170, 0.13) 255px,
-    transparent              255px,
-    transparent              315px,
-    rgba(130,  80, 200, 0.14) 315px,
-    rgba(130,  80, 200, 0.14) 340px,
-    transparent              340px,
-    transparent              400px,
-    rgba(210, 130,  50, 0.14) 400px,
-    rgba(210, 130,  50, 0.14) 425px,
-    transparent              425px,
-    transparent              485px
+    transparent               0px,
+    transparent               10px,
+    rgba(201, 168,  76, 0.38) 10px,
+    rgba(201, 168,  76, 0.38) 35px,
+    rgba(180,  90, 120, 0.32) 35px,
+    rgba(180,  90, 120, 0.32) 60px,
+    rgba( 60, 180, 170, 0.30) 60px,
+    rgba( 60, 180, 170, 0.30) 85px,
+    rgba(130,  80, 200, 0.32) 85px,
+    rgba(130,  80, 200, 0.32) 110px,
+    rgba(210, 130,  50, 0.32) 110px,
+    rgba(210, 130,  50, 0.32) 135px,
+    transparent               135px
   );
-  border-radius: 12px;
   pointer-events: none;
   z-index: 0;
 }
