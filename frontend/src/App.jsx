@@ -23,6 +23,13 @@ export default function App({ page }) {
           <button className="nav-hamburger" onClick={() => setNavOpen(v => !v)}>☰</button>
           <div className="nav-left">
             <Link
+              className={`nav-btn ${location.pathname === "/" ? "active" : ""}`}
+              to="/"
+            >
+              Home
+            </Link>
+
+            <Link
               className={`nav-btn ${location.pathname === "/media-awards" ? "active" : ""}`}
               to="/media-awards"
             >

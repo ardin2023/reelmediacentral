@@ -463,3 +463,174 @@ a.media-awards-formula-link {
   text-decoration: none !important;
   cursor: pointer;
 }
+
+/* --------------------------------------------------
+   HOMEPAGE
+-------------------------------------------------- */
+
+.home-page {
+  padding-bottom: 20px;
+}
+
+/* Hero */
+.home-hero {
+  position: relative;
+  min-height: 260px;
+  border-radius: 12px;
+  background: #1a0f1e;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  cursor: pointer;
+  overflow: hidden;
+  margin-bottom: 36px;
+  transition: box-shadow 0.2s;
+}
+
+.home-hero:hover {
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.18);
+}
+
+.home-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.35) 60%, transparent 100%);
+  border-radius: 12px;
+}
+
+.home-hero-content {
+  position: relative;
+  z-index: 1;
+  padding: 32px 36px;
+  width: 100%;
+}
+
+.home-hero-category {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #c9a84c;
+  background: rgba(201, 168, 76, 0.12);
+  border: 1px solid rgba(201, 168, 76, 0.35);
+  border-radius: 4px;
+  padding: 3px 9px;
+  margin-bottom: 12px;
+}
+
+.home-hero-title {
+  font-size: 30px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 10px;
+  line-height: 1.2;
+  max-width: 680px;
+}
+
+.home-hero-subtitle {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.78);
+  margin: 0 0 20px;
+  max-width: 560px;
+  line-height: 1.55;
+}
+
+.home-hero-cta {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #c9a84c;
+  letter-spacing: 0.03em;
+}
+
+/* Section header */
+.home-sections-header {
+  margin-bottom: 16px;
+}
+
+.home-sections-header h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #222;
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
+/* Section grid */
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+/* Section card */
+.home-card {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border: 1px solid #e3e6ea;
+  border-radius: 10px;
+  padding: 20px 20px 16px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  transition: border-color 0.18s, box-shadow 0.18s, transform 0.18s;
+  min-height: 130px;
+}
+
+.home-card:hover {
+  border-color: #341929;
+  box-shadow: 0 4px 16px rgba(52, 25, 41, 0.10);
+  transform: translateY(-2px);
+}
+
+.home-card-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 7px;
+  display: block;
+}
+
+.home-card-desc {
+  font-size: 13px;
+  color: #666;
+  margin: 0;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.home-card-arrow {
+  display: block;
+  margin-top: 14px;
+  font-size: 14px;
+  color: #341929;
+  font-weight: 600;
+  transition: transform 0.15s;
+}
+
+.home-card:hover .home-card-arrow {
+  transform: translateX(3px);
+}
+
+@media (max-width: 900px) {
+  .home-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .home-hero-title {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 540px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-hero-content {
+    padding: 24px 20px;
+  }
+}

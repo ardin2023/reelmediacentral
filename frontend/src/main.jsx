@@ -3,6 +3,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
+import HomePage from "./pages/Home.jsx";
 import MoviesPage from "./pages/Movies.jsx";
 import MusicPage from "./pages/Music.jsx";
 import BooksPage from "./pages/Books.jsx";
@@ -21,7 +22,7 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<MediaAwardsPage />} />
+      <Route path="/" element={<HomePage />} />
       <Route path="/music" element={<MusicPage />} />
       <Route path="/books" element={<BooksPage />} />
       <Route path="/games" element={<GamesPage />} />

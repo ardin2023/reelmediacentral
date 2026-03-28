@@ -8,6 +8,9 @@ ReelMediaCentral is a media tracking and charts site covering movies, music, pod
 
 ## Pages
 
+### `/` — Home
+Landing page. Two sections: a clickable **hero** driven by `frontend/public/data/hero.json` (fields: `title`, `subtitle`, `category`, `chartLink`, `backgroundImage`) and an **Explore grid** of cards linking to all active sections. Hero background image is optional — styled dark by default with a gold overlay accent. Edit `hero.json` to change the featured story without touching code.
+
 ### `/media-awards` — Media Awards
 Oscar 2026 prediction tracker. Shows a ranked top 10 for Best Picture and all major Oscar categories. Horizontally scrollable pill navigation to jump between categories. Includes a "Formula used" drawer that explains the scoring/prediction methodology. Most fully built page on the site.
 
