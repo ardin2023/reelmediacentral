@@ -1,5 +1,59 @@
 # CLAUDE Notes
 
+## Site overview
+
+ReelMediaCentral is a media tracking and charts site covering movies, music, podcasts, books, streaming, and box office. It's a React SPA with a shared top nav and footer. All pages use a consistent table/dropdown pattern for browsing weekly data.
+
+---
+
+## Pages
+
+### `/media-awards` — Media Awards
+Oscar 2026 prediction tracker. Shows a ranked top 10 for Best Picture and all major Oscar categories. Horizontally scrollable pill navigation to jump between categories. Includes a "Formula used" drawer that explains the scoring/prediction methodology. Most fully built page on the site.
+
+### `/music-charts` — Music Charts
+Top song charts. Dropdown to switch between sources: **Spotify (Global)** and **Apple Music (US)** are live; iTunes and Amazon Music are listed as "Coming soon." Table shows rank, song, and artist. Data comes from bundled JSON files updated manually via fetch scripts.
+
+### `/boxoffice` — Box Office
+Weekly US weekend box office results. Dropdown to select from historical weekends (driven by `boxoffice/index.json`). Table shows rank, movie title, release date, weekend gross, and total gross. Data goes back to Jan 2026, updated manually.
+
+### `/podcast-charts` — Podcast Charts
+Top podcast rankings for Apple Podcasts and Spotify US. Dropdown to switch primary sort. Table shows both platforms' ranks side by side. Data auto-updates weekly via GitHub Actions. See full data flow in the Podcast Charts section below.
+
+### `/streaming` — Streaming Hits
+Weekly top streaming shows. Dropdown to select week. Table shows top 10: rank, title, platform, weekly views. Data is weekly-indexed JSON (same pattern as box office). Updated manually via `fetch_streaming_data.py`.
+
+### `/book-sellers` — Book Sellers
+Weekly bestseller list. Dropdown to select week. Table shows rank, book (with cover art fetched from OpenLibrary), author, and weekly sales. Cover images are loaded lazily and fall back to a placeholder. Updated manually.
+
+### `/social-buzz` — Social Buzz
+Weekly social/trending topics table. Shows rank, topic, type/category, buzz score, and week-over-week change. Top 10 displayed. Data from `social-buzz.json` — manual update, early-stage page.
+
+### `/dashboards` — Top Trends *(nav label)*
+Industry analytics dashboard for film. Six chart panels in a grid:
+- Best Picture Winners: Box Office
+- Movie Release Volume Per Year
+- Average Movie Runtime Per Year
+- Genre Popularity Over Time
+- Revenue Per Genre
+- Seasonal Movie Trends
+
+All charts pull from TMDB via JS API helpers on load.
+
+### `/movies` — Movies *(disabled)*
+Previously a movie search + detail page. Currently shows a blank placeholder. Original implementation is commented out in `Movies.jsx`.
+
+### `/music` — Music *(disabled)*
+Previously a music search + cards page. Shows "Coming Soon." Original implementation commented out.
+
+### `/games` — Games *(disabled)*
+Previously a games search + comparison page (powered by RAWG API). Shows "Coming Soon." Original implementation commented out.
+
+### `/books` — Books *(disabled)*
+Previously a book search + results page. Shows "Coming Soon." Original implementation commented out.
+
+---
+
 ## GitHub repo
 
 - Remote: `https://github.com/ardin2023/reelmediacentral.git`
