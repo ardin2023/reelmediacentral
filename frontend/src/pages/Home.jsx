@@ -36,7 +36,7 @@ const SECTIONS = [
   },
   {
     name: "Top Trends",
-    description: "Film industry analytics — genre trends, runtime shifts, box office by year, and more.",
+    description: "Film industry analytics: genre trends, runtime shifts, box office by year, and more.",
     route: "/dashboards",
   },
   {
