@@ -60,7 +60,7 @@ function PodcastChartsContent() {
   const [appleData, setAppleData] = useState({ items: [], date: "" });
 
   useEffect(() => {
-    fetch("/data/podcasts-apple.json", { cache: "no-store" })
+    fetch("https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data/podcasts-apple.json", { cache: "no-store" })
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
