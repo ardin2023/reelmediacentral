@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 URL = "https://itunes.apple.com/us/rss/toppodcasts/limit=20/json"
-OUTPUT_FILE = Path("../public/data/podcasts-apple.json")
+OUTPUT_FILE = Path(__file__).parent.parent / "public/data/podcasts-apple.json"
 
 def main():
     r = requests.get(URL, timeout=15)
