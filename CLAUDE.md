@@ -46,11 +46,10 @@ Two approaches are in use depending on the data source:
 - JSON is committed to the repo and served as a static asset
 - Run scripts manually; no automation yet
 
-**Live fetch from GitHub raw** (Apple Podcasts)
-- Python script writes to `frontend/public/data/podcasts-apple.json`
-- GitHub Actions commits the updated file weekly (see below)
+**Live fetch from GitHub raw** (Apple Podcasts, Spotify Podcasts)
+- Python script writes JSON to `frontend/public/data/`
+- GitHub Actions commits the updated file weekly (see Podcast Charts section for full details)
 - The page fetches directly from `raw.githubusercontent.com` at load time — no rebuild or redeploy needed
-- URL: `https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data/podcasts-apple.json`
 
 ## GitHub Actions
 
@@ -68,18 +67,106 @@ Two approaches are in use depending on the data source:
 
 ## feature: Podcast Charts
 
-- page: `frontend/src/pages/PodcastCharts.jsx`
-- Apple data: fetched live from `raw.githubusercontent.com` (see above), falls back to hardcoded list if unavailable
-- Spotify data: still hardcoded in `SPOTIFY_ROWS` (not yet automated)
-- fetch script: `frontend/scripts/fetchApplePodcastCharts.py` — uses iTunes RSS API (`itunes.apple.com/us/rss/toppodcasts/limit=20/json`)
-- **Note**: the Apple Marketing Tools RSS URL (`rss.applemarketingtools.com/api/v2/us/podcasts/...`) returns 404 for podcasts — use the iTunes RSS URL instead
+**Page:** `frontend/src/pages/PodcastCharts.jsx`
 
-**Spotify Podcasts**
-- data: `frontend/public/data/podcasts-spotify.json` — fetched live from `raw.githubusercontent.com`
-- fetch script: `frontend/scripts/fetchSpotifyPodcastCharts.py` — uses `podcastcharts.byspotify.com/api/charts/top?region=US`
-- **Note**: the API ignores the `limit` query param and returns ~200 results — the script slices to top 20
-- falls back to hardcoded `SPOTIFY_ROWS_FALLBACK` if the fetch fails
-- "Last updated" date is read from the JSON `date` field, not hardcoded
+Dropdown lets the user switch the primary ranking between Apple Podcasts and Spotify. Both platforms' ranks are shown side-by-side in the table. "Last updated" reflects the `date` field from whichever platform's JSON is active.
+
+---
+
+### End-to-end data flow
+
+```
+External API
+    │
+    │  (Python fetch script — runs in GitHub Actions every Monday)
+    ▼
+GitHub repo  ←──────────────────────────────────────────────────┐
+frontend/public/data/podcasts-apple.json                        │
+frontend/public/data/podcasts-spotify.json                      │
+    │                                                            │
+    │  (GitHub Actions commits updated JSON with [skip ci])  ───┘
+    │
+    │  (browser fetches at page load via raw.githubusercontent.com)
+    ▼
+PodcastCharts.jsx  →  usePodcastData("apple",   APPLE_ROWS_FALLBACK)
+                   →  usePodcastData("spotify", SPOTIFY_ROWS_FALLBACK)
+                   →  merges both datasets by podcast name
+                   →  sorts by selected primary platform
+                   →  renders table with both ranks side-by-side
+```
+
+No rebuild or redeploy is needed when data updates — the page always fetches the latest JSON directly from GitHub.
+
+---
+
+### Apple Podcasts
+
+| | |
+|---|---|
+| **Source API** | iTunes RSS — `itunes.apple.com/us/rss/toppodcasts/limit=20/json` |
+| **Fetch script** | `frontend/scripts/fetchApplePodcastCharts.py` |
+| **Output file** | `frontend/public/data/podcasts-apple.json` |
+| **GitHub Actions** | `.github/workflows/update-apple-podcasts.yml` — every Monday 08:00 UTC |
+| **Frontend URL** | `https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data/podcasts-apple.json` |
+| **Fallback** | `APPLE_ROWS_FALLBACK` array in `PodcastCharts.jsx` (data as of Feb 2026) |
+
+JSON shape:
+```json
+{
+  "date": "2026-03-28",
+  "platform": "Apple Podcasts",
+  "scope": "US",
+  "source": "Apple Marketing Tools",
+  "items": [
+    { "rank": 1, "name": "The Daily", "publisher": "The New York Times" },
+    ...
+  ]
+}
+```
+
+> **Note:** `rss.applemarketingtools.com/api/v2/us/podcasts/...` returns 404. The iTunes RSS URL above is the working endpoint.
+
+---
+
+### Spotify Podcasts
+
+| | |
+|---|---|
+| **Source API** | `podcastcharts.byspotify.com/api/charts/top?region=US` |
+| **Fetch script** | `frontend/scripts/fetchSpotifyPodcastCharts.py` |
+| **Output file** | `frontend/public/data/podcasts-spotify.json` |
+| **GitHub Actions** | `.github/workflows/update-spotify-podcasts.yml` — every Monday 09:00 UTC |
+| **Frontend URL** | `https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data/podcasts-spotify.json` |
+| **Fallback** | `SPOTIFY_ROWS_FALLBACK` array in `PodcastCharts.jsx` (data as of Feb 2026) |
+
+JSON shape: same structure as Apple, with `"platform": "Spotify"`.
+
+> **Note:** The API ignores the `limit` query param and returns ~200 results. The script slices to `[:20]` before writing.
+
+---
+
+### GitHub Actions schedules
+
+Apple runs at 08:00 UTC, Spotify at 09:00 UTC — staggered by one hour to prevent both workflows committing to `main` simultaneously. Both workflows:
+- install `requests` via pip
+- run the fetch script from repo root (scripts use `Path(__file__)` for portable output paths)
+- only commit if the JSON actually changed (`git diff --cached --quiet ||`)
+- tag commits with `[skip ci]` to prevent re-triggering the workflow
+- can be triggered manually from the Actions tab via `workflow_dispatch`
+
+---
+
+### Frontend hook: `usePodcastData`
+
+```js
+function usePodcastData(platform, fallback) {
+  // fetches podcasts-{platform}.json from raw.githubusercontent.com
+  // on error, sets items to the provided fallback array
+  // returns { items, date }
+}
+```
+
+Both `appleData` and `spotifyData` are loaded in parallel on mount. The merge logic in `useMemo` joins them by podcast name (using `NAME_ALIASES` to normalize name variants like "Up First from NPR" → "Up First").
 
 ## feature: Streaming Hits
 
