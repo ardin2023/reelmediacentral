@@ -488,6 +488,40 @@ a.media-awards-formula-link {
   transition: box-shadow 0.2s;
 }
 
+.home-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    -55deg,
+    transparent              0px,
+    transparent              60px,
+    rgba(201, 168,  76, 0.18) 60px,
+    rgba(201, 168,  76, 0.18) 85px,
+    transparent              85px,
+    transparent              145px,
+    rgba(180,  90, 120, 0.15) 145px,
+    rgba(180,  90, 120, 0.15) 170px,
+    transparent              170px,
+    transparent              230px,
+    rgba( 60, 180, 170, 0.13) 230px,
+    rgba( 60, 180, 170, 0.13) 255px,
+    transparent              255px,
+    transparent              315px,
+    rgba(130,  80, 200, 0.14) 315px,
+    rgba(130,  80, 200, 0.14) 340px,
+    transparent              340px,
+    transparent              400px,
+    rgba(210, 130,  50, 0.14) 400px,
+    rgba(210, 130,  50, 0.14) 425px,
+    transparent              425px,
+    transparent              485px
+  );
+  border-radius: 12px;
+  pointer-events: none;
+  z-index: 0;
+}
+
 .home-hero:hover {
   box-shadow: 0 6px 28px rgba(0, 0, 0, 0.18);
 }
