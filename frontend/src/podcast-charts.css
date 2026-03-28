@@ -1,0 +1,98 @@
+/* --------------------------------------------------
+   PODCAST CHARTS (page-specific)
+-------------------------------------------------- */
+
+.pc-page {
+  padding: 8px 0 0;
+}
+
+.pc-title {
+  font-size: 28px;
+  margin: 0 0 14px;
+}
+
+.pc-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+  justify-content: space-between;
+}
+
+.pc-toolbar-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pc-label {
+  font-size: 14px;
+  color: #555;
+}
+
+.pc-select {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #d5d9dd;
+  background: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.pc-table-wrapper {
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #e3e6ea;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+}
+
+.pc-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.pc-table th,
+.pc-table td {
+  text-align: left;
+  padding: 12px 14px;
+  border-bottom: 1px solid #eceff2;
+  font-size: 14px;
+}
+
+.pc-table thead th {
+  background: #f7f8fa;
+  font-weight: 600;
+  color: #333;
+}
+
+.pc-table tbody tr:hover {
+  background: #fafbfc;
+}
+
+.pc-updated {
+  color: #666;
+}
+
+.pc-podcast-name {
+  font-weight: 600;
+  color: #222;
+}
+
+.pc-podcast-platform {
+  margin-top: 2px;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+@media (max-width: 700px) {
+  .pc-title {
+    font-size: 24px;
+  }
+
+  .pc-table th,
+  .pc-table td {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+}

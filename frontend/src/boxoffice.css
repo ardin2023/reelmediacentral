@@ -1,0 +1,75 @@
+/* --------------------------------------------------
+   BOX OFFICE PAGE (ISOLATED)
+-------------------------------------------------- */
+
+.boxoffice-page {
+  width: 100%;
+}
+
+.page-title {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.boxoffice-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #e3e6ea;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+}
+
+.boxoffice-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.boxoffice-table thead {
+  background: #f6f7f9;
+}
+
+.boxoffice-table th,
+.boxoffice-table td {
+  padding: 14px 16px;
+  text-align: left;
+  font-size: 14px;
+  border-bottom: 1px solid #e6e9ee;
+  white-space: nowrap;
+}
+
+.boxoffice-table th {
+  font-weight: 600;
+  color: #333;
+}
+
+.boxoffice-table tbody tr:hover {
+  background-color: #f9fbff;
+}
+
+.boxoffice-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Rank column */
+.boxoffice-table td:first-child {
+  font-weight: 600;
+  color: #555;
+}
+
+/* Movie cell with poster */
+
+.movie-cell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.movie-poster {
+  width: 36px;
+  height: auto;
+  border-radius: 4px;
+  flex-shrink: 0;
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-03-19",
+  "weekOf": "2026-03-17",
+  "source": "Sample Data",
+  "items": [
+    { "rank": 1, "title": "Guardians of the Moon", "category": "Film", "buzzScore": 94, "trendChange": 22 },
+    { "rank": 2, "title": "Taylor Swift", "category": "Music", "buzzScore": 87, "trendChange": 13 },
+    { "rank": 3, "title": "The Roaring 2026 Tour", "category": "Entertainment", "buzzScore": 83, "trendChange": 19 },
+    { "rank": 4, "title": "League Final Championship", "category": "Sports", "buzzScore": 80, "trendChange": 15 },
+    { "rank": 5, "title": "The Daily Documentarian", "category": "Podcast", "buzzScore": 77, "trendChange": 8 },
+    { "rank": 6, "title": "Meridian Riders", "category": "TV", "buzzScore": 75, "trendChange": -2 },
+    { "rank": 7, "title": "Quantum Of Love", "category": "Film", "buzzScore": 72, "trendChange": 5 },
+    { "rank": 8, "title": "Arcade 2077", "category": "Game", "buzzScore": 69, "trendChange": 18 },
+    { "rank": 9, "title": "The Viral Cooking Challenge", "category": "Story", "buzzScore": 67, "trendChange": 25 },
+    { "rank": 10, "title": "Award Season Buzz", "category": "Celebrity", "buzzScore": 64, "trendChange": 12 }
+  ]
+}

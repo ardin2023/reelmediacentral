@@ -1,0 +1,16 @@
+{
+  "weekOf": "2026-03-22",
+  "date": "2026-03-23",
+  "items": [
+    { "rank": 1, "title": "The Midnight Library", "author": "Matt Haig", "weeklySales": 43600, "cover": "/default-book.jpg" },
+    { "rank": 2, "title": "Spare", "author": "Prince Harry", "weeklySales": 39200, "cover": "/default-book.jpg" },
+    { "rank": 3, "title": "It Ends with Us", "author": "Colleen Hoover", "weeklySales": 33100, "cover": "/default-book.jpg" },
+    { "rank": 4, "title": "Dune", "author": "Frank Herbert", "weeklySales": 28900, "cover": "/default-book.jpg" },
+    { "rank": 5, "title": "Atomic Habits", "author": "James Clear", "weeklySales": 25100, "cover": "/default-book.jpg" },
+    { "rank": 6, "title": "The Light We Carry", "author": "Michelle Obama", "weeklySales": 22400, "cover": "/default-book.jpg" },
+    { "rank": 7, "title": "The Silent Patient", "author": "Alex Michaelides", "weeklySales": 20600, "cover": "/default-book.jpg" },
+    { "rank": 8, "title": "The Song of Achilles", "author": "Madeline Miller", "weeklySales": 19500, "cover": "/default-book.jpg" },
+    { "rank": 9, "title": "The Seven Husbands of Evelyn Hugo", "author": "Taylor Jenkins Reid", "weeklySales": 18400, "cover": "/default-book.jpg" },
+    { "rank": 10, "title": "The Thursday Murder Club", "author": "Richard Osman", "weeklySales": 17200, "cover": "/default-book.jpg" }
+  ]
+}

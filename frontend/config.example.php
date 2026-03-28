@@ -1,0 +1,2 @@
+<?php
+define('OMDB_API_KEY', 'your_omdb_api_key_here');

@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-28",
+  "platform": "Apple Podcasts",
+  "scope": "US",
+  "source": "Apple Marketing Tools",
+  "items": [
+    {
+      "rank": 1,
+      "name": "The Daily",
+      "publisher": "The New York Times"
+    },
+    {
+      "rank": 2,
+      "name": "Call Her Daddy",
+      "publisher": "Alex Cooper"
+    },
+    {
+      "rank": 3,
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
+    },
+    {
+      "rank": 4,
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
+    },
+    {
+      "rank": 5,
+      "name": "The Idiot",
+      "publisher": "Serial Productions & The New York Times"
+    },
+    {
+      "rank": 6,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 7,
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
+    },
+    {
+      "rank": 8,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 9,
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
+    },
+    {
+      "rank": 10,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
+      "rank": 11,
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
+    },
+    {
+      "rank": 12,
+      "name": "The Shawn Ryan Show",
+      "publisher": "Shawn Ryan"
+    },
+    {
+      "rank": 13,
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
+    },
+    {
+      "rank": 14,
+      "name": "REAL AF with Andy Frisella",
+      "publisher": "Andy Frisella"
+    },
+    {
+      "rank": 15,
+      "name": "The Megyn Kelly Show",
+      "publisher": "SiriusXM"
+    },
+    {
+      "rank": 16,
+      "name": "48 Hours",
+      "publisher": "CBS News"
+    },
+    {
+      "rank": 17,
+      "name": "The Ezra Klein Show",
+      "publisher": "New York Times Opinion"
+    },
+    {
+      "rank": 18,
+      "name": "The Mel Robbins Podcast",
+      "publisher": "Mel Robbins"
+    },
+    {
+      "rank": 19,
+      "name": "Serial",
+      "publisher": "Serial Productions & The New York Times"
+    },
+    {
+      "rank": 20,
+      "name": "Mick Unplugged",
+      "publisher": "Realm"
+    }
+  ]
+}

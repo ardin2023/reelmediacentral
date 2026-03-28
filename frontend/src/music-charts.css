@@ -1,0 +1,87 @@
+/* Fluent-style dropdown */
+
+.fluent-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Trigger button */
+.fluent-dropdown-btn {
+  min-width: 240px;
+  height: 36px;
+  padding: 0 12px;
+  border: 1px solid #c8c6c4;
+  background: #ffffff;
+  color: #323130;
+  font-size: 14px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.fluent-dropdown-btn:hover {
+  border-color: #605e5c;
+}
+
+.fluent-dropdown-btn:focus {
+  outline: none;
+  border-color: #0078d4;
+  box-shadow: 0 0 0 1px #0078d4;
+}
+
+/* Floating menu */
+.fluent-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  width: 260px;
+
+  background: #ffffff;
+  border: 1px solid #d1d1d1;
+  border-radius: 6px;
+
+  box-shadow:
+    0 2px 4px rgba(0,0,0,0.08),
+    0 8px 16px rgba(0,0,0,0.12);
+
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Menu items */
+.fluent-dropdown-item {
+  height: 36px;
+  padding: 0 12px;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: 14px;
+  color: #323130;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.fluent-dropdown-item:hover {
+  background: #f3f2f1;
+}
+
+.fluent-dropdown-item.active {
+  background: #e5f1fb;
+  color: #0078d4;
+}
+
+.fluent-dropdown-item:disabled {
+  color: #a19f9d;
+  cursor: default;
+  background: none;
+}
+
+.chevron {
+  font-size: 12px;
+  margin-left: 8px;
+}

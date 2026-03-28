@@ -1,0 +1,148 @@
+{
+  "date": "2026-03-02",
+  "platform": "Spotify",
+  "scope": "Global",
+  "source": "Kworb",
+  "items": [
+    {
+      "rank": 1,
+      "track": "=",
+      "artist": "Bad Bunny - DtMF",
+      "streams": 420,
+      "url": null
+    },
+    {
+      "rank": 2,
+      "track": "=",
+      "artist": "PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson )",
+      "streams": 53,
+      "url": null
+    },
+    {
+      "rank": 3,
+      "track": "=",
+      "artist": "Bruno Mars - Risk It All",
+      "streams": 2,
+      "url": null
+    },
+    {
+      "rank": 4,
+      "track": "+2",
+      "artist": "Djo - End of Beginning",
+      "streams": 743,
+      "url": null
+    },
+    {
+      "rank": 5,
+      "track": "=",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 193,
+      "url": null
+    },
+    {
+      "rank": 6,
+      "track": "+4",
+      "artist": "Bad Bunny - NUEVAYoL",
+      "streams": 420,
+      "url": null
+    },
+    {
+      "rank": 7,
+      "track": "+1",
+      "artist": "Bad Bunny - BAILE INoLVIDABLE",
+      "streams": 420,
+      "url": null
+    },
+    {
+      "rank": 8,
+      "track": "-1",
+      "artist": "Taylor Swift - The Fate of Ophelia",
+      "streams": 149,
+      "url": null
+    },
+    {
+      "rank": 9,
+      "track": "-5",
+      "artist": "Bruno Mars - I Just Might",
+      "streams": 51,
+      "url": null
+    },
+    {
+      "rank": 10,
+      "track": "+1",
+      "artist": "Olivia Dean - So Easy (To Fall In Love)",
+      "streams": 155,
+      "url": null
+    },
+    {
+      "rank": 11,
+      "track": "+2",
+      "artist": "Bad Bunny - TitÃ­ Me PreguntÃ³",
+      "streams": 462,
+      "url": null
+    },
+    {
+      "rank": 12,
+      "track": "+6",
+      "artist": "Zara Larsson - Lush Life",
+      "streams": 740,
+      "url": null
+    },
+    {
+      "rank": 13,
+      "track": "+2",
+      "artist": "RAYE - WHERE IS MY HUSBAND!",
+      "streams": 163,
+      "url": null
+    },
+    {
+      "rank": 14,
+      "track": "+7",
+      "artist": "HUNTR/X - Golden (w/ Ejae , AUDREY NUNA , REI AMI , KPop Demon Hunters Cast )",
+      "streams": 252,
+      "url": null
+    },
+    {
+      "rank": 15,
+      "track": "-1",
+      "artist": "sombr - back to friends",
+      "streams": 348,
+      "url": null
+    },
+    {
+      "rank": 16,
+      "track": "+4",
+      "artist": "Alex Warren - Ordinary",
+      "streams": 387,
+      "url": null
+    },
+    {
+      "rank": 17,
+      "track": "+2",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 98,
+      "url": null
+    },
+    {
+      "rank": 18,
+      "track": "-2",
+      "artist": "Bad Bunny - EoO",
+      "streams": 416,
+      "url": null
+    },
+    {
+      "rank": 19,
+      "track": "-2",
+      "artist": "Dave - Raindance (w/ Tems )",
+      "streams": 88,
+      "url": null
+    },
+    {
+      "rank": 20,
+      "track": "-11",
+      "artist": "BLACKPINK - GO",
+      "streams": 2,
+      "url": null
+    }
+  ]
+}

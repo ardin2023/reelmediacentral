@@ -1,0 +1,67 @@
+{
+  "date": "2026-03-18",
+  "source": "Sample generator",
+  "weekOf": "2026-03-16",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Kingdom of the North",
+      "platform": "Netflix",
+      "weeklyViews": 13500000
+    },
+    {
+      "rank": 2,
+      "title": "Heist City",
+      "platform": "Amazon Prime Video",
+      "weeklyViews": 11300000
+    },
+    {
+      "rank": 3,
+      "title": "Galactic Frontier",
+      "platform": "Disney+",
+      "weeklyViews": 10400000
+    },
+    {
+      "rank": 4,
+      "title": "The Courtroom",
+      "platform": "HBO Max",
+      "weeklyViews": 8800000
+    },
+    {
+      "rank": 5,
+      "title": "Love, Memory",
+      "platform": "Hulu",
+      "weeklyViews": 7600000
+    },
+    {
+      "rank": 6,
+      "title": "Quantum Detectives",
+      "platform": "Netflix",
+      "weeklyViews": 6950000
+    },
+    {
+      "rank": 7,
+      "title": "Highway 9",
+      "platform": "Peacock",
+      "weeklyViews": 6420000
+    },
+    {
+      "rank": 8,
+      "title": "The Last Colony",
+      "platform": "Paramount+",
+      "weeklyViews": 5980000
+    },
+    {
+      "rank": 9,
+      "title": "Ghost Island",
+      "platform": "Hulu",
+      "weeklyViews": 5600000
+    },
+    {
+      "rank": 10,
+      "title": "Silent Waters",
+      "platform": "Apple TV+",
+      "weeklyViews": 5230000
+    }
+  ]
+}
