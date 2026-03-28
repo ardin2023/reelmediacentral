@@ -11,18 +11,18 @@
     },
     {
       "rank": 2,
-      "name": "Call Her Daddy",
-      "publisher": "Alex Cooper"
-    },
-    {
-      "rank": 3,
       "name": "Crime Junkie",
       "publisher": "Audiochuck"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "The Joe Rogan Experience",
       "publisher": "Joe Rogan"
+    },
+    {
+      "rank": 4,
+      "name": "Call Her Daddy",
+      "publisher": "Alex Cooper"
     },
     {
       "rank": 5,
@@ -31,23 +31,23 @@
     },
     {
       "rank": 6,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 7,
       "name": "Dateline NBC",
       "publisher": "NBC News"
     },
     {
+      "rank": 7,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
       "rank": 8,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
       "rank": 9,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
     },
     {
       "rank": 10,
@@ -61,18 +61,18 @@
     },
     {
       "rank": 12,
-      "name": "The Shawn Ryan Show",
-      "publisher": "Shawn Ryan"
-    },
-    {
-      "rank": 13,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
+      "rank": 13,
+      "name": "The Shawn Ryan Show",
+      "publisher": "Shawn Ryan"
+    },
+    {
       "rank": 14,
-      "name": "REAL AF with Andy Frisella",
-      "publisher": "Andy Frisella"
+      "name": "The Ezra Klein Show",
+      "publisher": "New York Times Opinion"
     },
     {
       "rank": 15,
@@ -81,28 +81,28 @@
     },
     {
       "rank": 16,
-      "name": "48 Hours",
-      "publisher": "CBS News"
-    },
-    {
-      "rank": 17,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
-    },
-    {
-      "rank": 18,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
-    },
-    {
-      "rank": 19,
       "name": "Serial",
       "publisher": "Serial Productions & The New York Times"
     },
     {
+      "rank": 17,
+      "name": "48 Hours",
+      "publisher": "CBS News"
+    },
+    {
+      "rank": 18,
+      "name": "REAL AF with Andy Frisella",
+      "publisher": "Andy Frisella"
+    },
+    {
+      "rank": 19,
+      "name": "The Mel Robbins Podcast",
+      "publisher": "Mel Robbins"
+    },
+    {
       "rank": 20,
-      "name": "Mick Unplugged",
-      "publisher": "Realm"
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
     }
   ]
 }
