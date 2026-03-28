@@ -1,5 +1,11 @@
 # CLAUDE Notes
 
+## GitHub repo
+
+- Remote: `https://github.com/ardin2023/reelmediacentral.git`
+- Branch: `main`
+- Repo was initialized and first pushed in March 2026
+
 ## Project structure
 
 ```
@@ -60,6 +66,7 @@ Two approaches are in use depending on the data source:
 - Apple data: fetched live from `raw.githubusercontent.com` (see above), falls back to hardcoded list if unavailable
 - Spotify data: still hardcoded in `SPOTIFY_ROWS` (not yet automated)
 - fetch script: `frontend/scripts/fetchApplePodcastCharts.py` — uses iTunes RSS API (`itunes.apple.com/us/rss/toppodcasts/limit=20/json`)
+- **Note**: the Apple Marketing Tools RSS URL (`rss.applemarketingtools.com/api/v2/us/podcasts/...`) returns 404 for podcasts — use the iTunes RSS URL instead
 - "Last updated" date is read from the JSON `date` field, not hardcoded
 
 ## feature: Streaming Hits
@@ -71,6 +78,10 @@ Two approaches are in use depending on the data source:
 - generation script: `frontend/scripts/fetch_streaming_data.py`
 - weekly context fields: `weekOf`, `date` (last updated)
 - table shows top 10 rows using `items.slice(0, 10)`
+
+## known issues / cleanup needed
+
+- `frontend/src/phpinfo.php` exists in the repo — exposes PHP environment info and should be deleted before the site goes public
 
 ## build check
 
