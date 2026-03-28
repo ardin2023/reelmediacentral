@@ -1,0 +1,36 @@
+name: Update Spotify Podcast Charts
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"  # Every Monday at 9:00 AM UTC (1 hour after Apple)
+  workflow_dispatch:       # Allow manual runs from the Actions tab
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Spotify Podcast Charts
+        run: python frontend/scripts/fetchSpotifyPodcastCharts.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/podcasts-spotify.json
+          git diff --cached --quiet || git commit -m "chore: update Spotify Podcast Charts [skip ci]"
+          git push

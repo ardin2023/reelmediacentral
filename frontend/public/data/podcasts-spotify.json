@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-28",
+  "platform": "Spotify",
+  "scope": "US",
+  "source": "Spotify Podcast Charts",
+  "items": [
+    {
+      "rank": 1,
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
+    },
+    {
+      "rank": 2,
+      "name": "Call Her Daddy",
+      "publisher": "Alex Cooper"
+    },
+    {
+      "rank": 3,
+      "name": "This Past Weekend w/ Theo Von",
+      "publisher": "Theo Von"
+    },
+    {
+      "rank": 4,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 5,
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
+    },
+    {
+      "rank": 6,
+      "name": "The Shawn Ryan Show",
+      "publisher": "Shawn Ryan Show"
+    },
+    {
+      "rank": 7,
+      "name": "The Tucker Carlson Show",
+      "publisher": "Tucker Carlson Network"
+    },
+    {
+      "rank": 8,
+      "name": "The Daily",
+      "publisher": "The New York Times"
+    },
+    {
+      "rank": 9,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 10,
+      "name": "Matt and Shane's Secret Podcast",
+      "publisher": "Matt McCusker & Shane Gillis"
+    },
+    {
+      "rank": 11,
+      "name": "Armchair Expert with Dax Shepard",
+      "publisher": "Armchair Umbrella"
+    },
+    {
+      "rank": 12,
+      "name": "The Diary Of A CEO with Steven Bartlett",
+      "publisher": "FlightStory"
+    },
+    {
+      "rank": 13,
+      "name": "Candace",
+      "publisher": "Candace Owens"
+    },
+    {
+      "rank": 14,
+      "name": "Bad Friends",
+      "publisher": "Bobby Lee & Andrew Santino"
+    },
+    {
+      "rank": 15,
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
+    },
+    {
+      "rank": 16,
+      "name": "NPR News Now",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 17,
+      "name": "Smosh Reads Reddit Stories",
+      "publisher": "Smosh"
+    },
+    {
+      "rank": 18,
+      "name": "The Tim Dillon Show",
+      "publisher": "The Tim Dillon Show"
+    },
+    {
+      "rank": 19,
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
+    },
+    {
+      "rank": 20,
+      "name": "Two Hot Takes",
+      "publisher": "Two Hot Takes"
+    }
+  ]
+}

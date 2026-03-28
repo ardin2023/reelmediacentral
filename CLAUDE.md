@@ -60,6 +60,12 @@ Two approaches are in use depending on the data source:
 - **What it does**: runs `fetchApplePodcastCharts.py`, commits `podcasts-apple.json` back to `main` with `[skip ci]`
 - Only commits if the data actually changed
 
+### `update-spotify-podcasts.yml`
+- **Schedule**: every Monday at 09:00 UTC (1 hour after Apple to avoid commit conflicts)
+- **Trigger**: also has `workflow_dispatch` for manual runs via the Actions tab
+- **What it does**: runs `fetchSpotifyPodcastCharts.py`, commits `podcasts-spotify.json` back to `main` with `[skip ci]`
+- Only commits if the data actually changed
+
 ## feature: Podcast Charts
 
 - page: `frontend/src/pages/PodcastCharts.jsx`
@@ -67,6 +73,12 @@ Two approaches are in use depending on the data source:
 - Spotify data: still hardcoded in `SPOTIFY_ROWS` (not yet automated)
 - fetch script: `frontend/scripts/fetchApplePodcastCharts.py` — uses iTunes RSS API (`itunes.apple.com/us/rss/toppodcasts/limit=20/json`)
 - **Note**: the Apple Marketing Tools RSS URL (`rss.applemarketingtools.com/api/v2/us/podcasts/...`) returns 404 for podcasts — use the iTunes RSS URL instead
+
+**Spotify Podcasts**
+- data: `frontend/public/data/podcasts-spotify.json` — fetched live from `raw.githubusercontent.com`
+- fetch script: `frontend/scripts/fetchSpotifyPodcastCharts.py` — uses `podcastcharts.byspotify.com/api/charts/top?region=US`
+- **Note**: the API ignores the `limit` query param and returns ~200 results — the script slices to top 20
+- falls back to hardcoded `SPOTIFY_ROWS_FALLBACK` if the fetch fails
 - "Last updated" date is read from the JSON `date` field, not hardcoded
 
 ## feature: Streaming Hits
@@ -90,7 +102,7 @@ Two approaches are in use depending on the data source:
 ## next improvements
 
 - auto index generation for weekly data (BoxOffice/music/podcast/streaming)
-- automate Spotify podcast charts (same pattern as Apple)
+- automate Spotify podcast charts (done)
 - optional shared chart component/logic for similar data shapes
 
 ## new section candidates

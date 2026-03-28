@@ -3,27 +3,28 @@ import { useEffect, useMemo, useState } from "react";
 import App from "../App.jsx";
 import "../podcast-charts.css";
 
-const SPOTIFY_ROWS = [
-  { rank: 1, name: "The Joe Rogan Experience", platform: "Joe Rogan" },
-  { rank: 2, name: "Good Hang with Amy Poehler", platform: "The Ringer" },
-  { rank: 3, name: "This Past Weekend with Theo Von", platform: "Theo Von" },
-  { rank: 4, name: "Crime Junkie", platform: "Audiochuck" },
-  { rank: 5, name: "The Daily", platform: "The New York Times" },
-  { rank: 6, name: "The Shawn Ryan Show", platform: "Shawn Ryan Show" },
-  { rank: 7, name: "The Tucker Carlson Show", platform: "Tucker Carlson Network" },
-  { rank: 8, name: "Up First from NPR", platform: "NPR" },
-  { rank: 9, name: "Huberman Lab", platform: "Scicomm Media" },
-  { rank: 10, name: "Directed By", platform: "Spotify Studios" },
-  { rank: 11, name: "Billions Club: The Series", platform: "Spotify" },
-  { rank: 12, name: "Armchair Expert with Dax Shepard", platform: "Armchair Umbrella" },
-  { rank: 13, name: "Matt and Shane’s Secret Podcast", platform: "Matt McCusker & Shane Gillis" },
-  { rank: 14, name: "The Diary of a CEO with Steven Bartlett", platform: "FlightStory" },
-  { rank: 15, name: "Bad Friends", platform: "Bobby Lee & Andrew Santino" },
-  { rank: 16, name: "Candace", platform: "Candace Owens" },
-  { rank: 17, name: "Morbid", platform: "Ash Kelley & Alaina Urquhart" },
-  { rank: 18, name: "Pardon My Take", platform: "Barstool Sports" },
-  { rank: 19, name: "NPR News Now", platform: "NPR" },
-  { rank: 20, name: "The Journal.", platform: "The Wall Street Journal" },
+// Fallback data used only if podcasts-spotify.json hasn’t been generated yet
+const SPOTIFY_ROWS_FALLBACK = [
+  { rank: 1, name: "The Joe Rogan Experience", publisher: "Joe Rogan" },
+  { rank: 2, name: "Good Hang with Amy Poehler", publisher: "The Ringer" },
+  { rank: 3, name: "This Past Weekend with Theo Von", publisher: "Theo Von" },
+  { rank: 4, name: "Crime Junkie", publisher: "Audiochuck" },
+  { rank: 5, name: "The Daily", publisher: "The New York Times" },
+  { rank: 6, name: "The Shawn Ryan Show", publisher: "Shawn Ryan Show" },
+  { rank: 7, name: "The Tucker Carlson Show", publisher: "Tucker Carlson Network" },
+  { rank: 8, name: "Up First from NPR", publisher: "NPR" },
+  { rank: 9, name: "Huberman Lab", publisher: "Scicomm Media" },
+  { rank: 10, name: "Directed By", publisher: "Spotify Studios" },
+  { rank: 11, name: "Billions Club: The Series", publisher: "Spotify" },
+  { rank: 12, name: "Armchair Expert with Dax Shepard", publisher: "Armchair Umbrella" },
+  { rank: 13, name: "Matt and Shane’s Secret Podcast", publisher: "Matt McCusker & Shane Gillis" },
+  { rank: 14, name: "The Diary of a CEO with Steven Bartlett", publisher: "FlightStory" },
+  { rank: 15, name: "Bad Friends", publisher: "Bobby Lee & Andrew Santino" },
+  { rank: 16, name: "Candace", publisher: "Candace Owens" },
+  { rank: 17, name: "Morbid", publisher: "Ash Kelley & Alaina Urquhart" },
+  { rank: 18, name: "Pardon My Take", publisher: "Barstool Sports" },
+  { rank: 19, name: "NPR News Now", publisher: "NPR" },
+  { rank: 20, name: "The Journal.", publisher: "The Wall Street Journal" },
 ];
 
 
@@ -55,36 +56,37 @@ const APPLE_ROWS_FALLBACK = [
   { rank: 20, name: "48 Hours", publisher: "CBS News" },
 ];
 
-function PodcastChartsContent() {
-  const [primary, setPrimary] = useState("apple");
-  const [appleData, setAppleData] = useState({ items: [], date: "" });
+const GITHUB_RAW = "https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data";
+
+function usePodcastData(platform, fallback) {
+  const [data, setData] = useState({ items: [], date: "" });
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data/podcasts-apple.json", { cache: "no-store" })
+    fetch(`${GITHUB_RAW}/podcasts-${platform}.json`, { cache: "no-store" })
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
       })
-      .then((data) => {
-        setAppleData({
-          items: data.items || [],
-          date: data.date || "",
-        });
-      })
-      .catch(() => {
-        // Fall back to hardcoded data if JSON not yet generated
-        setAppleData({ items: APPLE_ROWS_FALLBACK, date: "Feb 4, 2026" });
-      });
-  }, []);
+      .then((json) => setData({ items: json.items || [], date: json.date || "" }))
+      .catch(() => setData({ items: fallback, date: "" }));
+  }, [platform]);
+
+  return data;
+}
+
+function PodcastChartsContent() {
+  const [primary, setPrimary] = useState("apple");
+  const appleData = usePodcastData("apple", APPLE_ROWS_FALLBACK);
+  const spotifyData = usePodcastData("spotify", SPOTIFY_ROWS_FALLBACK);
 
   const rows = useMemo(() => {
     const merged = new Map();
 
-    SPOTIFY_ROWS.forEach((row) => {
+    spotifyData.items.forEach((row) => {
       const key = NAME_ALIASES[row.name] || row.name;
       merged.set(key, {
         name: key,
-        platform: row.platform,
+        platform: row.publisher,
         appleRank: null,
         spotifyRank: row.rank,
       });
@@ -114,15 +116,13 @@ function PodcastChartsContent() {
     return Array.from(merged.values())
       .filter((row) => row[key] != null)
       .sort((a, b) => (a[key] ?? 999) - (b[key] ?? 999));
-  }, [primary, appleData]);
+  }, [primary, appleData, spotifyData]);
 
   const isApple = primary === "apple";
-
-  const updatedLabel = isApple && appleData.date
-    ? (appleData.date.includes("-")
-        ? new Date(appleData.date).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" })
-        : appleData.date)
-    : "Feb 4, 2026";
+  const activeDate = isApple ? appleData.date : spotifyData.date;
+  const updatedLabel = activeDate
+    ? new Date(activeDate).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" })
+    : "—";
 
   return (
     <section className="pc-page">
