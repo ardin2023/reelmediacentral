@@ -1,53 +1,53 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-30",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "name": "The Daily",
-      "publisher": "The New York Times"
-    },
-    {
-      "rank": 2,
       "name": "Crime Junkie",
       "publisher": "Audiochuck"
     },
     {
+      "rank": 2,
+      "name": "The Daily",
+      "publisher": "The New York Times"
+    },
+    {
       "rank": 3,
-      "name": "The Joe Rogan Experience",
-      "publisher": "Joe Rogan"
-    },
-    {
-      "rank": 4,
-      "name": "Call Her Daddy",
-      "publisher": "Alex Cooper"
-    },
-    {
-      "rank": 5,
       "name": "The Idiot",
       "publisher": "Serial Productions & The New York Times"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Dateline NBC",
       "publisher": "NBC News"
     },
     {
-      "rank": 7,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "rank": 5,
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Pod Save America",
       "publisher": "Pod Save America"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Good Hang with Amy Poehler",
       "publisher": "The Ringer"
+    },
+    {
+      "rank": 8,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 9,
+      "name": "Call Her Daddy",
+      "publisher": "Alex Cooper"
     },
     {
       "rank": 10,
@@ -56,53 +56,53 @@
     },
     {
       "rank": 11,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
+      "name": "20/20",
+      "publisher": "ABC News"
     },
     {
       "rank": 12,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
-    },
-    {
-      "rank": 13,
-      "name": "The Shawn Ryan Show",
-      "publisher": "Shawn Ryan"
-    },
-    {
-      "rank": 14,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
-    },
-    {
-      "rank": 15,
-      "name": "The Megyn Kelly Show",
-      "publisher": "SiriusXM"
-    },
-    {
-      "rank": 16,
       "name": "Serial",
       "publisher": "Serial Productions & The New York Times"
     },
     {
+      "rank": 13,
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
+    },
+    {
+      "rank": 14,
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
+    },
+    {
+      "rank": 15,
+      "name": "The MeidasTouch Podcast",
+      "publisher": "MeidasTouch Network"
+    },
+    {
+      "rank": 16,
+      "name": "The Ezra Klein Show",
+      "publisher": "New York Times Opinion"
+    },
+    {
       "rank": 17,
-      "name": "48 Hours",
-      "publisher": "CBS News"
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
     },
     {
       "rank": 18,
-      "name": "REAL AF with Andy Frisella",
-      "publisher": "Andy Frisella"
+      "name": "Mick Unplugged",
+      "publisher": "Realm"
     },
     {
       "rank": 19,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
+      "name": "This American Life",
+      "publisher": "This American Life"
     },
     {
       "rank": 20,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
+      "name": "The Shawn Ryan Show",
+      "publisher": "Shawn Ryan"
     }
   ]
 }
