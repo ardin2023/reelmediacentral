@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-30",
   "platform": "Spotify",
   "scope": "US",
   "source": "Spotify Podcast Charts",
@@ -16,18 +16,18 @@
     },
     {
       "rank": 3,
-      "name": "This Past Weekend w/ Theo Von",
-      "publisher": "Theo Von"
-    },
-    {
-      "rank": 4,
       "name": "Good Hang with Amy Poehler",
       "publisher": "The Ringer"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Crime Junkie",
       "publisher": "Audiochuck"
+    },
+    {
+      "rank": 5,
+      "name": "This Past Weekend w/ Theo Von",
+      "publisher": "Theo Von"
     },
     {
       "rank": 6,
