@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-04-06",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "name": "Crime Junkie",
-      "publisher": "Audiochuck"
+      "name": "The Daily",
+      "publisher": "The New York Times"
     },
     {
       "rank": 2,
-      "name": "The Daily",
-      "publisher": "The New York Times"
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
     },
     {
       "rank": 3,
@@ -21,13 +21,13 @@
     },
     {
       "rank": 4,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
     },
     {
       "rank": 5,
-      "name": "The Joe Rogan Experience",
-      "publisher": "Joe Rogan"
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
     },
     {
       "rank": 6,
@@ -46,63 +46,63 @@
     },
     {
       "rank": 9,
-      "name": "Call Her Daddy",
-      "publisher": "Alex Cooper"
-    },
-    {
-      "rank": 10,
       "name": "Love Trapped",
       "publisher": "iHeartPodcasts and Glass Podcasts"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "20/20",
       "publisher": "ABC News"
     },
     {
-      "rank": 12,
-      "name": "Serial",
-      "publisher": "Serial Productions & The New York Times"
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "name": "The Rest Is History",
       "publisher": "Goalhanger"
     },
     {
-      "rank": 15,
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network"
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "name": "The Ezra Klein Show",
       "publisher": "New York Times Opinion"
     },
     {
-      "rank": 17,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
+      "rank": 14,
+      "name": "The MeidasTouch Podcast",
+      "publisher": "MeidasTouch Network"
     },
     {
-      "rank": 18,
+      "rank": 15,
       "name": "Mick Unplugged",
       "publisher": "Realm"
     },
     {
+      "rank": 16,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 17,
+      "name": "The Mel Robbins Podcast",
+      "publisher": "Mel Robbins"
+    },
+    {
+      "rank": 18,
+      "name": "The Shawn Ryan Show",
+      "publisher": "Shawn Ryan"
+    },
+    {
       "rank": 19,
-      "name": "This American Life",
-      "publisher": "This American Life"
+      "name": "Giggly Squad",
+      "publisher": "Hannah Berner & Paige DeSorbo"
     },
     {
       "rank": 20,
-      "name": "The Shawn Ryan Show",
-      "publisher": "Shawn Ryan"
+      "name": "Serial",
+      "publisher": "Serial Productions & The New York Times"
     }
   ]
 }
