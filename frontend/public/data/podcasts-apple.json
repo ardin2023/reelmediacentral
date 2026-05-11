@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-11",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -41,68 +41,68 @@
     },
     {
       "rank": 8,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 9,
-      "name": "Blood and Water",
-      "publisher": "ABC News"
-    },
-    {
-      "rank": 10,
-      "name": "Digital Social Hour",
-      "publisher": "Sean Kelly"
-    },
-    {
-      "rank": 11,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
-    },
-    {
-      "rank": 12,
-      "name": "Huberman Lab",
-      "publisher": "Scicomm Media"
-    },
-    {
-      "rank": 13,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 14,
-      "name": "20/20",
-      "publisher": "ABC News"
-    },
-    {
-      "rank": 15,
-      "name": "REAL AF with Andy Frisella",
-      "publisher": "Andy Frisella"
-    },
-    {
-      "rank": 16,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
-      "rank": 17,
-      "name": "The Bill Simmons Podcast",
+      "rank": 9,
+      "name": "20/20",
+      "publisher": "ABC News"
+    },
+    {
+      "rank": 10,
+      "name": "Good Hang with Amy Poehler",
       "publisher": "The Ringer"
     },
     {
-      "rank": 18,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
+      "rank": 11,
+      "name": "SmartLess",
+      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
     },
     {
-      "rank": 19,
+      "rank": 12,
       "name": "This American Life",
       "publisher": "This American Life"
     },
     {
+      "rank": 13,
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
+    },
+    {
+      "rank": 14,
+      "name": "Digital Social Hour",
+      "publisher": "Sean Kelly"
+    },
+    {
+      "rank": 15,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 16,
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
+    },
+    {
+      "rank": 17,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 18,
+      "name": "The Ezra Klein Show",
+      "publisher": "New York Times Opinion"
+    },
+    {
+      "rank": 19,
+      "name": "REAL AF with Andy Frisella",
+      "publisher": "Andy Frisella"
+    },
+    {
       "rank": 20,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
+      "name": "48 Hours",
+      "publisher": "CBS News"
     }
   ]
 }
