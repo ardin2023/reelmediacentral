@@ -3,11 +3,13 @@ import { useEffect, useState } from "react";
 import App from "../App.jsx";
 import "../music-charts.css";
 
+const RAW_BASE = "https://raw.githubusercontent.com/ardin2023/reelmediacentral/main/frontend/public/data";
+
 const SOURCES = [
-  { id: "spotify-global", label: "Spotify (Global)", file: "/data/music-charts-global.json", enabled: true },
-  { id: "itunes", label: "iTunes (Coming soon)", file: "/data/music-charts-itunes.json", enabled: false },
-  { id: "applemusic", label: "Apple Music (US)", file: "/data/music-charts-applemusic.json", enabled: true },
-  { id: "amazonmusic", label: "Amazon Music (Coming soon)", file: "/data/music-charts-amazonmusic.json", enabled: false },
+  { id: "spotify-global", label: "Spotify (Global)", file: `${RAW_BASE}/music-charts-global.json`, enabled: true },
+  { id: "itunes", label: "iTunes (Coming soon)", file: null, enabled: false },
+  { id: "applemusic", label: "Apple Music (US)", file: `${RAW_BASE}/music-charts-applemusic.json`, enabled: true },
+  { id: "amazonmusic", label: "Amazon Music (Coming soon)", file: null, enabled: false },
 ];
 
 function splitArtistTrack(s) {
