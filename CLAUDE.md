@@ -249,6 +249,11 @@ Both `appleData` and `spotifyData` are loaded in parallel on mount. The merge lo
 - automate Spotify podcast charts (done)
 - optional shared chart component/logic for similar data shapes
 
+## pending tasks
+
+- **Podcast Charts auto-update broken**: Both `podcasts-spotify.json` and `podcasts-apple.json` are stuck on 2026-03-28. GitHub Actions workflows exist but appear to have stopped committing — likely the external API is returning unchanged data so `git diff` skips the commit. Needs investigation: check Actions logs on GitHub, verify the Spotify/Apple endpoints are returning fresh data each week.
+- **Music Charts not automated**: `music-charts-global.json` (Spotify) and `music-charts-applemusic.json` are stuck on 2026-03-02. Fetch scripts exist (`fetchSpotifyCharts.py`, `fetchAppleMusicCharts.py`) but there are no GitHub Actions workflows for them. Need to create workflows similar to the podcast ones.
+
 ## new section candidates
 
 - Streaming Hits (done): weekly top shows, route `/streaming`, existing table+dropdown pattern.

@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 URL = "https://rss.applemarketingtools.com/api/v2/us/music/most-played/40/songs.json"
-OUTPUT_FILE = Path("../public/data/music-charts-applemusic.json")
+OUTPUT_FILE = Path(__file__).parent.parent / "public/data/music-charts-applemusic.json"
 
 def main():
     r = requests.get(URL, timeout=15)

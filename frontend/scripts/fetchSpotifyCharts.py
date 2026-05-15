@@ -11,7 +11,7 @@ try:
 except ImportError:
     BeautifulSoup = None
 
-OUTPUT_FILE = Path("../public/data/music-charts-global.json")
+OUTPUT_FILE = Path(__file__).parent.parent / "public/data/music-charts-global.json"
 
 SPOTIFY_CSV_URL = "https://spotifycharts.com/regional/global/daily/latest/download"
 KWORB_URL = "https://kworb.net/spotify/country/global_daily.html"
