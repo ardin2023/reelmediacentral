@@ -249,6 +249,11 @@ Both `appleData` and `spotifyData` are loaded in parallel on mount. The merge lo
 - automate Spotify podcast charts (done)
 - optional shared chart component/logic for similar data shapes
 
+## hidden sections (fake data — restore when real data source connected)
+- **Streaming Hits** (`/streaming`) — hidden from nav, fake placeholder data
+- **Book Sellers** (`/book-sellers`) — hidden from nav, fake placeholder data
+- **Social Buzz** (`/social-buzz`) — hidden from nav, fake placeholder data
+
 ## pending tasks
 
 - **Podcast Charts auto-update broken**: Both `podcasts-spotify.json` and `podcasts-apple.json` are stuck on 2026-03-28. GitHub Actions workflows exist but appear to have stopped committing — likely the external API is returning unchanged data so `git diff` skips the commit. Needs investigation: check Actions logs on GitHub, verify the Spotify/Apple endpoints are returning fresh data each week.

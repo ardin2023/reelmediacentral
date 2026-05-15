@@ -12,15 +12,17 @@ export default function App({ page }) {
       <div className="app-shell">
 
         {/* HEADER BANNER */}
-        <header className="topbar">
-          <span style={{ fontFamily: "Superclarendon, serif", fontSize: "28px", textAlign: "left" }}>
-            <span style={{ color: "#c9a84c" }}>R</span>eel<span style={{ color: "#c9a84c" }}>M</span>edia<span style={{ color: "#c9a84c" }}>C</span>entral
-          </span>
-        </header>
+        <div className="site-header">
+          <header className="topbar">
+            <span style={{ fontFamily: "Superclarendon, serif", fontSize: "28px", textAlign: "left" }}>
+              <span style={{ color: "#c9a84c" }}>R</span>eel<span style={{ color: "#c9a84c" }}>M</span>edia<span style={{ color: "#c9a84c" }}>C</span>entral
+            </span>
+          </header>
+          <button className="nav-hamburger" onClick={() => setNavOpen(v => !v)}>☰</button>
+        </div>
 
         {/* NAVIGATION */}
         <nav className={`nav-card${navOpen ? " nav-open" : ""}`}>
-          <button className="nav-hamburger" onClick={() => setNavOpen(v => !v)}>☰</button>
           <div className="nav-left">
             <Link
               className={`nav-btn ${location.pathname === "/" ? "active" : ""}`}
@@ -57,26 +59,6 @@ export default function App({ page }) {
               Podcast Charts
             </Link>
 
-            <Link
-              className={`nav-btn ${location.pathname === "/streaming" ? "active" : ""}`}
-              to="/streaming"
-            >
-              Streaming Hits
-            </Link>
-
-            <Link
-              className={`nav-btn ${location.pathname === "/book-sellers" ? "active" : ""}`}
-              to="/book-sellers"
-            >
-              Book Sellers
-            </Link>
-
-            <Link
-              className={`nav-btn ${location.pathname === "/social-buzz" ? "active" : ""}`}
-              to="/social-buzz"
-            >
-              Social Buzz
-            </Link>
           </div>
 
           <div className="nav-right">

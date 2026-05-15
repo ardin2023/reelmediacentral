@@ -35,19 +35,6 @@ export default function TopNav() {
           Podcast Charts
         </Link>
 
-        <Link
-          className={`nav-btn ${location.pathname === "/streaming" ? "active" : ""}`}
-          to="/streaming"
-        >
-          Streaming Hits
-        </Link>
-
-        <Link
-          className={`nav-btn ${location.pathname === "/social-buzz" ? "active" : ""}`}
-          to="/social-buzz"
-        >
-          Social Buzz
-        </Link>
       </div>
 
       <div className="nav-right">
