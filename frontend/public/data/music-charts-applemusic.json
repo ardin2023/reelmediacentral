@@ -1,208 +1,208 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-05-18",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "track": "Risk It All",
-      "artist": "Bruno Mars"
+      "track": "Janice STFU",
+      "artist": "Drake"
     },
     {
       "rank": 2,
+      "track": "Ran To Atlanta",
+      "artist": "Drake, Future & Molly Santana"
+    },
+    {
+      "rank": 3,
+      "track": "Whisper My Name",
+      "artist": "Drake"
+    },
+    {
+      "rank": 4,
+      "track": "Shabang",
+      "artist": "Drake"
+    },
+    {
+      "rank": 5,
+      "track": "Make Them Cry",
+      "artist": "Drake"
+    },
+    {
+      "rank": 6,
+      "track": "National Treasures",
+      "artist": "Drake"
+    },
+    {
+      "rank": 7,
+      "track": "Dust",
+      "artist": "Drake"
+    },
+    {
+      "rank": 8,
+      "track": "Make Them Pay",
+      "artist": "Drake"
+    },
+    {
+      "rank": 9,
+      "track": "2 Hard 4 The Radio",
+      "artist": "Drake"
+    },
+    {
+      "rank": 10,
+      "track": "Plot Twist",
+      "artist": "Drake"
+    },
+    {
+      "rank": 11,
+      "track": "Burning Bridges",
+      "artist": "Drake"
+    },
+    {
+      "rank": 12,
+      "track": "B’s On The Table",
+      "artist": "Drake & 21 Savage"
+    },
+    {
+      "rank": 13,
+      "track": "Make Them Remember",
+      "artist": "Drake"
+    },
+    {
+      "rank": 14,
+      "track": "Little Birdie",
+      "artist": "Drake"
+    },
+    {
+      "rank": 15,
+      "track": "What Did I Miss?",
+      "artist": "Drake"
+    },
+    {
+      "rank": 16,
+      "track": "Make Them Know",
+      "artist": "Drake"
+    },
+    {
+      "rank": 17,
+      "track": "Don’t Worry",
+      "artist": "Drake"
+    },
+    {
+      "rank": 18,
+      "track": "Hoe Phase",
+      "artist": "Drake"
+    },
+    {
+      "rank": 19,
+      "track": "Firm Friends",
+      "artist": "Drake"
+    },
+    {
+      "rank": 20,
+      "track": "WNBA",
+      "artist": "Drake"
+    },
+    {
+      "rank": 21,
+      "track": "I’m Spent",
+      "artist": "Drake & Loe Shimmy"
+    },
+    {
+      "rank": 22,
       "track": "Choosin' Texas",
       "artist": "Ella Langley"
     },
     {
-      "rank": 3,
-      "track": "I Just Might",
-      "artist": "Bruno Mars"
+      "rank": 23,
+      "track": "Classic",
+      "artist": "Drake"
     },
     {
-      "rank": 4,
-      "track": "E85",
-      "artist": "Don Toliver"
+      "rank": 24,
+      "track": "Fortworth",
+      "artist": "Drake & PARTYNEXTDOOR"
     },
     {
-      "rank": 5,
-      "track": "DtMF",
-      "artist": "Bad Bunny"
+      "rank": 25,
+      "track": "Slap The City",
+      "artist": "Drake & Qendresa"
     },
     {
-      "rank": 6,
-      "track": "Man I Need",
-      "artist": "Olivia Dean"
+      "rank": 26,
+      "track": "High Fives",
+      "artist": "Drake"
     },
     {
-      "rank": 7,
+      "rank": 27,
+      "track": "Road Trips",
+      "artist": "Drake"
+    },
+    {
+      "rank": 28,
+      "track": "Cheetah Print",
+      "artist": "Drake & Sexyy Red"
+    },
+    {
+      "rank": 29,
+      "track": "Gen 5",
+      "artist": "Drake"
+    },
+    {
+      "rank": 30,
+      "track": "White Bone",
+      "artist": "Drake"
+    },
+    {
+      "rank": 31,
+      "track": "Hurrr Nor Thurrr",
+      "artist": "Drake & Sexyy Red"
+    },
+    {
+      "rank": 32,
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
+    },
+    {
+      "rank": 33,
       "track": "Be Her",
       "artist": "Ella Langley"
     },
     {
-      "rank": 8,
-      "track": "BAILE INoLVIDABLE",
-      "artist": "Bad Bunny"
-    },
-    {
-      "rank": 9,
-      "track": "Stateside (with Zara Larsson)",
-      "artist": "PinkPantheress"
-    },
-    {
-      "rank": 10,
-      "track": "Body",
-      "artist": "Don Toliver"
-    },
-    {
-      "rank": 11,
-      "track": "Cha Cha Cha",
-      "artist": "Bruno Mars"
-    },
-    {
-      "rank": 12,
-      "track": "Be By You",
-      "artist": "Luke Combs"
-    },
-    {
-      "rank": 13,
-      "track": "Why You Wanna Fight?",
-      "artist": "Bruno Mars"
-    },
-    {
-      "rank": 14,
-      "track": "God Was Showing Off",
-      "artist": "Bruno Mars"
-    },
-    {
-      "rank": 15,
-      "track": "Ordinary",
-      "artist": "Alex Warren"
-    },
-    {
-      "rank": 16,
-      "track": "Good Days",
-      "artist": "SZA"
-    },
-    {
-      "rank": 17,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 18,
-      "track": "Tití Me Preguntó",
-      "artist": "Bad Bunny"
-    },
-    {
-      "rank": 19,
-      "track": "In A Minute",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 20,
-      "track": "FDO",
-      "artist": "Pooh Shiesty"
-    },
-    {
-      "rank": 21,
-      "track": "What I Want",
-      "artist": "Morgan Wallen & Tate McRae"
-    },
-    {
-      "rank": 22,
-      "track": "I'm The Problem",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 23,
-      "track": "So Easy (To Fall In Love)",
-      "artist": "Olivia Dean"
-    },
-    {
-      "rank": 24,
-      "track": "What You Saying",
-      "artist": "Lil Uzi Vert"
-    },
-    {
-      "rank": 25,
-      "track": "On My Soul",
-      "artist": "Bruno Mars"
-    },
-    {
-      "rank": 26,
-      "track": "Folded",
-      "artist": "Kehlani"
-    },
-    {
-      "rank": 27,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
-    },
-    {
-      "rank": 28,
-      "track": "Golden",
-      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast"
-    },
-    {
-      "rank": 29,
-      "track": "Die On This Hill",
-      "artist": "SIENNA SPIRO"
-    },
-    {
-      "rank": 30,
-      "track": "Dance With Me",
-      "artist": "Bruno Mars"
-    },
-    {
-      "rank": 31,
-      "track": "iloveitiloveitiloveit",
-      "artist": "Bella Kay"
-    },
-    {
-      "rank": 32,
-      "track": "Chasin' You",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 33,
-      "track": "March Madness",
-      "artist": "Future"
-    },
-    {
       "rank": 34,
-      "track": "The Fate of Ophelia",
-      "artist": "Taylor Swift"
+      "track": "Billie Jean",
+      "artist": "Michael Jackson"
     },
     {
       "rank": 35,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "artist": "Future"
+      "track": "Outside Tweaking",
+      "artist": "Drake & Stunna Sandy"
     },
     {
       "rank": 36,
-      "track": "Just In Case",
-      "artist": "Morgan Wallen"
+      "track": "Human Nature",
+      "artist": "Michael Jackson"
     },
     {
       "rank": 37,
-      "track": "NUEVAYoL",
-      "artist": "Bad Bunny"
+      "track": "True Bestie",
+      "artist": "Drake & Iconic Savvy"
     },
     {
       "rank": 38,
-      "track": "Last Night",
+      "track": "20 Cigarettes",
       "artist": "Morgan Wallen"
     },
     {
       "rank": 39,
-      "track": "Vete",
-      "artist": "Bad Bunny"
+      "track": "Prioritizing",
+      "artist": "Drake"
     },
     {
       "rank": 40,
-      "track": "Frozen",
-      "artist": "Lil Baby"
+      "track": "Amazing Shape",
+      "artist": "Drake & Popcaan"
     }
   ]
 }
