@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-25",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -11,52 +11,52 @@
     },
     {
       "rank": 2,
-      "track": "Ran To Atlanta",
-      "artist": "Drake, Future & Molly Santana"
-    },
-    {
-      "rank": 3,
-      "track": "Whisper My Name",
-      "artist": "Drake"
-    },
-    {
-      "rank": 4,
       "track": "Shabang",
       "artist": "Drake"
     },
     {
-      "rank": 5,
-      "track": "Make Them Cry",
+      "rank": 3,
+      "track": "Ran To Atlanta",
+      "artist": "Drake, Future & Molly Santana"
+    },
+    {
+      "rank": 4,
+      "track": "Whisper My Name",
       "artist": "Drake"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track": "National Treasures",
       "artist": "Drake"
     },
     {
-      "rank": 7,
-      "track": "Dust",
-      "artist": "Drake"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "track": "Make Them Pay",
       "artist": "Drake"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track": "2 Hard 4 The Radio",
       "artist": "Drake"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "track": "Choosin' Texas",
+      "artist": "Ella Langley"
+    },
+    {
+      "rank": 9,
       "track": "Plot Twist",
       "artist": "Drake"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "track": "Burning Bridges",
+      "artist": "Drake"
+    },
+    {
+      "rank": 11,
+      "track": "Dust",
       "artist": "Drake"
     },
     {
@@ -66,143 +66,143 @@
     },
     {
       "rank": 13,
-      "track": "Make Them Remember",
+      "track": "Make Them Cry",
       "artist": "Drake"
     },
     {
       "rank": 14,
-      "track": "Little Birdie",
-      "artist": "Drake"
-    },
-    {
-      "rank": 15,
-      "track": "What Did I Miss?",
-      "artist": "Drake"
-    },
-    {
-      "rank": 16,
-      "track": "Make Them Know",
-      "artist": "Drake"
-    },
-    {
-      "rank": 17,
-      "track": "Don’t Worry",
-      "artist": "Drake"
-    },
-    {
-      "rank": 18,
-      "track": "Hoe Phase",
-      "artist": "Drake"
-    },
-    {
-      "rank": 19,
-      "track": "Firm Friends",
-      "artist": "Drake"
-    },
-    {
-      "rank": 20,
-      "track": "WNBA",
-      "artist": "Drake"
-    },
-    {
-      "rank": 21,
       "track": "I’m Spent",
       "artist": "Drake & Loe Shimmy"
     },
     {
-      "rank": 22,
-      "track": "Choosin' Texas",
-      "artist": "Ella Langley"
+      "rank": 15,
+      "track": "Little Birdie",
+      "artist": "Drake"
     },
     {
-      "rank": 23,
+      "rank": 16,
+      "track": "What Did I Miss?",
+      "artist": "Drake"
+    },
+    {
+      "rank": 17,
+      "track": "Make Them Remember",
+      "artist": "Drake"
+    },
+    {
+      "rank": 18,
+      "track": "Don’t Worry",
+      "artist": "Drake"
+    },
+    {
+      "rank": 19,
       "track": "Classic",
       "artist": "Drake"
     },
     {
-      "rank": 24,
-      "track": "Fortworth",
-      "artist": "Drake & PARTYNEXTDOOR"
-    },
-    {
-      "rank": 25,
-      "track": "Slap The City",
-      "artist": "Drake & Qendresa"
-    },
-    {
-      "rank": 26,
-      "track": "High Fives",
-      "artist": "Drake"
-    },
-    {
-      "rank": 27,
-      "track": "Road Trips",
-      "artist": "Drake"
-    },
-    {
-      "rank": 28,
-      "track": "Cheetah Print",
-      "artist": "Drake & Sexyy Red"
-    },
-    {
-      "rank": 29,
-      "track": "Gen 5",
-      "artist": "Drake"
-    },
-    {
-      "rank": 30,
-      "track": "White Bone",
-      "artist": "Drake"
-    },
-    {
-      "rank": 31,
-      "track": "Hurrr Nor Thurrr",
-      "artist": "Drake & Sexyy Red"
-    },
-    {
-      "rank": 32,
-      "track": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen"
-    },
-    {
-      "rank": 33,
+      "rank": 20,
       "track": "Be Her",
       "artist": "Ella Langley"
     },
     {
-      "rank": 34,
+      "rank": 21,
+      "track": "WNBA",
+      "artist": "Drake"
+    },
+    {
+      "rank": 22,
+      "track": "the cure",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 23,
+      "track": "Make Them Know",
+      "artist": "Drake"
+    },
+    {
+      "rank": 24,
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
+    },
+    {
+      "rank": 25,
+      "track": "Spend Dat",
+      "artist": "Yung Miami"
+    },
+    {
+      "rank": 26,
       "track": "Billie Jean",
       "artist": "Michael Jackson"
     },
     {
-      "rank": 35,
-      "track": "Outside Tweaking",
-      "artist": "Drake & Stunna Sandy"
+      "rank": 27,
+      "track": "Firm Friends",
+      "artist": "Drake"
     },
     {
-      "rank": 36,
+      "rank": 28,
+      "track": "Hoe Phase",
+      "artist": "Drake"
+    },
+    {
+      "rank": 29,
+      "track": "Fortworth",
+      "artist": "Drake & PARTYNEXTDOOR"
+    },
+    {
+      "rank": 30,
       "track": "Human Nature",
       "artist": "Michael Jackson"
     },
     {
-      "rank": 37,
-      "track": "True Bestie",
-      "artist": "Drake & Iconic Savvy"
+      "rank": 31,
+      "track": "Slap The City",
+      "artist": "Drake & Qendresa"
     },
     {
-      "rank": 38,
+      "rank": 32,
       "track": "20 Cigarettes",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 39,
-      "track": "Prioritizing",
+      "rank": 33,
+      "track": "Chicago",
+      "artist": "Michael Jackson"
+    },
+    {
+      "rank": 34,
+      "track": "White Bone",
       "artist": "Drake"
     },
     {
+      "rank": 35,
+      "track": "High Fives",
+      "artist": "Drake"
+    },
+    {
+      "rank": 36,
+      "track": "Gen 5",
+      "artist": "Drake"
+    },
+    {
+      "rank": 37,
+      "track": "I'm The Problem",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 38,
+      "track": "Freestyle",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 39,
+      "track": "E85",
+      "artist": "Don Toliver"
+    },
+    {
       "rank": 40,
-      "track": "Amazing Shape",
-      "artist": "Drake & Popcaan"
+      "track": "Beat It",
+      "artist": "Michael Jackson"
     }
   ]
 }
