@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-06-01",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
@@ -8,140 +8,140 @@
       "rank": 1,
       "track": "+1",
       "artist": "Michael Jackson - Billie Jean",
-      "streams": 426,
+      "streams": 433,
       "url": null
     },
     {
       "rank": 2,
-      "track": "+1",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 86,
-      "url": null
-    },
-    {
-      "rank": 3,
-      "track": "-2",
-      "artist": "Olivia Rodrigo - the cure",
+      "track": "-1",
+      "artist": "Ariana Grande - hate that i made you love me",
       "streams": 2,
       "url": null
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track": "=",
-      "artist": "Drake - Janice STFU",
-      "streams": 9,
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 93,
+      "url": null
+    },
+    {
+      "rank": 4,
+      "track": "+1",
+      "artist": "BTS - SWIM",
+      "streams": 72,
       "url": null
     },
     {
       "rank": 5,
-      "track": "=",
-      "artist": "BTS - SWIM",
-      "streams": 65,
+      "track": "+1",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 189,
       "url": null
     },
     {
       "rank": 6,
-      "track": "+1",
-      "artist": "Michael Jackson - Beat It",
-      "streams": 51,
-      "url": null
-    },
-    {
-      "rank": 7,
-      "track": "-1",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 182,
-      "url": null
-    },
-    {
-      "rank": 8,
-      "track": "=",
-      "artist": "Olivia Rodrigo - drop dead",
-      "streams": 37,
-      "url": null
-    },
-    {
-      "rank": 9,
-      "track": "+4",
-      "artist": "Michael Jackson - Don't Stop 'Til You Get Enough - Single Version",
-      "streams": 30,
-      "url": null
-    },
-    {
-      "rank": 10,
-      "track": "+1",
-      "artist": "Michael Jackson - Human Nature",
-      "streams": 28,
-      "url": null
-    },
-    {
-      "rank": 11,
-      "track": "-1",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 55,
-      "url": null
-    },
-    {
-      "rank": 12,
-      "track": "=",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 66,
-      "url": null
-    },
-    {
-      "rank": 13,
-      "track": "-4",
-      "artist": "Drake - National Treasures",
+      "track": "-2",
+      "artist": "Olivia Rodrigo - the cure",
       "streams": 9,
       "url": null
     },
     {
-      "rank": 14,
+      "rank": 7,
+      "track": "+1",
+      "artist": "Michael Jackson - Beat It",
+      "streams": 58,
+      "url": null
+    },
+    {
+      "rank": 8,
+      "track": "-1",
+      "artist": "Drake - Janice STFU",
+      "streams": 16,
+      "url": null
+    },
+    {
+      "rank": 9,
+      "track": "+1",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 62,
+      "url": null
+    },
+    {
+      "rank": 10,
+      "track": "-1",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 73,
+      "url": null
+    },
+    {
+      "rank": 11,
+      "track": "+1",
+      "artist": "Bad Bunny - DtMF",
+      "streams": 511,
+      "url": null
+    },
+    {
+      "rank": 12,
+      "track": "+4",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 150,
+      "url": null
+    },
+    {
+      "rank": 13,
       "track": "=",
       "artist": "sombr - back to friends",
-      "streams": 432,
+      "streams": 439,
+      "url": null
+    },
+    {
+      "rank": 14,
+      "track": "-3",
+      "artist": "Olivia Rodrigo - drop dead",
+      "streams": 44,
       "url": null
     },
     {
       "rank": 15,
-      "track": "+2",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 277,
+      "track": "-1",
+      "artist": "Michael Jackson - Chicago",
+      "streams": 35,
       "url": null
     },
     {
       "rank": 16,
-      "track": "+2",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 143,
+      "track": "+1",
+      "artist": "Michael Jackson - Human Nature",
+      "streams": 35,
       "url": null
     },
     {
       "rank": 17,
-      "track": "+15",
-      "artist": "Zara Larsson - Lush Life",
-      "streams": 824,
+      "track": "+4",
+      "artist": "Michael Jackson - Don't Stop 'Til You Get Enough - Single Version",
+      "streams": 37,
       "url": null
     },
     {
       "rank": 18,
-      "track": "+2",
+      "track": "-3",
       "artist": "Djo - End of Beginning",
-      "streams": 827,
+      "streams": 834,
       "url": null
     },
     {
       "rank": 19,
-      "track": "+7",
-      "artist": "Bad Bunny - DtMF",
-      "streams": 504,
+      "track": "+1",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 284,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-1",
-      "artist": "Tame Impala - Dracula - JENNIE Remix (w/ JENNIE )",
-      "streams": 99,
+      "track": "+2",
+      "artist": "Bruno Mars - Risk It All",
+      "streams": 93,
       "url": null
     }
   ]
