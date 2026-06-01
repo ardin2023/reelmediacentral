@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-06-01",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -26,12 +26,12 @@
     },
     {
       "rank": 5,
-      "track": "National Treasures",
-      "artist": "Drake"
+      "track": "Choosin' Texas",
+      "artist": "Ella Langley"
     },
     {
       "rank": 6,
-      "track": "Make Them Pay",
+      "track": "National Treasures",
       "artist": "Drake"
     },
     {
@@ -41,8 +41,8 @@
     },
     {
       "rank": 8,
-      "track": "Choosin' Texas",
-      "artist": "Ella Langley"
+      "track": "Make Them Pay",
+      "artist": "Drake"
     },
     {
       "rank": 9,
@@ -51,12 +51,12 @@
     },
     {
       "rank": 10,
-      "track": "Burning Bridges",
-      "artist": "Drake"
+      "track": "hate that i made you love me",
+      "artist": "Ariana Grande"
     },
     {
       "rank": 11,
-      "track": "Dust",
+      "track": "Burning Bridges",
       "artist": "Drake"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rank": 13,
-      "track": "Make Them Cry",
+      "track": "Dust",
       "artist": "Drake"
     },
     {
@@ -76,8 +76,8 @@
     },
     {
       "rank": 15,
-      "track": "Little Birdie",
-      "artist": "Drake"
+      "track": "Be Her",
+      "artist": "Ella Langley"
     },
     {
       "rank": 16,
@@ -86,123 +86,123 @@
     },
     {
       "rank": 17,
-      "track": "Make Them Remember",
-      "artist": "Drake"
-    },
-    {
-      "rank": 18,
-      "track": "Don’t Worry",
-      "artist": "Drake"
-    },
-    {
-      "rank": 19,
-      "track": "Classic",
-      "artist": "Drake"
-    },
-    {
-      "rank": 20,
-      "track": "Be Her",
-      "artist": "Ella Langley"
-    },
-    {
-      "rank": 21,
-      "track": "WNBA",
-      "artist": "Drake"
-    },
-    {
-      "rank": 22,
-      "track": "the cure",
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "rank": 23,
-      "track": "Make Them Know",
-      "artist": "Drake"
-    },
-    {
-      "rank": 24,
       "track": "I Can't Love You Anymore",
       "artist": "Ella Langley & Morgan Wallen"
     },
     {
-      "rank": 25,
+      "rank": 18,
+      "track": "Make Them Cry",
+      "artist": "Drake"
+    },
+    {
+      "rank": 19,
       "track": "Spend Dat",
       "artist": "Yung Miami"
     },
     {
-      "rank": 26,
+      "rank": 20,
+      "track": "Little Birdie",
+      "artist": "Drake"
+    },
+    {
+      "rank": 21,
+      "track": "Don’t Worry",
+      "artist": "Drake"
+    },
+    {
+      "rank": 22,
+      "track": "WNBA",
+      "artist": "Drake"
+    },
+    {
+      "rank": 23,
+      "track": "Classic",
+      "artist": "Drake"
+    },
+    {
+      "rank": 24,
+      "track": "Make Them Remember",
+      "artist": "Drake"
+    },
+    {
+      "rank": 25,
       "track": "Billie Jean",
       "artist": "Michael Jackson"
     },
     {
-      "rank": 27,
-      "track": "Firm Friends",
-      "artist": "Drake"
-    },
-    {
-      "rank": 28,
-      "track": "Hoe Phase",
-      "artist": "Drake"
-    },
-    {
-      "rank": 29,
-      "track": "Fortworth",
-      "artist": "Drake & PARTYNEXTDOOR"
-    },
-    {
-      "rank": 30,
-      "track": "Human Nature",
-      "artist": "Michael Jackson"
-    },
-    {
-      "rank": 31,
-      "track": "Slap The City",
-      "artist": "Drake & Qendresa"
-    },
-    {
-      "rank": 32,
+      "rank": 26,
       "track": "20 Cigarettes",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 33,
+      "rank": 27,
+      "track": "Make Them Know",
+      "artist": "Drake"
+    },
+    {
+      "rank": 28,
+      "track": "Human Nature",
+      "artist": "Michael Jackson"
+    },
+    {
+      "rank": 29,
       "track": "Chicago",
       "artist": "Michael Jackson"
     },
     {
-      "rank": 34,
-      "track": "White Bone",
-      "artist": "Drake"
+      "rank": 30,
+      "track": "the cure",
+      "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 35,
-      "track": "High Fives",
-      "artist": "Drake"
-    },
-    {
-      "rank": 36,
-      "track": "Gen 5",
-      "artist": "Drake"
-    },
-    {
-      "rank": 37,
+      "rank": 31,
       "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 38,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
+      "rank": 32,
+      "track": "Fortworth",
+      "artist": "Drake & PARTYNEXTDOOR"
     },
     {
-      "rank": 39,
+      "rank": 33,
+      "track": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller"
+    },
+    {
+      "rank": 34,
+      "track": "Firm Friends",
+      "artist": "Drake"
+    },
+    {
+      "rank": 35,
+      "track": "Slap The City",
+      "artist": "Drake & Qendresa"
+    },
+    {
+      "rank": 36,
+      "track": "Man I Need",
+      "artist": "Olivia Dean"
+    },
+    {
+      "rank": 37,
       "track": "E85",
       "artist": "Don Toliver"
     },
     {
+      "rank": 38,
+      "track": "Boston",
+      "artist": "STELLA LEFTY"
+    },
+    {
+      "rank": 39,
+      "track": "Hoe Phase",
+      "artist": "Drake"
+    },
+    {
       "rank": 40,
-      "track": "Beat It",
-      "artist": "Michael Jackson"
+      "track": "Last Night",
+      "artist": "Morgan Wallen"
     }
   ]
 }
