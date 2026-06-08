@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-08",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -16,93 +16,93 @@
     },
     {
       "rank": 3,
-      "name": "CounterClock",
-      "publisher": "Audiochuck"
-    },
-    {
-      "rank": 4,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
-    },
-    {
-      "rank": 5,
       "name": "The Joe Rogan Experience",
       "publisher": "Joe Rogan"
     },
     {
-      "rank": 6,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 7,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
-    },
-    {
-      "rank": 8,
-      "name": "Love Trapped",
-      "publisher": "iHeartPodcasts and Glass Podcasts"
-    },
-    {
-      "rank": 9,
-      "name": "20/20",
-      "publisher": "ABC News"
-    },
-    {
-      "rank": 10,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
-    },
-    {
-      "rank": 11,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
-    },
-    {
-      "rank": 12,
-      "name": "This American Life",
-      "publisher": "This American Life"
-    },
-    {
-      "rank": 13,
+      "rank": 4,
       "name": "Mick Unplugged",
       "publisher": "Realm"
     },
     {
-      "rank": 14,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "rank": 5,
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
     },
     {
-      "rank": 15,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
+      "rank": 6,
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
-      "rank": 16,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
+      "rank": 7,
+      "name": "CounterClock",
+      "publisher": "Audiochuck"
     },
     {
-      "rank": 17,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
-    },
-    {
-      "rank": 18,
-      "name": "48 Hours",
-      "publisher": "CBS News"
-    },
-    {
-      "rank": 19,
+      "rank": 8,
       "name": "Digital Social Hour",
       "publisher": "Sean Kelly"
     },
     {
+      "rank": 9,
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
+    },
+    {
+      "rank": 10,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 11,
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
+    },
+    {
+      "rank": 12,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
+      "rank": 13,
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
+    },
+    {
+      "rank": 14,
+      "name": "20/20",
+      "publisher": "ABC News"
+    },
+    {
+      "rank": 15,
+      "name": "This American Life",
+      "publisher": "This American Life"
+    },
+    {
+      "rank": 16,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 17,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 18,
+      "name": "Proven Podcast",
+      "publisher": "Charles Schwartz"
+    },
+    {
+      "rank": 19,
+      "name": "Dr. Death",
+      "publisher": "Audible"
+    },
+    {
       "rank": 20,
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network"
+      "name": "REAL AF with Andy Frisella",
+      "publisher": "Andy Frisella"
     }
   ]
 }
