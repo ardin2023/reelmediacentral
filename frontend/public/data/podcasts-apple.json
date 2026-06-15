@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-15",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -11,23 +11,23 @@
     },
     {
       "rank": 2,
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
+    },
+    {
+      "rank": 3,
       "name": "Crime Junkie",
       "publisher": "Audiochuck"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "The Joe Rogan Experience",
       "publisher": "Joe Rogan"
     },
     {
-      "rank": 4,
-      "name": "Mick Unplugged",
-      "publisher": "Realm"
-    },
-    {
       "rank": 5,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
     },
     {
       "rank": 6,
@@ -36,48 +36,48 @@
     },
     {
       "rank": 7,
-      "name": "CounterClock",
-      "publisher": "Audiochuck"
+      "name": "Mick Unplugged",
+      "publisher": "Realm"
     },
     {
       "rank": 8,
-      "name": "Digital Social Hour",
-      "publisher": "Sean Kelly"
-    },
-    {
-      "rank": 9,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
-    },
-    {
-      "rank": 10,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 11,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
-      "rank": 12,
-      "name": "Love Trapped",
-      "publisher": "iHeartPodcasts and Glass Podcasts"
+      "rank": 9,
+      "name": "This American Life",
+      "publisher": "This American Life"
     },
     {
-      "rank": 13,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
+      "rank": 10,
+      "name": "Five Miles From Home",
+      "publisher": "NBC News"
     },
     {
-      "rank": 14,
+      "rank": 11,
       "name": "20/20",
       "publisher": "ABC News"
     },
     {
+      "rank": 12,
+      "name": "Digital Social Hour",
+      "publisher": "Sean Kelly"
+    },
+    {
+      "rank": 13,
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
+    },
+    {
+      "rank": 14,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
       "rank": 15,
-      "name": "This American Life",
-      "publisher": "This American Life"
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
     },
     {
       "rank": 16,
@@ -86,23 +86,23 @@
     },
     {
       "rank": 17,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 18,
-      "name": "Proven Podcast",
-      "publisher": "Charles Schwartz"
-    },
-    {
-      "rank": 19,
       "name": "Dr. Death",
       "publisher": "Audible"
     },
     {
+      "rank": 18,
+      "name": "SmartLess",
+      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
+    },
+    {
+      "rank": 19,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
       "rank": 20,
-      "name": "REAL AF with Andy Frisella",
-      "publisher": "Andy Frisella"
+      "name": "Up First from NPR",
+      "publisher": "NPR"
     }
   ]
 }
