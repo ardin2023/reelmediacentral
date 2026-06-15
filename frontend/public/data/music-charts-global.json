@@ -1,147 +1,147 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-15",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "+2",
-      "artist": "Michael Jackson - Billie Jean",
-      "streams": 440,
+      "track": "=",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 2,
       "track": "=",
-      "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 9,
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 23,
       "url": null
     },
     {
       "rank": 3,
-      "track": "+1",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 100,
+      "track": "=",
+      "artist": "Olivia Rodrigo - drop dead",
+      "streams": 58,
       "url": null
     },
     {
       "rank": 4,
-      "track": "-3",
-      "artist": "Taylor Swift - I Knew It, I Knew You",
-      "streams": 2,
+      "track": "+4",
+      "artist": "Ariana Grande - hate that i made you love me",
+      "streams": 16,
       "url": null
     },
     {
       "rank": 5,
-      "track": "=",
-      "artist": "BTS - SWIM",
-      "streams": 79,
+      "track": "+9",
+      "artist": "Michael Jackson - Billie Jean",
+      "streams": 447,
       "url": null
     },
     {
       "rank": 6,
-      "track": "=",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 196,
+      "track": "+11",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 107,
       "url": null
     },
     {
       "rank": 7,
-      "track": "=",
-      "artist": "Michael Jackson - Beat It",
-      "streams": 65,
+      "track": "+5",
+      "artist": "BTS - SWIM",
+      "streams": 86,
       "url": null
     },
     {
       "rank": 8,
-      "track": "+2",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 69,
+      "track": "-4",
+      "artist": "Olivia Rodrigo - honeybee",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 9,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 16,
+      "track": "-4",
+      "artist": "Olivia Rodrigo - maggots for brains",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 10,
       "track": "-1",
-      "artist": "Drake - Janice STFU",
-      "streams": 23,
+      "artist": "Olivia Rodrigo - whatâs wrong with me (w/ Robert Smith )",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 11,
-      "track": "=",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 80,
+      "track": "+9",
+      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
+      "streams": 24,
       "url": null
     },
     {
       "rank": 12,
-      "track": "+1",
-      "artist": "Michael Jackson - Chicago",
-      "streams": 42,
+      "track": "-5",
+      "artist": "Olivia Rodrigo - my way",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 13,
-      "track": "-1",
-      "artist": "sombr - back to friends",
-      "streams": 446,
+      "track": "-3",
+      "artist": "Olivia Rodrigo - begged",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 14,
-      "track": "=",
-      "artist": "Djo - End of Beginning",
-      "streams": 841,
+      "track": "+7",
+      "artist": "Michael Jackson - Beat It",
+      "streams": 72,
       "url": null
     },
     {
       "rank": 15,
-      "track": "+5",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 157,
+      "track": "-9",
+      "artist": "Olivia Rodrigo - u + me = <3",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 16,
-      "track": "+1",
-      "artist": "Bad Bunny - DtMF",
-      "streams": 518,
+      "track": "+3",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 203,
       "url": null
     },
     {
       "rank": 17,
-      "track": "-1",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 291,
+      "track": "-4",
+      "artist": "Olivia Rodrigo - less",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 18,
-      "track": "-3",
-      "artist": "Temper City - Self Aware",
-      "streams": 62,
+      "track": "-2",
+      "artist": "Olivia Rodrigo - expectations",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 19,
-      "track": "=",
-      "artist": "Taylor Swift - The Fate of Ophelia",
-      "streams": 247,
+      "track": "+3",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 76,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-2",
-      "artist": "Olivia Rodrigo - drop dead",
-      "streams": 51,
+      "track": "-9",
+      "artist": "BTS - Come Over",
+      "streams": 2,
       "url": null
     }
   ]
