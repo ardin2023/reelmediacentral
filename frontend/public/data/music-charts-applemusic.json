@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-15",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -11,13 +11,13 @@
     },
     {
       "rank": 2,
-      "track": "Shabang",
-      "artist": "Drake"
+      "track": "stupid song",
+      "artist": "Olivia Rodrigo"
     },
     {
       "rank": 3,
-      "track": "Ran To Atlanta",
-      "artist": "Drake, Future & Molly Santana"
+      "track": "Shabang",
+      "artist": "Drake"
     },
     {
       "rank": 4,
@@ -26,183 +26,183 @@
     },
     {
       "rank": 5,
-      "track": "Whisper My Name",
-      "artist": "Drake"
-    },
-    {
-      "rank": 6,
-      "track": "I Knew It, I Knew You",
-      "artist": "Taylor Swift"
-    },
-    {
-      "rank": 7,
-      "track": "National Treasures",
-      "artist": "Drake"
-    },
-    {
-      "rank": 8,
-      "track": "Spend Dat",
-      "artist": "Yung Miami"
-    },
-    {
-      "rank": 9,
-      "track": "2 Hard 4 The Radio",
-      "artist": "Drake"
-    },
-    {
-      "rank": 10,
-      "track": "Be Her",
-      "artist": "Ella Langley"
-    },
-    {
-      "rank": 11,
-      "track": "Plot Twist",
-      "artist": "Drake"
-    },
-    {
-      "rank": 12,
-      "track": "B’s On The Table",
-      "artist": "Drake & 21 Savage"
-    },
-    {
-      "rank": 13,
-      "track": "Make Them Pay",
-      "artist": "Drake"
-    },
-    {
-      "rank": 14,
-      "track": "I’m Spent",
-      "artist": "Drake & Loe Shimmy"
-    },
-    {
-      "rank": 15,
-      "track": "hate that i made you love me",
-      "artist": "Ariana Grande"
-    },
-    {
-      "rank": 16,
-      "track": "Burning Bridges",
-      "artist": "Drake"
-    },
-    {
-      "rank": 17,
-      "track": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen"
-    },
-    {
-      "rank": 18,
-      "track": "Dust",
-      "artist": "Drake"
-    },
-    {
-      "rank": 19,
-      "track": "What Did I Miss?",
-      "artist": "Drake"
-    },
-    {
-      "rank": 20,
-      "track": "Cinderella (feat. Ty Dolla $ign)",
-      "artist": "Mac Miller"
-    },
-    {
-      "rank": 21,
-      "track": "Billie Jean",
-      "artist": "Michael Jackson"
-    },
-    {
-      "rank": 22,
-      "track": "20 Cigarettes",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 23,
-      "track": "Classic",
-      "artist": "Drake"
-    },
-    {
-      "rank": 24,
-      "track": "Make Them Cry",
-      "artist": "Drake"
-    },
-    {
-      "rank": 25,
-      "track": "Little Birdie",
-      "artist": "Drake"
-    },
-    {
-      "rank": 26,
-      "track": "Don’t Worry",
-      "artist": "Drake"
-    },
-    {
-      "rank": 27,
-      "track": "WNBA",
-      "artist": "Drake"
-    },
-    {
-      "rank": 28,
-      "track": "Chicago",
-      "artist": "Michael Jackson"
-    },
-    {
-      "rank": 29,
-      "track": "I'm The Problem",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 30,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 31,
-      "track": "Make Them Remember",
-      "artist": "Drake"
-    },
-    {
-      "rank": 32,
-      "track": "In A Minute",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 33,
-      "track": "Human Nature",
-      "artist": "Michael Jackson"
-    },
-    {
-      "rank": 34,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
-    },
-    {
-      "rank": 35,
-      "track": "E85",
-      "artist": "Don Toliver"
-    },
-    {
-      "rank": 36,
       "track": "the cure",
       "artist": "Olivia Rodrigo"
     },
     {
+      "rank": 6,
+      "track": "Ran To Atlanta",
+      "artist": "Drake, Future & Molly Santana"
+    },
+    {
+      "rank": 7,
+      "track": "honeybee",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 8,
+      "track": "Whisper My Name",
+      "artist": "Drake"
+    },
+    {
+      "rank": 9,
+      "track": "Spend Dat",
+      "artist": "Yung Miami"
+    },
+    {
+      "rank": 10,
+      "track": "drop dead",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 11,
+      "track": "begged",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 12,
+      "track": "maggots for brains",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 13,
+      "track": "Be Her",
+      "artist": "Ella Langley"
+    },
+    {
+      "rank": 14,
+      "track": "what’s wrong with me",
+      "artist": "Olivia Rodrigo & Robert Smith"
+    },
+    {
+      "rank": 15,
+      "track": "less",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 16,
+      "track": "National Treasures",
+      "artist": "Drake"
+    },
+    {
+      "rank": 17,
+      "track": "my way",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 18,
+      "track": "u + me = <3",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 19,
+      "track": "hate that i made you love me",
+      "artist": "Ariana Grande"
+    },
+    {
+      "rank": 20,
+      "track": "expectations",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 21,
+      "track": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller"
+    },
+    {
+      "rank": 22,
+      "track": "I Knew It, I Knew You",
+      "artist": "Taylor Swift"
+    },
+    {
+      "rank": 23,
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
+    },
+    {
+      "rank": 24,
+      "track": "2 Hard 4 The Radio",
+      "artist": "Drake"
+    },
+    {
+      "rank": 25,
+      "track": "purple",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 26,
+      "track": "I’m Spent",
+      "artist": "Drake & Loe Shimmy"
+    },
+    {
+      "rank": 27,
+      "track": "cigarette smoke",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 28,
+      "track": "Plot Twist",
+      "artist": "Drake"
+    },
+    {
+      "rank": 29,
+      "track": "B’s On The Table",
+      "artist": "Drake & 21 Savage"
+    },
+    {
+      "rank": 30,
+      "track": "Make Them Pay",
+      "artist": "Drake"
+    },
+    {
+      "rank": 31,
+      "track": "20 Cigarettes",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 32,
+      "track": "Billie Jean",
+      "artist": "Michael Jackson"
+    },
+    {
+      "rank": 33,
+      "track": "Burning Bridges",
+      "artist": "Drake"
+    },
+    {
+      "rank": 34,
+      "track": "RUBBERZ",
+      "artist": "Fenix Flexin & Purps On The Beat"
+    },
+    {
+      "rank": 35,
+      "track": "Dust",
+      "artist": "Drake"
+    },
+    {
+      "rank": 36,
+      "track": "I'm The Problem",
+      "artist": "Morgan Wallen"
+    },
+    {
       "rank": 37,
-      "track": "Man I Need",
-      "artist": "Olivia Dean"
+      "track": "What Did I Miss?",
+      "artist": "Drake"
     },
     {
       "rank": 38,
-      "track": "Last Night",
-      "artist": "Morgan Wallen"
+      "track": "Freestyle",
+      "artist": "Lil Baby"
     },
     {
       "rank": 39,
-      "track": "Just In Case",
-      "artist": "Morgan Wallen"
+      "track": "Chicago",
+      "artist": "Michael Jackson"
     },
     {
       "rank": 40,
-      "track": "Spin You Around (1/24)",
-      "artist": "Morgan Wallen"
+      "track": "Classic",
+      "artist": "Drake"
     }
   ]
 }
