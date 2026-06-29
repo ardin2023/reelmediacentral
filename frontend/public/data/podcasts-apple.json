@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-29",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -31,72 +31,72 @@
     },
     {
       "rank": 6,
-      "name": "Mick Unplugged",
-      "publisher": "Realm"
-    },
-    {
-      "rank": 7,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 8,
       "name": "20/20",
       "publisher": "ABC News"
     },
     {
+      "rank": 7,
+      "name": "The Last 12 Weeks",
+      "publisher": "Serial Productions & The New York Times"
+    },
+    {
+      "rank": 8,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
       "rank": 9,
-      "name": "This American Life",
-      "publisher": "This American Life"
-    },
-    {
-      "rank": 10,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 11,
-      "name": "Dr. Death",
-      "publisher": "Audible"
-    },
-    {
-      "rank": 12,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
-      "rank": 13,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 14,
-      "name": "Digital Social Hour",
-      "publisher": "Sean Kelly"
-    },
-    {
-      "rank": 15,
-      "name": "Serial",
-      "publisher": "Serial Productions & The New York Times"
-    },
-    {
-      "rank": 16,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
-    },
-    {
-      "rank": 17,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
-    },
-    {
-      "rank": 18,
+      "rank": 10,
       "name": "The Rest Is History",
       "publisher": "Goalhanger"
     },
     {
+      "rank": 11,
+      "name": "Mick Unplugged",
+      "publisher": "Realm"
+    },
+    {
+      "rank": 12,
+      "name": "This American Life",
+      "publisher": "This American Life"
+    },
+    {
+      "rank": 13,
+      "name": "Five Miles From Home",
+      "publisher": "NBC News"
+    },
+    {
+      "rank": 14,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 15,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 16,
+      "name": "Friends Keep Secrets",
+      "publisher": "Perfect Strangers"
+    },
+    {
+      "rank": 17,
+      "name": "Wait Wait... Don't Tell Me!",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 18,
+      "name": "Digital Social Hour",
+      "publisher": "Sean Kelly"
+    },
+    {
       "rank": 19,
-      "name": "Good Hang with Amy Poehler",
+      "name": "The Bill Simmons Podcast",
       "publisher": "The Ringer"
     },
     {
