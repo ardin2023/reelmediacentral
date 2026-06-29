@@ -1,147 +1,147 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-29",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "+2",
+      "track": "=",
       "artist": "Michael Jackson - Billie Jean",
-      "streams": 454,
+      "streams": 461,
       "url": null
     },
     {
       "rank": 2,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 9,
+      "track": "+2",
+      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
+      "streams": 38,
       "url": null
     },
     {
       "rank": 3,
-      "track": "+1",
+      "track": "-1",
       "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 114,
+      "streams": 121,
       "url": null
     },
     {
       "rank": 4,
-      "track": "-2",
+      "track": "-1",
       "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 23,
-      "url": null
-    },
-    {
-      "rank": 5,
-      "track": "+1",
-      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 31,
-      "url": null
-    },
-    {
-      "rank": 6,
-      "track": "+2",
-      "artist": "BTS - SWIM",
-      "streams": 93,
-      "url": null
-    },
-    {
-      "rank": 7,
-      "track": "-2",
-      "artist": "Olivia Rodrigo - the cure",
       "streams": 30,
       "url": null
     },
     {
+      "rank": 5,
+      "track": "=",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 16,
+      "url": null
+    },
+    {
+      "rank": 6,
+      "track": "=",
+      "artist": "BTS - SWIM",
+      "streams": 100,
+      "url": null
+    },
+    {
+      "rank": 7,
+      "track": "=",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 217,
+      "url": null
+    },
+    {
       "rank": 8,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - drop dead",
-      "streams": 65,
+      "track": "+3",
+      "artist": "Michael Jackson - Beat It",
+      "streams": 86,
       "url": null
     },
     {
       "rank": 9,
       "track": "=",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 210,
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 90,
       "url": null
     },
     {
       "rank": 10,
-      "track": "+2",
-      "artist": "Michael Jackson - Beat It",
-      "streams": 79,
+      "track": "-2",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 37,
       "url": null
     },
     {
       "rank": 11,
-      "track": "=",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 83,
+      "track": "-1",
+      "artist": "Olivia Rodrigo - drop dead",
+      "streams": 72,
       "url": null
     },
     {
       "rank": 12,
-      "track": "-2",
-      "artist": "Olivia Rodrigo - honeybee",
-      "streams": 9,
+      "track": "+1",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 101,
       "url": null
     },
     {
       "rank": 13,
-      "track": "=",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 94,
+      "track": "-1",
+      "artist": "Temper City - Self Aware",
+      "streams": 83,
       "url": null
     },
     {
       "rank": 14,
-      "track": "+1",
-      "artist": "Oliver Tree - Life Goes On",
-      "streams": 177,
+      "track": "=",
+      "artist": "sombr - back to friends",
+      "streams": 467,
       "url": null
     },
     {
       "rank": 15,
-      "track": "-1",
-      "artist": "Temper City - Self Aware",
-      "streams": 76,
+      "track": "+2",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 178,
       "url": null
     },
     {
       "rank": 16,
       "track": "=",
-      "artist": "sombr - back to friends",
-      "streams": 460,
+      "artist": "Bad Bunny - DtMF",
+      "streams": 539,
       "url": null
     },
     {
       "rank": 17,
-      "track": "+6",
+      "track": "+3",
       "artist": "Olivia Dean - Man I Need",
-      "streams": 305,
+      "streams": 312,
       "url": null
     },
     {
       "rank": 18,
-      "track": "+1",
-      "artist": "LE SSERAFIM - ICONIC BY MISTAKE (w/ ILLIT , KATSEYE )",
-      "streams": 9,
+      "track": "=",
+      "artist": "Djo - End of Beginning",
+      "streams": 862,
       "url": null
     },
     {
       "rank": 19,
-      "track": "+9",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 171,
+      "track": "+2",
+      "artist": "Drake - Janice STFU",
+      "streams": 44,
       "url": null
     },
     {
       "rank": 20,
-      "track": "+12",
-      "artist": "Bad Bunny - DtMF",
-      "streams": 532,
+      "track": "-1",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1017,
       "url": null
     }
   ]
