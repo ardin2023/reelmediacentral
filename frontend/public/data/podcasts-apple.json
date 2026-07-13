@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-13",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -21,18 +21,18 @@
     },
     {
       "rank": 4,
-      "name": "The Joe Rogan Experience",
-      "publisher": "Joe Rogan"
-    },
-    {
-      "rank": 5,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
+      "rank": 5,
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
+    },
+    {
       "rank": 6,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
     },
     {
       "rank": 7,
@@ -41,68 +41,68 @@
     },
     {
       "rank": 8,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
     },
     {
       "rank": 9,
-      "name": "This American Life",
-      "publisher": "This American Life"
-    },
-    {
-      "rank": 10,
-      "name": "Love Trapped",
-      "publisher": "iHeartPodcasts and Glass Podcasts"
-    },
-    {
-      "rank": 11,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 12,
-      "name": "The Shawn Ryan Show",
-      "publisher": "Shawn Ryan"
-    },
-    {
-      "rank": 13,
-      "name": "48 Hours",
-      "publisher": "CBS News"
-    },
-    {
-      "rank": 14,
-      "name": "Good Hang with Amy Poehler",
+      "name": "The Bill Simmons Podcast",
       "publisher": "The Ringer"
     },
     {
-      "rank": 15,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
-    },
-    {
-      "rank": 16,
-      "name": "Digital Social Hour",
-      "publisher": "Sean Kelly"
-    },
-    {
-      "rank": 17,
+      "rank": 10,
       "name": "Pod Save America",
       "publisher": "Pod Save America"
     },
     {
+      "rank": 11,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 12,
+      "name": "20/20",
+      "publisher": "ABC News"
+    },
+    {
+      "rank": 13,
+      "name": "This American Life",
+      "publisher": "This American Life"
+    },
+    {
+      "rank": 14,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 15,
+      "name": "The MeidasTouch Podcast",
+      "publisher": "MeidasTouch Network"
+    },
+    {
+      "rank": 16,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 17,
+      "name": "Five Miles From Home",
+      "publisher": "NBC News"
+    },
+    {
       "rank": 18,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
+      "name": "Digital Social Hour",
+      "publisher": "Sean Kelly"
     },
     {
       "rank": 19,
-      "name": "Dr. Death",
-      "publisher": "Audible"
+      "name": "The Mel Robbins Podcast",
+      "publisher": "Mel Robbins"
     },
     {
       "rank": 20,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
     }
   ]
 }
