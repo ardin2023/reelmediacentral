@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-13",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
@@ -8,140 +8,140 @@
       "rank": 1,
       "track": "=",
       "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 45,
+      "streams": 52,
       "url": null
     },
     {
       "rank": 2,
-      "track": "=",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 128,
+      "track": "+2",
+      "artist": "Michael Jackson - Billie Jean",
+      "streams": 475,
       "url": null
     },
     {
       "rank": 3,
       "track": "=",
-      "artist": "Michael Jackson - Billie Jean",
-      "streams": 468,
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 135,
       "url": null
     },
     {
       "rank": 4,
-      "track": "=",
+      "track": "-2",
       "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 37,
+      "streams": 44,
       "url": null
     },
     {
       "rank": 5,
-      "track": "+1",
+      "track": "=",
       "artist": "Malcolm Todd - Earrings",
-      "streams": 97,
+      "streams": 104,
       "url": null
     },
     {
       "rank": 6,
-      "track": "+174",
-      "artist": "Toby Keith - Courtesy Of The Red, White And Blue (The Angry American)",
-      "streams": 5,
+      "track": "+1",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 231,
       "url": null
     },
     {
       "rank": 7,
-      "track": "-2",
+      "track": "-1",
       "artist": "BTS - SWIM",
-      "streams": 107,
+      "streams": 114,
       "url": null
     },
     {
       "rank": 8,
       "track": "=",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 224,
+      "artist": "Temper City - Self Aware",
+      "streams": 97,
       "url": null
     },
     {
       "rank": 9,
-      "track": "=",
+      "track": "+3",
       "artist": "Katy Perry - The One That Got Away",
-      "streams": 108,
+      "streams": 115,
       "url": null
     },
     {
       "rank": 10,
-      "track": "-3",
+      "track": "-1",
       "artist": "Olivia Rodrigo - stupid song",
-      "streams": 23,
+      "streams": 30,
       "url": null
     },
     {
       "rank": 11,
       "track": "+2",
       "artist": "Michael Jackson - Beat It",
-      "streams": 93,
+      "streams": 100,
       "url": null
     },
     {
       "rank": 12,
       "track": "-2",
-      "artist": "Temper City - Self Aware",
-      "streams": 90,
+      "artist": "Olivia Rodrigo - drop dead",
+      "streams": 86,
       "url": null
     },
     {
       "rank": 13,
-      "track": "+1",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 185,
+      "track": "+3",
+      "artist": "Oasis - Wonderwall - Remastered",
+      "streams": 995,
       "url": null
     },
     {
       "rank": 14,
       "track": "-3",
-      "artist": "Olivia Rodrigo - drop dead",
-      "streams": 79,
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 51,
       "url": null
     },
     {
       "rank": 15,
-      "track": "-3",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 44,
+      "track": "-1",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 192,
       "url": null
     },
     {
       "rank": 16,
       "track": "-1",
       "artist": "sombr - back to friends",
-      "streams": 474,
+      "streams": 481,
       "url": null
     },
     {
       "rank": 17,
-      "track": "=",
-      "artist": "Bad Bunny - DtMF",
-      "streams": 546,
+      "track": "+1",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 326,
       "url": null
     },
     {
       "rank": 18,
-      "track": "=",
-      "artist": "Taylor Swift - The Fate of Ophelia",
-      "streams": 275,
+      "track": "+2",
+      "artist": "Bad Bunny - DtMF",
+      "streams": 553,
       "url": null
     },
     {
       "rank": 19,
-      "track": "+2",
-      "artist": "Bruno Mars - Risk It All",
-      "streams": 128,
+      "track": "-2",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1031,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-4",
-      "artist": "Olivia Rodrigo - honeybee",
-      "streams": 23,
+      "track": "+3",
+      "artist": "eÅau - Sesi Potret (w/ Ari Lesmana )",
+      "streams": 54,
       "url": null
     }
   ]
