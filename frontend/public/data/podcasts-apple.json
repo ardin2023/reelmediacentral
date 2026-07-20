@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-20",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -16,23 +16,23 @@
     },
     {
       "rank": 3,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
-    },
-    {
-      "rank": 4,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
-    },
-    {
-      "rank": 5,
       "name": "The Joe Rogan Experience",
       "publisher": "Joe Rogan"
     },
     {
+      "rank": 4,
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
+    },
+    {
+      "rank": 5,
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
+    },
+    {
       "rank": 6,
-      "name": "Love Trapped",
-      "publisher": "iHeartPodcasts and Glass Podcasts"
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
       "rank": 7,
@@ -41,23 +41,23 @@
     },
     {
       "rank": 8,
+      "name": "World War II with Tom Hanks",
+      "publisher": "The HISTORY Channel | Back Pocket Studios | Audacy"
+    },
+    {
+      "rank": 9,
       "name": "The Rest Is History",
       "publisher": "Goalhanger"
     },
     {
-      "rank": 9,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
-    },
-    {
       "rank": 10,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
     },
     {
       "rank": 11,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
+      "name": "This American Life",
+      "publisher": "This American Life"
     },
     {
       "rank": 12,
@@ -66,33 +66,33 @@
     },
     {
       "rank": 13,
-      "name": "This American Life",
-      "publisher": "This American Life"
-    },
-    {
-      "rank": 14,
       "name": "Up First from NPR",
       "publisher": "NPR"
     },
     {
+      "rank": 14,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
       "rank": 15,
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network"
+      "name": "Digital Social Hour",
+      "publisher": "Sean Kelly"
     },
     {
       "rank": 16,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
     },
     {
       "rank": 17,
-      "name": "Five Miles From Home",
-      "publisher": "NBC News"
+      "name": "48 Hours",
+      "publisher": "CBS News"
     },
     {
       "rank": 18,
-      "name": "Digital Social Hour",
-      "publisher": "Sean Kelly"
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
     },
     {
       "rank": 19,
@@ -101,8 +101,8 @@
     },
     {
       "rank": 20,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
+      "name": "SmartLess",
+      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
     }
   ]
 }
