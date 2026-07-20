@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-20",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
@@ -8,140 +8,140 @@
       "rank": 1,
       "track": "=",
       "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 52,
+      "streams": 59,
       "url": null
     },
     {
       "rank": 2,
       "track": "+2",
-      "artist": "Michael Jackson - Billie Jean",
-      "streams": 475,
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 142,
       "url": null
     },
     {
       "rank": 3,
-      "track": "=",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 135,
+      "track": "-1",
+      "artist": "Oasis - Wonderwall - Remastered",
+      "streams": 1002,
       "url": null
     },
     {
       "rank": 4,
-      "track": "-2",
+      "track": "-1",
       "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 44,
+      "streams": 51,
       "url": null
     },
     {
       "rank": 5,
-      "track": "=",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 104,
+      "track": "+1",
+      "artist": "Michael Jackson - Billie Jean",
+      "streams": 482,
       "url": null
     },
     {
       "rank": 6,
-      "track": "+1",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 231,
+      "track": "-1",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 111,
       "url": null
     },
     {
       "rank": 7,
-      "track": "-1",
-      "artist": "BTS - SWIM",
-      "streams": 114,
+      "track": "=",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 238,
       "url": null
     },
     {
       "rank": 8,
       "track": "=",
-      "artist": "Temper City - Self Aware",
-      "streams": 97,
+      "artist": "BTS - SWIM",
+      "streams": 121,
       "url": null
     },
     {
       "rank": 9,
-      "track": "+3",
+      "track": "+1",
       "artist": "Katy Perry - The One That Got Away",
-      "streams": 115,
+      "streams": 122,
       "url": null
     },
     {
       "rank": 10,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 30,
+      "track": "+1",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1038,
       "url": null
     },
     {
       "rank": 11,
-      "track": "+2",
-      "artist": "Michael Jackson - Beat It",
-      "streams": 100,
+      "track": "+1",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 37,
       "url": null
     },
     {
       "rank": 12,
-      "track": "-2",
-      "artist": "Olivia Rodrigo - drop dead",
-      "streams": 86,
+      "track": "+1",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 58,
       "url": null
     },
     {
       "rank": 13,
-      "track": "+3",
-      "artist": "Oasis - Wonderwall - Remastered",
-      "streams": 995,
+      "track": "+4",
+      "artist": "Michael Jackson - Beat It",
+      "streams": 107,
       "url": null
     },
     {
       "rank": 14,
-      "track": "-3",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 51,
+      "track": "+2",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 199,
       "url": null
     },
     {
       "rank": 15,
       "track": "-1",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 192,
+      "artist": "Olivia Rodrigo - drop dead",
+      "streams": 93,
       "url": null
     },
     {
       "rank": 16,
       "track": "-1",
       "artist": "sombr - back to friends",
-      "streams": 481,
+      "streams": 488,
       "url": null
     },
     {
       "rank": 17,
       "track": "+1",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 326,
+      "artist": "Djo - End of Beginning",
+      "streams": 883,
       "url": null
     },
     {
       "rank": 18,
       "track": "+2",
       "artist": "Bad Bunny - DtMF",
-      "streams": 553,
+      "streams": 560,
       "url": null
     },
     {
       "rank": 19,
-      "track": "-2",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1031,
+      "track": "=",
+      "artist": "Temper City - Self Aware",
+      "streams": 104,
       "url": null
     },
     {
       "rank": 20,
-      "track": "+3",
-      "artist": "eÅau - Sesi Potret (w/ Ari Lesmana )",
-      "streams": 54,
+      "track": "+1",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 333,
       "url": null
     }
   ]
