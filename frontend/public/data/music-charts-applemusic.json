@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-27",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "track": "Choosin' Texas",
-      "artist": "Ella Langley"
+      "track": "Been By Now",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 2,
-      "track": "Janice STFU",
-      "artist": "Drake"
+      "track": "Choosin' Texas",
+      "artist": "Ella Langley"
     },
     {
       "rank": 3,
@@ -21,53 +21,53 @@
     },
     {
       "rank": 4,
-      "track": "Spend Dat",
-      "artist": "Yung Miami"
-    },
-    {
-      "rank": 5,
-      "track": "Be Her",
-      "artist": "Ella Langley"
-    },
-    {
-      "rank": 6,
-      "track": "Shabang",
+      "track": "Janice STFU",
       "artist": "Drake"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "track": "I Can't Love You Anymore",
       "artist": "Ella Langley & Morgan Wallen"
     },
     {
+      "rank": 6,
+      "track": "Spend Dat",
+      "artist": "Yung Miami"
+    },
+    {
+      "rank": 7,
+      "track": "Be Her",
+      "artist": "Ella Langley"
+    },
+    {
       "rank": 8,
+      "track": "Shabang",
+      "artist": "Drake"
+    },
+    {
+      "rank": 9,
       "track": "stupid song",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 9,
-      "track": "20 Cigarettes",
+      "rank": 10,
+      "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 10,
-      "track": "Ran To Atlanta",
-      "artist": "Drake, Future & Molly Santana"
+      "rank": 11,
+      "track": "Don't We",
+      "artist": "Morgan Wallen"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "track": "Cinderella (feat. Ty Dolla $ign)",
       "artist": "Mac Miller"
     },
     {
-      "rank": 12,
-      "track": "the cure",
-      "artist": "Olivia Rodrigo"
-    },
-    {
       "rank": 13,
-      "track": "hate that i made you love me",
-      "artist": "Ariana Grande"
+      "track": "Ran To Atlanta",
+      "artist": "Drake, Future & Molly Santana"
     },
     {
       "rank": 14,
@@ -76,38 +76,38 @@
     },
     {
       "rank": 15,
-      "track": "MORNING DEW (DONK)",
-      "artist": "Beyoncé"
+      "track": "I’m Spent",
+      "artist": "Drake & Loe Shimmy"
     },
     {
       "rank": 16,
-      "track": "I'm The Problem",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 17,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
-    },
-    {
-      "rank": 18,
-      "track": "In A Minute",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 19,
-      "track": "Wonderwall (Remastered)",
-      "artist": "Oasis"
-    },
-    {
-      "rank": 20,
       "track": "Ghetto Love Story",
       "artist": "BabyChiefDoit"
     },
     {
-      "rank": 21,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "rank": 17,
+      "track": "the cure",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 18,
+      "track": "20 Cigarettes",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 19,
+      "track": "In A Minute",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 20,
+      "track": "WAIT FOR U (feat. Drake & Tems)",
       "artist": "Future"
+    },
+    {
+      "rank": 21,
+      "track": "hate that i made you love me",
+      "artist": "Ariana Grande"
     },
     {
       "rank": 22,
@@ -116,18 +116,18 @@
     },
     {
       "rank": 23,
-      "track": "Konnichiwa",
-      "artist": "Future"
+      "track": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone"
     },
     {
       "rank": 24,
-      "track": "Boston",
-      "artist": "STELLA LEFTY"
+      "track": "Just In Case",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 25,
-      "track": "I Had Some Help (feat. Morgan Wallen)",
-      "artist": "Post Malone"
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future"
     },
     {
       "rank": 26,
@@ -136,33 +136,33 @@
     },
     {
       "rank": 27,
-      "track": "Spin You Around (1/24)",
-      "artist": "Morgan Wallen"
+      "track": "Boston",
+      "artist": "STELLA LEFTY"
     },
     {
       "rank": 28,
-      "track": "California Girls",
-      "artist": "Future"
+      "track": "What I Want",
+      "artist": "Morgan Wallen & Tate McRae"
     },
     {
       "rank": 29,
-      "track": "Just In Case",
-      "artist": "Morgan Wallen"
+      "track": "I See Why",
+      "artist": "Moneybagg Yo"
     },
     {
       "rank": 30,
-      "track": "Whisper My Name",
-      "artist": "Drake"
-    },
-    {
-      "rank": 31,
       "track": "Man I Need",
       "artist": "Olivia Dean"
     },
     {
+      "rank": 31,
+      "track": "Cowgirls (feat. ERNEST)",
+      "artist": "Morgan Wallen"
+    },
+    {
       "rank": 32,
-      "track": "I’m Spent",
-      "artist": "Drake & Loe Shimmy"
+      "track": "MORNING DEW (DONK)",
+      "artist": "Beyoncé"
     },
     {
       "rank": 33,
@@ -171,33 +171,33 @@
     },
     {
       "rank": 34,
-      "track": "Billie Jean",
-      "artist": "Michael Jackson"
+      "track": "Wants and Needs (feat. Lil Baby)",
+      "artist": "Drake"
     },
     {
       "rank": 35,
-      "track": "RUBBERZ",
-      "artist": "Fenix Flexin & Purps On The Beat"
+      "track": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 36,
+      "track": "Whisper My Name",
+      "artist": "Drake"
+    },
+    {
+      "rank": 37,
+      "track": "weren't for the wind",
+      "artist": "Ella Langley"
+    },
+    {
+      "rank": 38,
       "track": "I'M DAT N***A",
       "artist": "Future"
     },
     {
-      "rank": 37,
-      "track": "Dai Dai",
-      "artist": "Shakira & Burna Boy"
-    },
-    {
-      "rank": 38,
-      "track": "What I Want",
-      "artist": "Morgan Wallen & Tate McRae"
-    },
-    {
       "rank": 39,
-      "track": "weren't for the wind",
-      "artist": "Ella Langley"
+      "track": "Broken Window Serenade",
+      "artist": "Whiskey Myers"
     },
     {
       "rank": 40,
