@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-27",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "name": "The Daily",
-      "publisher": "The New York Times"
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
     },
     {
       "rank": 2,
-      "name": "Crime Junkie",
-      "publisher": "Audiochuck"
+      "name": "The Daily",
+      "publisher": "The New York Times"
     },
     {
       "rank": 3,
@@ -31,43 +31,43 @@
     },
     {
       "rank": 6,
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 7,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
-      "rank": 7,
-      "name": "Mick Unplugged",
-      "publisher": "Realm"
-    },
-    {
       "rank": 8,
-      "name": "World War II with Tom Hanks",
-      "publisher": "The HISTORY Channel | Back Pocket Studios | Audacy"
-    },
-    {
-      "rank": 9,
       "name": "The Rest Is History",
       "publisher": "Goalhanger"
     },
     {
+      "rank": 9,
+      "name": "Mick Unplugged",
+      "publisher": "Realm"
+    },
+    {
       "rank": 10,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 11,
-      "name": "This American Life",
-      "publisher": "This American Life"
-    },
-    {
-      "rank": 12,
       "name": "20/20",
       "publisher": "ABC News"
     },
     {
+      "rank": 11,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 12,
+      "name": "This American Life",
+      "publisher": "This American Life"
+    },
+    {
       "rank": 13,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "name": "World War II with Tom Hanks",
+      "publisher": "The HISTORY Channel | Back Pocket Studios | Audacy"
     },
     {
       "rank": 14,
@@ -76,33 +76,33 @@
     },
     {
       "rank": 15,
-      "name": "Digital Social Hour",
-      "publisher": "Sean Kelly"
+      "name": "Up First from NPR",
+      "publisher": "NPR"
     },
     {
       "rank": 16,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
-    },
-    {
-      "rank": 17,
-      "name": "48 Hours",
-      "publisher": "CBS News"
-    },
-    {
-      "rank": 18,
       "name": "Stuff You Should Know",
       "publisher": "iHeartPodcasts"
     },
     {
+      "rank": 17,
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
+    },
+    {
+      "rank": 18,
+      "name": "The Shawn Ryan Show",
+      "publisher": "Shawn Ryan"
+    },
+    {
       "rank": 19,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
+      "name": "Wait Wait... Don't Tell Me!",
+      "publisher": "NPR"
     },
     {
       "rank": 20,
-      "name": "SmartLess",
-      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
+      "name": "The MeidasTouch Podcast",
+      "publisher": "MeidasTouch Network"
     }
   ]
 }
