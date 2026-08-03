@@ -1,147 +1,147 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-08-03",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "=",
-      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 66,
-      "url": null
-    },
-    {
-      "rank": 2,
-      "track": "=",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 149,
-      "url": null
-    },
-    {
-      "rank": 3,
-      "track": "=",
-      "artist": "Michael Jackson - Billie Jean",
-      "streams": 489,
-      "url": null
-    },
-    {
-      "rank": 4,
-      "track": "=",
+      "track": "+1",
       "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 58,
-      "url": null
-    },
-    {
-      "rank": 5,
-      "track": "=",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 118,
-      "url": null
-    },
-    {
-      "rank": 6,
-      "track": "=",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 245,
-      "url": null
-    },
-    {
-      "rank": 7,
-      "track": "=",
-      "artist": "Oasis - Wonderwall - Remastered",
-      "streams": 1009,
-      "url": null
-    },
-    {
-      "rank": 8,
-      "track": "=",
-      "artist": "BTS - SWIM",
-      "streams": 128,
-      "url": null
-    },
-    {
-      "rank": 9,
-      "track": "+1",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 129,
-      "url": null
-    },
-    {
-      "rank": 10,
-      "track": "+1",
-      "artist": "Temper City - Self Aware",
-      "streams": 111,
-      "url": null
-    },
-    {
-      "rank": 11,
-      "track": "-2",
-      "artist": "KATSEYE - Animal",
-      "streams": 2,
-      "url": null
-    },
-    {
-      "rank": 12,
-      "track": "=",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 206,
-      "url": null
-    },
-    {
-      "rank": 13,
-      "track": "+1",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 44,
-      "url": null
-    },
-    {
-      "rank": 14,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - the cure",
       "streams": 65,
       "url": null
     },
     {
-      "rank": 15,
+      "rank": 2,
       "track": "+2",
-      "artist": "Michael Jackson - Beat It",
-      "streams": 114,
+      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
+      "streams": 73,
+      "url": null
+    },
+    {
+      "rank": 3,
+      "track": "-2",
+      "artist": "Ariana Grande - petal",
+      "streams": 2,
+      "url": null
+    },
+    {
+      "rank": 4,
+      "track": "+7",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 156,
+      "url": null
+    },
+    {
+      "rank": 5,
+      "track": "+12",
+      "artist": "Michael Jackson - Billie Jean",
+      "streams": 496,
+      "url": null
+    },
+    {
+      "rank": 6,
+      "track": "+8",
+      "artist": "KATSEYE - Animal",
+      "streams": 9,
+      "url": null
+    },
+    {
+      "rank": 7,
+      "track": "+11",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 125,
+      "url": null
+    },
+    {
+      "rank": 8,
+      "track": "+8",
+      "artist": "BTS - SWIM",
+      "streams": 135,
+      "url": null
+    },
+    {
+      "rank": 9,
+      "track": "+12",
+      "artist": "Oasis - Wonderwall - Remastered",
+      "streams": 1016,
+      "url": null
+    },
+    {
+      "rank": 10,
+      "track": "-7",
+      "artist": "Ariana Grande - kiss me",
+      "streams": 2,
+      "url": null
+    },
+    {
+      "rank": 11,
+      "track": "+8",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 252,
+      "url": null
+    },
+    {
+      "rank": 12,
+      "track": "+8",
+      "artist": "Temper City - Self Aware",
+      "streams": 118,
+      "url": null
+    },
+    {
+      "rank": 13,
+      "track": "-8",
+      "artist": "Ariana Grande - stay",
+      "streams": 2,
+      "url": null
+    },
+    {
+      "rank": 14,
+      "track": "-6",
+      "artist": "Ariana Grande - like i do",
+      "streams": 2,
+      "url": null
+    },
+    {
+      "rank": 15,
+      "track": "+7",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 136,
       "url": null
     },
     {
       "rank": 16,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - drop dead",
-      "streams": 100,
+      "track": "-10",
+      "artist": "Ariana Grande - oh well",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 17,
-      "track": "+3",
-      "artist": "Bad Bunny - DtMF",
-      "streams": 567,
+      "track": "+7",
+      "artist": "sombr - back to friends",
+      "streams": 502,
       "url": null
     },
     {
       "rank": 18,
-      "track": "-2",
-      "artist": "sombr - back to friends",
-      "streams": 495,
+      "track": "+7",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1052,
       "url": null
     },
     {
       "rank": 19,
-      "track": "=",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 340,
+      "track": "+8",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 213,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-2",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1045,
+      "track": "-13",
+      "artist": "Ariana Grande - big feelings",
+      "streams": 2,
       "url": null
     }
   ]
