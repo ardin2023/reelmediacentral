@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-08-03",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -11,13 +11,13 @@
     },
     {
       "rank": 2,
-      "name": "The Daily",
-      "publisher": "The New York Times"
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
     },
     {
       "rank": 3,
-      "name": "The Joe Rogan Experience",
-      "publisher": "Joe Rogan"
+      "name": "The Daily",
+      "publisher": "The New York Times"
     },
     {
       "rank": 4,
@@ -31,8 +31,8 @@
     },
     {
       "rank": 6,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
+      "name": "The Ezra Klein Show",
+      "publisher": "New York Times Opinion"
     },
     {
       "rank": 7,
@@ -41,43 +41,43 @@
     },
     {
       "rank": 8,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
-    },
-    {
-      "rank": 9,
-      "name": "Mick Unplugged",
-      "publisher": "Realm"
-    },
-    {
-      "rank": 10,
-      "name": "20/20",
-      "publisher": "ABC News"
-    },
-    {
-      "rank": 11,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 12,
       "name": "This American Life",
       "publisher": "This American Life"
     },
     {
-      "rank": 13,
+      "rank": 9,
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
+    },
+    {
+      "rank": 10,
+      "name": "Mick Unplugged",
+      "publisher": "Mick Hunt"
+    },
+    {
+      "rank": 11,
+      "name": "20/20",
+      "publisher": "ABC News"
+    },
+    {
+      "rank": 12,
       "name": "World War II with Tom Hanks",
       "publisher": "The HISTORY Channel | Back Pocket Studios | Audacy"
     },
     {
+      "rank": 13,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
       "rank": 14,
-      "name": "Love Trapped",
-      "publisher": "iHeartPodcasts and Glass Podcasts"
+      "name": "Up First from NPR",
+      "publisher": "NPR"
     },
     {
       "rank": 15,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
     },
     {
       "rank": 16,
@@ -86,23 +86,23 @@
     },
     {
       "rank": 17,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
-    },
-    {
-      "rank": 18,
-      "name": "The Shawn Ryan Show",
-      "publisher": "Shawn Ryan"
-    },
-    {
-      "rank": 19,
       "name": "Wait Wait... Don't Tell Me!",
       "publisher": "NPR"
     },
     {
+      "rank": 18,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
+      "rank": 19,
+      "name": "48 Hours",
+      "publisher": "CBS News"
+    },
+    {
       "rank": 20,
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network"
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
     }
   ]
 }
