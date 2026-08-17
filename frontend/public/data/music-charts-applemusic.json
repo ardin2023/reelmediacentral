@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-17",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -21,13 +21,13 @@
     },
     {
       "rank": 4,
-      "track": "Last Man Breathin",
-      "artist": "Pooh Shiesty"
+      "track": "Dead Fresh",
+      "artist": "Lil Baby"
     },
     {
       "rank": 5,
-      "track": "Dead Fresh",
-      "artist": "Lil Baby"
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
     },
     {
       "rank": 6,
@@ -36,43 +36,43 @@
     },
     {
       "rank": 7,
-      "track": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen"
-    },
-    {
-      "rank": 8,
-      "track": "hate that i made you love me",
-      "artist": "Ariana Grande"
-    },
-    {
-      "rank": 9,
-      "track": "I'm Back",
-      "artist": "Pooh Shiesty"
-    },
-    {
-      "rank": 10,
       "track": "Be Her",
       "artist": "Ella Langley"
     },
     {
-      "rank": 11,
-      "track": "Federal Reality",
+      "rank": 8,
+      "track": "Last Man Breathin",
       "artist": "Pooh Shiesty"
     },
     {
-      "rank": 12,
-      "track": "Still on Timing (feat. BIG30)",
-      "artist": "Pooh Shiesty"
+      "rank": 9,
+      "track": "oh yeah?",
+      "artist": "Steve Lacy"
     },
     {
-      "rank": 13,
-      "track": "petal",
+      "rank": 10,
+      "track": "hate that i made you love me",
       "artist": "Ariana Grande"
     },
     {
-      "rank": 14,
+      "rank": 11,
       "track": "stupid song",
       "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 12,
+      "track": "Boston",
+      "artist": "STELLA LEFTY"
+    },
+    {
+      "rank": 13,
+      "track": "Don't We",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 14,
+      "track": "I'm The Problem",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 15,
@@ -81,128 +81,128 @@
     },
     {
       "rank": 16,
-      "track": "Don't We",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 17,
-      "track": "Jaded",
-      "artist": "Koe Wetzel & Ella Langley"
-    },
-    {
-      "rank": 18,
-      "track": "I'm The Problem",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 19,
       "track": "Freestyle",
       "artist": "Lil Baby"
     },
     {
-      "rank": 20,
-      "track": "oh yeah?",
-      "artist": "Steve Lacy"
+      "rank": 17,
+      "track": "BbY WOW",
+      "artist": "KAROL G, Judeline & rusowsky"
     },
     {
-      "rank": 21,
-      "track": "Spend Dat",
-      "artist": "Yung Miami"
-    },
-    {
-      "rank": 22,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
-    },
-    {
-      "rank": 23,
-      "track": "Ahí",
-      "artist": "KAROL G & Drake"
-    },
-    {
-      "rank": 24,
+      "rank": 18,
       "track": "In A Minute",
       "artist": "Lil Baby"
     },
     {
-      "rank": 25,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "rank": 19,
+      "track": "WAIT FOR U (feat. Drake & Tems)",
       "artist": "Future"
     },
     {
-      "rank": 26,
-      "track": "AH HA",
-      "artist": "Cardi B"
-    },
-    {
-      "rank": 27,
+      "rank": 20,
       "track": "the cure",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 28,
-      "track": "Collecting Tears",
-      "artist": "Pooh Shiesty"
-    },
-    {
-      "rank": 29,
+      "rank": 21,
       "track": "Loser",
       "artist": "Tame Impala"
     },
     {
-      "rank": 30,
-      "track": "Boston",
-      "artist": "STELLA LEFTY"
+      "rank": 22,
+      "track": "Spend Dat",
+      "artist": "Yung Miami"
     },
     {
-      "rank": 31,
-      "track": "Last Night",
-      "artist": "Morgan Wallen"
+      "rank": 23,
+      "track": "Jaded",
+      "artist": "Koe Wetzel & Ella Langley"
     },
     {
-      "rank": 32,
-      "track": "Cinderella (feat. Ty Dolla $ign)",
-      "artist": "Mac Miller"
-    },
-    {
-      "rank": 33,
-      "track": "Reckless Living",
-      "artist": "Pooh Shiesty"
-    },
-    {
-      "rank": 34,
-      "track": "Just In Case",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 35,
-      "track": "March Madness",
+      "rank": 24,
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "artist": "Future"
     },
     {
-      "rank": 36,
-      "track": "I Had Some Help (feat. Morgan Wallen)",
-      "artist": "Post Malone"
-    },
-    {
-      "rank": 37,
-      "track": "Ghetto Love Story",
-      "artist": "BabyChiefDoit"
-    },
-    {
-      "rank": 38,
+      "rank": 25,
       "track": "Man I Need",
       "artist": "Olivia Dean"
     },
     {
+      "rank": 26,
+      "track": "Last Night",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 27,
+      "track": "Best I Ever Had",
+      "artist": "Drake"
+    },
+    {
+      "rank": 28,
+      "track": "Just In Case",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 29,
+      "track": "FDO",
+      "artist": "Pooh Shiesty"
+    },
+    {
+      "rank": 30,
+      "track": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller"
+    },
+    {
+      "rank": 31,
+      "track": "March Madness",
+      "artist": "Future"
+    },
+    {
+      "rank": 32,
+      "track": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone"
+    },
+    {
+      "rank": 33,
+      "track": "AH HA",
+      "artist": "Cardi B"
+    },
+    {
+      "rank": 34,
+      "track": "Frozen",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 35,
+      "track": "What I Want",
+      "artist": "Morgan Wallen & Tate McRae"
+    },
+    {
+      "rank": 36,
+      "track": "I’m Spent",
+      "artist": "Drake & Loe Shimmy"
+    },
+    {
+      "rank": 37,
+      "track": "petal",
+      "artist": "Ariana Grande"
+    },
+    {
+      "rank": 38,
+      "track": "Broken Window Serenade",
+      "artist": "Whiskey Myers"
+    },
+    {
       "rank": 39,
-      "track": "Ran To Atlanta",
-      "artist": "Drake, Future & Molly Santana"
+      "track": "I'M DAT N***A",
+      "artist": "Future"
     },
     {
       "rank": 40,
-      "track": "I'M DAT N***A",
-      "artist": "Future"
+      "track": "Cowgirls (feat. ERNEST)",
+      "artist": "Morgan Wallen"
     }
   ]
 }
