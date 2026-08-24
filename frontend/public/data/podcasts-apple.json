@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-24",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -11,8 +11,8 @@
     },
     {
       "rank": 2,
-      "name": "Crime Junkie",
-      "publisher": "Audiochuck"
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
     },
     {
       "rank": 3,
@@ -21,88 +21,88 @@
     },
     {
       "rank": 4,
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
+    },
+    {
+      "rank": 5,
+      "name": "The Truth About Natalie",
+      "publisher": "Audiochuck"
+    },
+    {
+      "rank": 6,
       "name": "Dateline NBC",
       "publisher": "NBC News"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Pod Save America",
       "publisher": "Pod Save America"
     },
     {
-      "rank": 6,
-      "name": "Mick Unplugged",
-      "publisher": "Mick Hunt"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "name": "Morbid",
       "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
-      "rank": 8,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
       "rank": 9,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "name": "Mick Unplugged",
+      "publisher": "Mick Hunt"
     },
     {
       "rank": 10,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
-    },
-    {
-      "rank": 11,
       "name": "20/20",
       "publisher": "ABC News"
     },
     {
+      "rank": 11,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
       "rank": 12,
-      "name": "What Happened to the McStays?",
-      "publisher": "ABC News"
+      "name": "Up First from NPR",
+      "publisher": "NPR"
     },
     {
       "rank": 13,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 14,
-      "name": "48 Hours",
-      "publisher": "CBS News"
-    },
-    {
-      "rank": 15,
-      "name": "The Dylan Gemelli Podcast",
-      "publisher": "Dylan Gemelli"
-    },
-    {
-      "rank": 16,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
-    },
-    {
-      "rank": 17,
-      "name": "Unblinded with Sean Callagy",
-      "publisher": "Sean Callagy"
-    },
-    {
-      "rank": 18,
       "name": "This American Life",
       "publisher": "This American Life"
     },
     {
+      "rank": 14,
+      "name": "The Dylan Gemelli Podcast",
+      "publisher": "Dylan Gemelli"
+    },
+    {
+      "rank": 15,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 16,
+      "name": "The Mel Robbins Podcast",
+      "publisher": "Mel Robbins"
+    },
+    {
+      "rank": 17,
+      "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+      "publisher": "Ballen Studios"
+    },
+    {
+      "rank": 18,
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
+    },
+    {
       "rank": 19,
-      "name": "World War II with Tom Hanks",
-      "publisher": "The HISTORY Channel | Back Pocket Studios | Audacy"
+      "name": "What Happened to the McStays?",
+      "publisher": "ABC News"
     },
     {
       "rank": 20,
-      "name": "Proven Podcast",
-      "publisher": "Charles Schwartz"
+      "name": "The MeidasTouch Podcast",
+      "publisher": "MeidasTouch Network"
     }
   ]
 }
