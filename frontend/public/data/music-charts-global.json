@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-24",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
@@ -8,140 +8,140 @@
       "rank": 1,
       "track": "=",
       "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 87,
+      "streams": 94,
       "url": null
     },
     {
       "rank": 2,
-      "track": "=",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 170,
+      "track": "+1",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 146,
       "url": null
     },
     {
       "rank": 3,
-      "track": "=",
+      "track": "-1",
       "artist": "Tame Impala - Loser",
-      "streams": 16,
+      "streams": 23,
       "url": null
     },
     {
       "rank": 4,
-      "track": "+3",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 150,
+      "track": "=",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 177,
       "url": null
     },
     {
       "rank": 5,
-      "track": "+1",
-      "artist": "Malcolm Todd - Earrings",
+      "track": "=",
+      "artist": "Temper City - Self Aware",
       "streams": 139,
       "url": null
     },
     {
       "rank": 6,
-      "track": "-1",
-      "artist": "KATSEYE - Animal",
-      "streams": 23,
+      "track": "+3",
+      "artist": "Michael Jackson - Billie Jean",
+      "streams": 517,
       "url": null
     },
     {
       "rank": 7,
-      "track": "-3",
-      "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 79,
+      "track": "+1",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 157,
       "url": null
     },
     {
       "rank": 8,
-      "track": "+3",
-      "artist": "Michael Jackson - Billie Jean",
-      "streams": 510,
+      "track": "-1",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 273,
       "url": null
     },
     {
       "rank": 9,
-      "track": "-1",
-      "artist": "Temper City - Self Aware",
-      "streams": 132,
+      "track": "-3",
+      "artist": "Ariana Grande - hate that i made you love me",
+      "streams": 86,
       "url": null
     },
     {
       "rank": 10,
-      "track": "-1",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 266,
+      "track": "=",
+      "artist": "BTS - SWIM",
+      "streams": 156,
       "url": null
     },
     {
       "rank": 11,
-      "track": "-1",
-      "artist": "BTS - SWIM",
-      "streams": 149,
+      "track": "+3",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 234,
       "url": null
     },
     {
       "rank": 12,
-      "track": "+6",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 227,
+      "track": "-1",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1073,
       "url": null
     },
     {
       "rank": 13,
-      "track": "+2",
-      "artist": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee )",
-      "streams": 2436,
+      "track": "-1",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 93,
       "url": null
     },
     {
       "rank": 14,
       "track": "-1",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 86,
+      "artist": "Oasis - Wonderwall - Remastered",
+      "streams": 1037,
       "url": null
     },
     {
       "rank": 15,
-      "track": "+1",
-      "artist": "sombr - back to friends",
-      "streams": 516,
+      "track": "=",
+      "artist": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee )",
+      "streams": 2443,
       "url": null
     },
     {
       "rank": 16,
-      "track": "+3",
-      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
-      "streams": 730,
+      "track": "+1",
+      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "streams": 11,
       "url": null
     },
     {
       "rank": 17,
-      "track": "=",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 65,
+      "track": "+1",
+      "artist": "KATSEYE - Hootie Frutti",
+      "streams": 9,
       "url": null
     },
     {
       "rank": 18,
-      "track": "-4",
-      "artist": "Ariana Grande - petal",
-      "streams": 16,
+      "track": "+2",
+      "artist": "KATSEYE - Animal",
+      "streams": 30,
       "url": null
     },
     {
       "rank": 19,
-      "track": "+2",
-      "artist": "Ravyn Lenae - Love Me Not",
-      "streams": 515,
+      "track": "-3",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 72,
       "url": null
     },
     {
       "rank": 20,
-      "track": "=",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1066,
+      "track": "-1",
+      "artist": "sombr - back to friends",
+      "streams": 523,
       "url": null
     }
   ]
