@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-31",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -11,198 +11,198 @@
     },
     {
       "rank": 2,
+      "track": "BbY WOW",
+      "artist": "KAROL G, Judeline & rusowsky"
+    },
+    {
+      "rank": 3,
+      "track": "Mainstay (feat. Luv Von)",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 4,
+      "track": "I Am",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 5,
+      "track": "Piece Of Your Love",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 6,
       "track": "Janice STFU",
       "artist": "Drake"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "track": "Been By Now",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "track": "Hustle",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 9,
+      "track": "One More Time",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 10,
       "track": "Dead Fresh",
       "artist": "Lil Baby"
     },
     {
-      "rank": 5,
-      "track": "BbY WOW",
-      "artist": "KAROL G, rusowsky & Judeline"
+      "rank": 11,
+      "track": "TP",
+      "artist": "Rod Wave"
     },
     {
-      "rank": 6,
-      "track": "Some of Your Love",
-      "artist": "PARTYNEXTDOOR"
+      "rank": 12,
+      "track": "Look At Me Momma",
+      "artist": "Rod Wave"
     },
     {
-      "rank": 7,
-      "track": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen"
+      "rank": 13,
+      "track": "Dope Girl",
+      "artist": "Rod Wave"
     },
     {
-      "rank": 8,
+      "rank": 14,
+      "track": "War Wounds",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 15,
+      "track": "Venusian (feat. Hazlett)",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 16,
       "track": "Be Her",
       "artist": "Ella Langley"
     },
     {
-      "rank": 9,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
+      "rank": 17,
+      "track": "Kiss Me Interlude",
+      "artist": "Rod Wave"
     },
     {
-      "rank": 10,
+      "rank": 18,
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
+    },
+    {
+      "rank": 19,
+      "track": "2017 (Streamer U) [feat. Aimee Carty]",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 20,
+      "track": "Lost and Insecure",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 21,
+      "track": "Keep Dancing (feat. Hazlett)",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 22,
+      "track": "Feed The Streets",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 23,
       "track": "In A Minute",
       "artist": "Lil Baby"
     },
     {
-      "rank": 11,
+      "rank": 24,
       "track": "stupid song",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 12,
-      "track": "Don't We",
-      "artist": "Morgan Wallen"
+      "rank": 25,
+      "track": "Not New To It",
+      "artist": "Rod Wave"
     },
     {
-      "rank": 13,
+      "rank": 26,
+      "track": "Freestyle",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 27,
+      "track": "LaCosa Nostra",
+      "artist": "Rod Wave"
+    },
+    {
+      "rank": 28,
+      "track": "Jolene",
+      "artist": "Dolly Parton"
+    },
+    {
+      "rank": 29,
+      "track": "9 to 5",
+      "artist": "Dolly Parton"
+    },
+    {
+      "rank": 30,
       "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 14,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
-    },
-    {
-      "rank": 15,
-      "track": "Boston",
-      "artist": "STELLA LEFTY"
-    },
-    {
-      "rank": 16,
+      "rank": 31,
       "track": "the cure",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 17,
-      "track": "Shabang",
-      "artist": "Drake"
-    },
-    {
-      "rank": 18,
-      "track": "Jaded",
-      "artist": "Koe Wetzel & Ella Langley"
-    },
-    {
-      "rank": 19,
-      "track": "Best I Ever Had",
-      "artist": "Drake"
-    },
-    {
-      "rank": 20,
-      "track": "oh yeah?",
-      "artist": "Steve Lacy"
-    },
-    {
-      "rank": 21,
-      "track": "hate that i made you love me",
-      "artist": "Ariana Grande"
-    },
-    {
-      "rank": 22,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "artist": "Future"
-    },
-    {
-      "rank": 23,
-      "track": "Man I Need",
-      "artist": "Olivia Dean"
-    },
-    {
-      "rank": 24,
-      "track": "Last Night",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 25,
-      "track": "Cinderella (feat. Ty Dolla $ign)",
-      "artist": "Mac Miller"
-    },
-    {
-      "rank": 26,
-      "track": "Just In Case",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 27,
-      "track": "Spend Dat",
-      "artist": "Yung Miami"
-    },
-    {
-      "rank": 28,
-      "track": "March Madness",
-      "artist": "Future"
-    },
-    {
-      "rank": 29,
-      "track": "Reap What You Sow",
-      "artist": "Pooh Shiesty"
-    },
-    {
-      "rank": 30,
-      "track": "Loser",
-      "artist": "Tame Impala"
-    },
-    {
-      "rank": 31,
-      "track": "Frozen",
-      "artist": "Lil Baby"
-    },
-    {
       "rank": 32,
-      "track": "WTF GOIN",
-      "artist": "Belly Gang Kushington & 21 Savage"
+      "track": "The Inspo",
+      "artist": "Rod Wave"
     },
     {
       "rank": 33,
-      "track": "Wants and Needs (feat. Lil Baby)",
-      "artist": "Drake"
+      "track": "Boston",
+      "artist": "STELLA LEFTY"
     },
     {
       "rank": 34,
-      "track": "I'M DAT N***A",
+      "track": "WAIT FOR U (feat. Drake & Tems)",
       "artist": "Future"
     },
     {
       "rank": 35,
-      "track": "Broken Window Serenade",
-      "artist": "Whiskey Myers"
+      "track": "Don't We",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 36,
-      "track": "I Had Some Help (feat. Morgan Wallen)",
-      "artist": "Post Malone"
+      "track": "Overrated",
+      "artist": "Rod Wave"
     },
     {
       "rank": 37,
-      "track": "Stick Talk",
-      "artist": "Future"
+      "track": "All I Ever Had",
+      "artist": "Rod Wave"
     },
     {
       "rank": 38,
-      "track": "Cowgirls (feat. ERNEST)",
-      "artist": "Morgan Wallen"
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future"
     },
     {
       "rank": 39,
-      "track": "What I Want",
-      "artist": "Morgan Wallen & Tate McRae"
+      "track": "Man I Need",
+      "artist": "Olivia Dean"
     },
     {
       "rank": 40,
-      "track": "Thinkin’ Bout Me",
-      "artist": "Morgan Wallen"
+      "track": "Frozen",
+      "artist": "Lil Baby"
     }
   ]
 }
