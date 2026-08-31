@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-31",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "name": "The Daily",
-      "publisher": "The New York Times"
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
     },
     {
       "rank": 2,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
+      "name": "The Daily",
+      "publisher": "The New York Times"
     },
     {
       "rank": 3,
@@ -21,13 +21,13 @@
     },
     {
       "rank": 4,
-      "name": "Crime Junkie",
-      "publisher": "Audiochuck"
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
       "rank": 5,
-      "name": "The Truth About Natalie",
-      "publisher": "Audiochuck"
+      "name": "Mick Unplugged",
+      "publisher": "Mick Hunt"
     },
     {
       "rank": 6,
@@ -36,8 +36,8 @@
     },
     {
       "rank": 7,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
     },
     {
       "rank": 8,
@@ -46,63 +46,63 @@
     },
     {
       "rank": 9,
-      "name": "Mick Unplugged",
-      "publisher": "Mick Hunt"
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
     },
     {
       "rank": 10,
-      "name": "20/20",
-      "publisher": "ABC News"
-    },
-    {
-      "rank": 11,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 12,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 13,
       "name": "This American Life",
       "publisher": "This American Life"
     },
     {
+      "rank": 11,
+      "name": "Love Trapped",
+      "publisher": "iHeartPodcasts and Glass Podcasts"
+    },
+    {
+      "rank": 12,
+      "name": "Dolly Parton's America",
+      "publisher": "WNYC Studios & OSM Audio"
+    },
+    {
+      "rank": 13,
+      "name": "The Truth About Natalie",
+      "publisher": "Audiochuck"
+    },
+    {
       "rank": 14,
-      "name": "The Dylan Gemelli Podcast",
-      "publisher": "Dylan Gemelli"
-    },
-    {
-      "rank": 15,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 16,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
-    },
-    {
-      "rank": 17,
-      "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
-      "publisher": "Ballen Studios"
-    },
-    {
-      "rank": 18,
       "name": "Unblinded with Sean Callagy",
       "publisher": "Sean Callagy"
     },
     {
-      "rank": 19,
-      "name": "What Happened to the McStays?",
+      "rank": 15,
+      "name": "REAL AF with Andy Frisella",
+      "publisher": "Andy Frisella"
+    },
+    {
+      "rank": 16,
+      "name": "20/20",
       "publisher": "ABC News"
     },
     {
+      "rank": 17,
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
+    },
+    {
+      "rank": 18,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
+      "rank": 19,
+      "name": "The Dylan Gemelli Podcast",
+      "publisher": "Dylan Gemelli"
+    },
+    {
       "rank": 20,
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network"
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
     }
   ]
 }
