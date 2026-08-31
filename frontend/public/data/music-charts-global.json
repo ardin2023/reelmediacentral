@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-31",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
@@ -7,141 +7,141 @@
     {
       "rank": 1,
       "track": "=",
-      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 94,
+      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "streams": 18,
       "url": null
     },
     {
       "rank": 2,
       "track": "+1",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 146,
+      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
+      "streams": 101,
       "url": null
     },
     {
       "rank": 3,
       "track": "-1",
-      "artist": "Tame Impala - Loser",
-      "streams": 23,
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 184,
       "url": null
     },
     {
       "rank": 4,
       "track": "=",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 177,
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 164,
       "url": null
     },
     {
       "rank": 5,
-      "track": "=",
-      "artist": "Temper City - Self Aware",
-      "streams": 139,
+      "track": "+1",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 153,
       "url": null
     },
     {
       "rank": 6,
-      "track": "+3",
+      "track": "+2",
       "artist": "Michael Jackson - Billie Jean",
-      "streams": 517,
+      "streams": 524,
       "url": null
     },
     {
       "rank": 7,
-      "track": "+1",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 157,
+      "track": "=",
+      "artist": "Temper City - Self Aware",
+      "streams": 146,
       "url": null
     },
     {
       "rank": 8,
-      "track": "-1",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 273,
+      "track": "-3",
+      "artist": "Tame Impala - Loser",
+      "streams": 30,
       "url": null
     },
     {
       "rank": 9,
-      "track": "-3",
-      "artist": "Ariana Grande - hate that i made you love me",
-      "streams": 86,
+      "track": "=",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 280,
       "url": null
     },
     {
       "rank": 10,
-      "track": "=",
-      "artist": "BTS - SWIM",
-      "streams": 156,
+      "track": "+4",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 241,
       "url": null
     },
     {
       "rank": 11,
-      "track": "+3",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 234,
+      "track": "-1",
+      "artist": "sombr - back to friends",
+      "streams": 530,
       "url": null
     },
     {
       "rank": 12,
-      "track": "-1",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1073,
+      "track": "=",
+      "artist": "BTS - SWIM",
+      "streams": 163,
       "url": null
     },
     {
       "rank": 13,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 93,
+      "track": "+3",
+      "artist": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee )",
+      "streams": 2450,
       "url": null
     },
     {
       "rank": 14,
       "track": "-1",
-      "artist": "Oasis - Wonderwall - Remastered",
-      "streams": 1037,
+      "artist": "Ariana Grande - hate that i made you love me",
+      "streams": 93,
       "url": null
     },
     {
       "rank": 15,
       "track": "=",
-      "artist": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee )",
-      "streams": 2443,
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1080,
       "url": null
     },
     {
       "rank": 16,
-      "track": "+1",
-      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 11,
+      "track": "-5",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 100,
       "url": null
     },
     {
       "rank": 17,
-      "track": "+1",
-      "artist": "KATSEYE - Hootie Frutti",
-      "streams": 9,
+      "track": "=",
+      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
+      "streams": 744,
       "url": null
     },
     {
       "rank": 18,
       "track": "+2",
-      "artist": "KATSEYE - Animal",
-      "streams": 30,
+      "artist": "Shawn Mendes - Treat You Better",
+      "streams": 730,
       "url": null
     },
     {
       "rank": 19,
-      "track": "-3",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 72,
+      "track": "+2",
+      "artist": "Ravyn Lenae - Love Me Not",
+      "streams": 529,
       "url": null
     },
     {
       "rank": 20,
       "track": "-1",
-      "artist": "sombr - back to friends",
-      "streams": 523,
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 79,
       "url": null
     }
   ]
