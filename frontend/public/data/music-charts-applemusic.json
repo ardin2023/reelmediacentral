@@ -1,208 +1,208 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-14",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
+      "track": "BbY WOW",
+      "artist": "KAROL G, Judeline & rusowsky"
+    },
+    {
+      "rank": 2,
       "track": "Choosin' Texas",
       "artist": "Ella Langley"
     },
     {
-      "rank": 2,
-      "track": "BbY WOW",
-      "artist": "KAROL G, rusowsky & Judeline"
-    },
-    {
       "rank": 3,
-      "track": "Janice STFU",
-      "artist": "Drake"
+      "track": "So Good (feat. Kendrick Lamar)",
+      "artist": "Jhené Aiko"
     },
     {
       "rank": 4,
+      "track": "He Belongs",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 5,
+      "track": "Ghost",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 6,
+      "track": "Ceiling (Freestyle)",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 7,
       "track": "Been By Now",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "track": "Janice STFU",
+      "artist": "Drake"
+    },
+    {
+      "rank": 9,
+      "track": "Love Bomb",
+      "artist": "Jhené Aiko & Ab-Soul"
+    },
+    {
+      "rank": 10,
       "track": "Dead Fresh",
       "artist": "Lil Baby"
     },
     {
-      "rank": 6,
-      "track": "Be Her",
-      "artist": "Ella Langley"
+      "rank": 11,
+      "track": "Like, Whatever (feat. Tyga)",
+      "artist": "Jhené Aiko"
     },
     {
-      "rank": 7,
+      "rank": 12,
+      "track": "Nothing Nice to Say",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 13,
+      "track": "Break",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 14,
       "track": "In A Minute",
       "artist": "Lil Baby"
     },
     {
-      "rank": 8,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
+      "rank": 15,
+      "track": "Be Her",
+      "artist": "Ella Langley"
     },
     {
-      "rank": 9,
+      "rank": 16,
       "track": "I Can't Love You Anymore",
       "artist": "Ella Langley & Morgan Wallen"
     },
     {
-      "rank": 10,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
+      "rank": 17,
+      "track": "Freestyle",
+      "artist": "Lil Baby"
     },
     {
-      "rank": 11,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "artist": "Future"
-    },
-    {
-      "rank": 12,
-      "track": "I'm The Problem",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 13,
-      "track": "WTF GOIN",
-      "artist": "Belly Gang Kushington & 21 Savage"
-    },
-    {
-      "rank": 14,
+      "rank": 18,
       "track": "stupid song",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 15,
-      "track": "Don't We",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 16,
-      "track": "Dope Girl",
-      "artist": "Rod Wave"
-    },
-    {
-      "rank": 17,
-      "track": "Boston",
-      "artist": "STELLA LEFTY"
-    },
-    {
-      "rank": 18,
-      "track": "March Madness",
-      "artist": "Future"
-    },
-    {
       "rank": 19,
-      "track": "Best I Ever Had",
-      "artist": "Drake"
+      "track": "Wild Cat(s)",
+      "artist": "Jhené Aiko"
     },
     {
       "rank": 20,
-      "track": "Shabang",
-      "artist": "Drake"
+      "track": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future"
     },
     {
       "rank": 21,
-      "track": "Frozen",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 22,
       "track": "the cure",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 23,
-      "track": "Last Night",
+      "rank": 22,
+      "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
+      "rank": 23,
+      "track": "You",
+      "artist": "Jhené Aiko"
+    },
+    {
       "rank": 24,
-      "track": "I'M DAT N***A",
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "artist": "Future"
     },
     {
       "rank": 25,
-      "track": "Stick Talk",
-      "artist": "Future"
-    },
-    {
-      "rank": 26,
-      "track": "Mainstay (feat. Luv Von)",
+      "track": "Dope Girl",
       "artist": "Rod Wave"
     },
     {
-      "rank": 27,
-      "track": "Spend Dat",
-      "artist": "Yung Miami"
+      "rank": 26,
+      "track": "Don't Be That Guy",
+      "artist": "Jhené Aiko"
     },
     {
-      "rank": 28,
-      "track": "Just In Case",
+      "rank": 27,
+      "track": "Don't We",
       "artist": "Morgan Wallen"
     },
     {
+      "rank": 28,
+      "track": "WTF GOIN",
+      "artist": "Belly Gang Kushington & 21 Savage"
+    },
+    {
       "rank": 29,
-      "track": "I Had Some Help (feat. Morgan Wallen)",
-      "artist": "Post Malone"
+      "track": "Boston",
+      "artist": "STELLA LEFTY"
     },
     {
       "rank": 30,
-      "track": "Cinderella (feat. Ty Dolla $ign)",
-      "artist": "Mac Miller"
-    },
-    {
-      "rank": 31,
-      "track": "Broken Window Serenade",
-      "artist": "Whiskey Myers"
-    },
-    {
-      "rank": 32,
-      "track": "Sum 2 Prove",
+      "track": "Frozen",
       "artist": "Lil Baby"
     },
     {
+      "rank": 31,
+      "track": "Lullaby",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 32,
+      "track": "Best I Ever Had",
+      "artist": "Drake"
+    },
+    {
       "rank": 33,
+      "track": "March Madness",
+      "artist": "Future"
+    },
+    {
+      "rank": 34,
+      "track": "Last Night",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 35,
+      "track": "I'M DAT N***A",
+      "artist": "Future"
+    },
+    {
+      "rank": 36,
       "track": "Man I Need",
       "artist": "Olivia Dean"
     },
     {
-      "rank": 34,
-      "track": "Piece Of Your Love",
-      "artist": "Rod Wave"
-    },
-    {
-      "rank": 35,
-      "track": "Wants and Needs (feat. Lil Baby)",
-      "artist": "Drake"
-    },
-    {
-      "rank": 36,
-      "track": "Right On",
-      "artist": "Lil Baby"
-    },
-    {
       "rank": 37,
-      "track": "Cowgirls (feat. ERNEST)",
-      "artist": "Morgan Wallen"
+      "track": "Neighbors (feat. Larry June)",
+      "artist": "Jhené Aiko"
     },
     {
       "rank": 38,
-      "track": "Kacey Talk",
-      "artist": "YoungBoy Never Broke Again"
+      "track": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller"
     },
     {
       "rank": 39,
-      "track": "I’m Spent",
-      "artist": "Drake & Loe Shimmy"
+      "track": "Just In Case",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 40,
-      "track": "Thinkin’ Bout Me",
-      "artist": "Morgan Wallen"
+      "track": "Stick Talk",
+      "artist": "Future"
     }
   ]
 }
