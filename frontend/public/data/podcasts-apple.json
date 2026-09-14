@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-14",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "name": "Crime Junkie",
-      "publisher": "Audiochuck"
-    },
-    {
-      "rank": 2,
       "name": "The Daily",
       "publisher": "The New York Times"
     },
     {
+      "rank": 2,
+      "name": "Crime Junkie",
+      "publisher": "Audiochuck"
+    },
+    {
       "rank": 3,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
     },
     {
       "rank": 4,
@@ -26,13 +26,13 @@
     },
     {
       "rank": 5,
-      "name": "The Joe Rogan Experience",
-      "publisher": "Joe Rogan"
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
       "rank": 6,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
       "rank": 7,
@@ -41,18 +41,18 @@
     },
     {
       "rank": 8,
+      "name": "REAL AF with Andy Frisella",
+      "publisher": "Andy Frisella"
+    },
+    {
+      "rank": 9,
       "name": "The Rest Is History",
       "publisher": "Goalhanger"
     },
     {
-      "rank": 9,
-      "name": "Mick Unplugged",
-      "publisher": "Mick Hunt"
-    },
-    {
       "rank": 10,
-      "name": "COERCED: The Devotion & Death of Mica Francis Miller",
-      "publisher": "LUNASHARK®⁠"
+      "name": "Up First from NPR",
+      "publisher": "NPR"
     },
     {
       "rank": 11,
@@ -61,48 +61,48 @@
     },
     {
       "rank": 12,
-      "name": "48 Hours",
-      "publisher": "CBS News"
+      "name": "The Dylan Gemelli Podcast",
+      "publisher": "Dylan Gemelli"
     },
     {
       "rank": 13,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 14,
-      "name": "Love Trapped",
-      "publisher": "iHeartPodcasts and Glass Podcasts"
-    },
-    {
-      "rank": 15,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 16,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 17,
-      "name": "The Megyn Kelly Show",
-      "publisher": "SiriusXM"
-    },
-    {
-      "rank": 18,
       "name": "Good Hang with Amy Poehler",
       "publisher": "The Ringer"
     },
     {
+      "rank": 14,
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
+    },
+    {
+      "rank": 15,
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
+    },
+    {
+      "rank": 16,
+      "name": "Mick Unplugged",
+      "publisher": "Mick Hunt"
+    },
+    {
+      "rank": 17,
+      "name": "48 Hours",
+      "publisher": "CBS News"
+    },
+    {
+      "rank": 18,
+      "name": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
+      "publisher": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
+    },
+    {
       "rank": 19,
-      "name": "REAL AF with Andy Frisella",
-      "publisher": "Andy Frisella"
+      "name": "Passion Struck with John R. Miles",
+      "publisher": "Passion Struck with John R. Miles"
     },
     {
       "rank": 20,
-      "name": "The Dylan Gemelli Podcast",
-      "publisher": "Dylan Gemelli"
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
     }
   ]
 }
