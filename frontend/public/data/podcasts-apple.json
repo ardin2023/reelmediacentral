@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-28",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -16,33 +16,33 @@
     },
     {
       "rank": 3,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
+      "name": "Up First from NPR",
+      "publisher": "NPR"
     },
     {
       "rank": 4,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
-    },
-    {
-      "rank": 5,
       "name": "REAL AF with Andy Frisella",
       "publisher": "Andy Frisella"
     },
     {
+      "rank": 5,
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
+    },
+    {
       "rank": 6,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
+      "name": "The Dylan Gemelli Podcast",
+      "publisher": "Dylan Gemelli"
     },
     {
       "rank": 7,
-      "name": "The Joe Rogan Experience",
-      "publisher": "Joe Rogan"
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
     },
     {
       "rank": 8,
-      "name": "The Dylan Gemelli Podcast",
-      "publisher": "Dylan Gemelli"
+      "name": "Mick Unplugged",
+      "publisher": "Mick Hunt"
     },
     {
       "rank": 9,
@@ -51,58 +51,58 @@
     },
     {
       "rank": 10,
-      "name": "Mick Unplugged",
-      "publisher": "Mick Hunt"
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
     },
     {
       "rank": 11,
-      "name": "In The Dark",
-      "publisher": "The New Yorker"
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
     },
     {
       "rank": 12,
-      "name": "20/20",
-      "publisher": "ABC News"
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
     },
     {
       "rank": 13,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
+      "name": "Live Free with Josh Howerton",
+      "publisher": "Lakepointe Church"
     },
     {
       "rank": 14,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
       "rank": 15,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 16,
-      "name": "The Learning Leader Show With Ryan Hawk",
-      "publisher": "Ryan Hawk"
-    },
-    {
-      "rank": 17,
       "name": "Unblinded with Sean Callagy",
       "publisher": "Sean Callagy"
     },
     {
-      "rank": 18,
-      "name": "Good Hang with Amy Poehler",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "name": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
       "publisher": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
     },
     {
+      "rank": 17,
+      "name": "Passion Struck with John R. Miles",
+      "publisher": "Passion Struck with John R. Miles"
+    },
+    {
+      "rank": 18,
+      "name": "20/20",
+      "publisher": "ABC News"
+    },
+    {
+      "rank": 19,
+      "name": "The Learning Leader Show With Ryan Hawk",
+      "publisher": "Ryan Hawk"
+    },
+    {
       "rank": 20,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
+      "name": "Tomorrow, Today",
+      "publisher": "Shekhar Natarajan"
     }
   ]
 }
