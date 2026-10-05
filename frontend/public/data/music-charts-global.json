@@ -1,147 +1,147 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-10-05",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "+4",
+      "track": "=",
       "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 46,
+      "streams": 54,
       "url": null
     },
     {
       "rank": 2,
-      "track": "-1",
+      "track": "=",
       "artist": "Taylor Swift - Patient Zero",
-      "streams": 2,
+      "streams": 10,
       "url": null
     },
     {
       "rank": 3,
-      "track": "-1",
-      "artist": "Taylor Swift - Cleveland!",
-      "streams": 2,
+      "track": "=",
+      "artist": "ADÃLA - Nicole Kidman",
+      "streams": 31,
       "url": null
     },
     {
       "rank": 4,
-      "track": "+2",
-      "artist": "ADÃLA - Nicole Kidman",
-      "streams": 23,
+      "track": "=",
+      "artist": "ADÃLA - Ain't In LA",
+      "streams": 68,
       "url": null
     },
     {
       "rank": 5,
-      "track": "-1",
-      "artist": "Taylor Swift - Babylon",
-      "streams": 2,
+      "track": "=",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 136,
       "url": null
     },
     {
       "rank": 6,
-      "track": "-3",
-      "artist": "Taylor Swift - Pink Clouding",
-      "streams": 2,
+      "track": "=",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 189,
       "url": null
     },
     {
       "rank": 7,
       "track": "+1",
-      "artist": "ADÃLA - Ain't In LA",
-      "streams": 60,
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 200,
       "url": null
     },
     {
       "rank": 8,
-      "track": "+1",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 181,
+      "track": "-1",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 220,
       "url": null
     },
     {
       "rank": 9,
-      "track": "+1",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 212,
+      "track": "=",
+      "artist": "Temper City - Self Aware",
+      "streams": 182,
       "url": null
     },
     {
       "rank": 10,
       "track": "+2",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 128,
+      "artist": "sombr - back to friends",
+      "streams": 566,
       "url": null
     },
     {
       "rank": 11,
-      "track": "-4",
-      "artist": "Taylor Swift - The Fate of Ophelia",
-      "streams": 359,
+      "track": "=",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 115,
       "url": null
     },
     {
       "rank": 12,
-      "track": "-1",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 192,
+      "track": "+5",
+      "artist": "The Neighbourhood - Sweater Weather",
+      "streams": 2317,
       "url": null
     },
     {
       "rank": 13,
-      "track": "=",
-      "artist": "Temper City - Self Aware",
-      "streams": 174,
+      "track": "+3",
+      "artist": "Ravyn Lenae - Love Me Not",
+      "streams": 565,
       "url": null
     },
     {
       "rank": 14,
-      "track": "+9",
-      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
-      "streams": 129,
+      "track": "+4",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1116,
       "url": null
     },
     {
       "rank": 15,
-      "track": "=",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 269,
+      "track": "+5",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 316,
       "url": null
     },
     {
       "rank": 16,
-      "track": "=",
-      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
-      "streams": 772,
+      "track": "+13",
+      "artist": "Ashe - Stop The Wedding!",
+      "streams": 27,
       "url": null
     },
     {
       "rank": 17,
-      "track": "-3",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1108,
+      "track": "-2",
+      "artist": "Tame Impala - Loser",
+      "streams": 66,
       "url": null
     },
     {
       "rank": 18,
-      "track": "+3",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 107,
+      "track": "-8",
+      "artist": "Shakira - Dai Dai (w/ Burna Boy )",
+      "streams": 137,
       "url": null
     },
     {
       "rank": 19,
-      "track": "+1",
-      "artist": "Ravyn Lenae - Love Me Not",
-      "streams": 557,
+      "track": "+4",
+      "artist": "SIENNA SPIRO - Great Expectation",
+      "streams": 89,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-3",
-      "artist": "sombr - back to friends",
-      "streams": 558,
+      "track": "-1",
+      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
+      "streams": 780,
       "url": null
     }
   ]
