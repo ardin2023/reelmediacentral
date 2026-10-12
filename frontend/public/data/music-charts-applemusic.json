@@ -1,48 +1,48 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-10-12",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "track": "Patient Zero",
-      "artist": "Taylor Swift"
+      "track": "Solar Eclipse",
+      "artist": "Drake & Don Toliver"
     },
     {
       "rank": 2,
-      "track": "Cleveland!",
-      "artist": "Taylor Swift"
-    },
-    {
-      "rank": 3,
-      "track": "Babylon",
-      "artist": "Taylor Swift"
-    },
-    {
-      "rank": 4,
       "track": "Choosin' Texas",
       "artist": "Ella Langley"
     },
     {
-      "rank": 5,
-      "track": "Pink Clouding",
-      "artist": "Taylor Swift"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "track": "BbY WOW",
       "artist": "KAROL G, Judeline & rusowsky"
     },
     {
-      "rank": 7,
-      "track": "Last Thing You Need (from GTAVI: The Album)",
+      "rank": 4,
+      "track": "Quebec",
+      "artist": "Drake"
+    },
+    {
+      "rank": 5,
+      "track": "Cold Shoulder",
+      "artist": "Drake, Don Toliver & Yebba"
+    },
+    {
+      "rank": 6,
+      "track": "Last Thing You Need",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track": "Janice STFU",
       "artist": "Drake"
+    },
+    {
+      "rank": 8,
+      "track": "Nicole Kidman",
+      "artist": "ADÉLA"
     },
     {
       "rank": 9,
@@ -51,8 +51,8 @@
     },
     {
       "rank": 10,
-      "track": "Nicole Kidman",
-      "artist": "ADÉLA"
+      "track": "Patient Zero",
+      "artist": "Taylor Swift"
     },
     {
       "rank": 11,
@@ -66,58 +66,58 @@
     },
     {
       "rank": 13,
-      "track": "Be Her",
-      "artist": "Ella Langley"
-    },
-    {
-      "rank": 14,
       "track": "the cure",
       "artist": "Olivia Rodrigo"
     },
     {
-      "rank": 15,
-      "track": "The Fate of Ophelia",
-      "artist": "Taylor Swift"
-    },
-    {
-      "rank": 16,
-      "track": "In A Minute",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 17,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 18,
-      "track": "Dead Fresh",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 19,
+      "rank": 14,
       "track": "WAIT FOR U (feat. Drake & Tems)",
       "artist": "Future"
     },
     {
-      "rank": 20,
-      "track": "So Good (feat. Kendrick Lamar)",
-      "artist": "Jhené Aiko"
+      "rank": 15,
+      "track": "In A Minute",
+      "artist": "Lil Baby"
     },
     {
-      "rank": 21,
+      "rank": 16,
+      "track": "Freestyle",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 17,
+      "track": "Be Her",
+      "artist": "Ella Langley"
+    },
+    {
+      "rank": 18,
       "track": "Best I Ever Had",
       "artist": "Drake"
     },
     {
-      "rank": 22,
+      "rank": 19,
       "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
+      "rank": 20,
+      "track": "I’m Spent",
+      "artist": "Drake & Loe Shimmy"
+    },
+    {
+      "rank": 21,
+      "track": "Dead Fresh",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 22,
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future"
+    },
+    {
       "rank": 23,
-      "track": "Dope Girl",
-      "artist": "Rod Wave"
+      "track": "Broken Window Serenade",
+      "artist": "Whiskey Myers"
     },
     {
       "rank": 24,
@@ -131,23 +131,23 @@
     },
     {
       "rank": 26,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "artist": "Future"
-    },
-    {
-      "rank": 27,
-      "track": "Frozen",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 28,
       "track": "March Madness",
       "artist": "Future"
     },
     {
+      "rank": 27,
+      "track": "pop it",
+      "artist": "Gunna"
+    },
+    {
+      "rank": 28,
+      "track": "Frozen",
+      "artist": "Lil Baby"
+    },
+    {
       "rank": 29,
-      "track": "I’m Spent",
-      "artist": "Drake & Loe Shimmy"
+      "track": "Last Night",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 30,
@@ -156,43 +156,43 @@
     },
     {
       "rank": 31,
-      "track": "Wants and Needs (feat. Lil Baby)",
-      "artist": "Drake"
-    },
-    {
-      "rank": 32,
-      "track": "Opalite",
-      "artist": "Taylor Swift"
-    },
-    {
-      "rank": 33,
-      "track": "Last Night",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 34,
-      "track": "Broken Window Serenade",
-      "artist": "Whiskey Myers"
-    },
-    {
-      "rank": 35,
       "track": "I'M DAT N***A",
       "artist": "Future"
     },
     {
+      "rank": 32,
+      "track": "So Good (feat. Kendrick Lamar)",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 33,
+      "track": "Wants and Needs (feat. Lil Baby)",
+      "artist": "Drake"
+    },
+    {
+      "rank": 34,
+      "track": "Just In Case",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 35,
+      "track": "Stick Talk",
+      "artist": "Future"
+    },
+    {
       "rank": 36,
-      "track": "Kacey Talk",
-      "artist": "YoungBoy Never Broke Again"
+      "track": "Snooze",
+      "artist": "SZA"
     },
     {
       "rank": 37,
-      "track": "WTF GOIN",
-      "artist": "Belly Gang Kushington & 21 Savage"
+      "track": "Man I Need",
+      "artist": "Olivia Dean"
     },
     {
       "rank": 38,
-      "track": "Just In Case",
-      "artist": "Morgan Wallen"
+      "track": "Girls Need Love",
+      "artist": "Summer Walker"
     },
     {
       "rank": 39,
@@ -201,8 +201,8 @@
     },
     {
       "rank": 40,
-      "track": "Boston",
-      "artist": "STELLA LEFTY"
+      "track": "Kacey Talk",
+      "artist": "YoungBoy Never Broke Again"
     }
   ]
 }
