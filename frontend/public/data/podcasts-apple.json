@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-19",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -16,93 +16,93 @@
     },
     {
       "rank": 3,
-      "name": "In The Dark",
-      "publisher": "The New Yorker"
-    },
-    {
-      "rank": 4,
-      "name": "Up First from NPR",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 5,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
-    },
-    {
-      "rank": 6,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
-    },
-    {
-      "rank": 7,
       "name": "The Joe Rogan Experience",
       "publisher": "Joe Rogan"
     },
     {
-      "rank": 8,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
+      "rank": 4,
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
-      "rank": 9,
-      "name": "This American Life",
-      "publisher": "This American Life"
+      "rank": 5,
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
     },
     {
-      "rank": 10,
-      "name": "20/20",
-      "publisher": "ABC News"
-    },
-    {
-      "rank": 11,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
-    },
-    {
-      "rank": 12,
-      "name": "The Bill Simmons Podcast",
-      "publisher": "The Ringer"
-    },
-    {
-      "rank": 13,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
-    },
-    {
-      "rank": 14,
+      "rank": 6,
       "name": "REAL AF with Andy Frisella",
       "publisher": "Andy Frisella"
     },
     {
-      "rank": 15,
+      "rank": 7,
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
+    },
+    {
+      "rank": 8,
+      "name": "This American Life",
+      "publisher": "This American Life"
+    },
+    {
+      "rank": 9,
       "name": "Good Hang with Amy Poehler",
       "publisher": "The Ringer"
     },
     {
+      "rank": 10,
+      "name": "Tomorrow, Today",
+      "publisher": "Shekhar Natarajan"
+    },
+    {
+      "rank": 11,
+      "name": "The Dylan Gemelli Podcast",
+      "publisher": "Dylan Gemelli"
+    },
+    {
+      "rank": 12,
+      "name": "Unblinded with Sean Callagy",
+      "publisher": "Sean Callagy"
+    },
+    {
+      "rank": 13,
+      "name": "20/20",
+      "publisher": "ABC News"
+    },
+    {
+      "rank": 14,
+      "name": "Proven Podcast",
+      "publisher": "Charles Schwartz"
+    },
+    {
+      "rank": 15,
+      "name": "Up First from NPR",
+      "publisher": "NPR"
+    },
+    {
       "rank": 16,
-      "name": "48 Hours",
-      "publisher": "48 Hours"
+      "name": "Mick Unplugged",
+      "publisher": "Mick Hunt"
     },
     {
       "rank": 17,
-      "name": "SmartLess",
-      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
+      "name": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
+      "publisher": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network"
     },
     {
       "rank": 18,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
+      "name": "Passion Struck with John R. Miles",
+      "publisher": "Passion Struck with John R. Miles"
     },
     {
       "rank": 19,
-      "name": "Reaching Out",
-      "publisher": "Futuro Media"
+      "name": "Habits and Hustle",
+      "publisher": "Jen Cohen"
     },
     {
       "rank": 20,
-      "name": "The Shawn Ryan Show",
-      "publisher": "Shawn Ryan"
+      "name": "Tony Mantor: Why Not Me ?",
+      "publisher": "iHeartPodcasts"
     }
   ]
 }
