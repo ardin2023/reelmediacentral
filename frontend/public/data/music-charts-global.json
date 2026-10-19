@@ -1,147 +1,147 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-19",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "=",
+      "track": "+1",
       "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 61,
+      "streams": 67,
       "url": null
     },
     {
       "rank": 2,
-      "track": "=",
+      "track": "+1",
       "artist": "ADÃLA - Nicole Kidman",
-      "streams": 38,
+      "streams": 44,
       "url": null
     },
     {
       "rank": 3,
-      "track": "=",
+      "track": "+2",
       "artist": "ADÃLA - Ain't In LA",
-      "streams": 75,
+      "streams": 81,
       "url": null
     },
     {
       "rank": 4,
-      "track": "=",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 143,
+      "track": "-3",
+      "artist": "Tate McRae - Housewife",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 5,
-      "track": "=",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 196,
+      "track": "+1",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 149,
       "url": null
     },
     {
       "rank": 6,
       "track": "+3",
-      "artist": "Ashe - Stop The Wedding!",
-      "streams": 34,
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 202,
       "url": null
     },
     {
       "rank": 7,
-      "track": "-1",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 227,
+      "track": "=",
+      "artist": "Ashe - Stop The Wedding!",
+      "streams": 40,
       "url": null
     },
     {
       "rank": 8,
-      "track": "=",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 207,
+      "track": "+3",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 233,
       "url": null
     },
     {
       "rank": 9,
-      "track": "+2",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 122,
+      "track": "+12",
+      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
+      "streams": 9,
       "url": null
     },
     {
       "rank": 10,
-      "track": "+8",
-      "artist": "Temper City - Self Aware",
-      "streams": 189,
+      "track": "+3",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 213,
       "url": null
     },
     {
       "rank": 11,
-      "track": "-1",
-      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
-      "streams": 787,
+      "track": "-3",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 128,
       "url": null
     },
     {
       "rank": 12,
-      "track": "+2",
-      "artist": "sombr - back to friends",
-      "streams": 573,
+      "track": "=",
+      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
+      "streams": 793,
       "url": null
     },
     {
       "rank": 13,
-      "track": "+4",
-      "artist": "The Neighbourhood - Sweater Weather",
-      "streams": 2324,
+      "track": "-9",
+      "artist": "Olivia Rodrigo - expectations (w/ Chappell Roan )",
+      "streams": 2,
       "url": null
     },
     {
       "rank": 14,
-      "track": "+2",
-      "artist": "Ravyn Lenae - Love Me Not",
-      "streams": 572,
+      "track": "=",
+      "artist": "sombr - back to friends",
+      "streams": 579,
       "url": null
     },
     {
       "rank": 15,
-      "track": "-8",
-      "artist": "Taylor Swift - Patient Zero",
-      "streams": 17,
+      "track": "+2",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 424,
       "url": null
     },
     {
       "rank": 16,
-      "track": "-1",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1123,
+      "track": "+2",
+      "artist": "Ravyn Lenae - Love Me Not",
+      "streams": 578,
       "url": null
     },
     {
       "rank": 17,
       "track": "+2",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 323,
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1129,
       "url": null
     },
     {
       "rank": 18,
-      "track": "-5",
-      "artist": "Tame Impala - Loser",
-      "streams": 73,
+      "track": "+2",
+      "artist": "The Neighbourhood - Sweater Weather",
+      "streams": 2330,
       "url": null
     },
     {
       "rank": 19,
-      "track": "+5",
+      "track": "-4",
       "artist": "SIENNA SPIRO - Great Expectation",
-      "streams": 96,
+      "streams": 102,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-8",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 418,
+      "track": "+2",
+      "artist": "Dominic Fike - Babydoll",
+      "streams": 329,
       "url": null
     }
   ]
