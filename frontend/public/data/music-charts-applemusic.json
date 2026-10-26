@@ -1,208 +1,208 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-26",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "track": "Lies (feat. Lana Del Rey)",
-      "artist": "Zach Bryan & Lana Del Rey"
-    },
-    {
-      "rank": 2,
       "track": "Housewife",
       "artist": "Tate McRae"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track": "Choosin' Texas",
       "artist": "Ella Langley"
     },
     {
-      "rank": 4,
-      "track": "Solar Eclipse",
-      "artist": "Drake & Don Toliver"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "track": "BbY WOW",
       "artist": "KAROL G, Judeline & rusowsky"
     },
     {
+      "rank": 4,
+      "track": "Lies (feat. Lana Del Rey)",
+      "artist": "Zach Bryan & Lana Del Rey"
+    },
+    {
+      "rank": 5,
+      "track": "Solar Eclipse",
+      "artist": "Drake & Don Toliver"
+    },
+    {
       "rank": 6,
-      "track": "Lodi When",
-      "artist": "Zach Bryan"
-    },
-    {
-      "rank": 7,
-      "track": "Quebec",
-      "artist": "Drake"
-    },
-    {
-      "rank": 8,
       "track": "Nicole Kidman",
       "artist": "ADÉLA"
     },
     {
-      "rank": 9,
-      "track": "Janice STFU",
-      "artist": "Drake"
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "track": "Been By Now",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 11,
-      "track": "Robot Killed The Working Man",
-      "artist": "Zach Bryan"
+      "rank": 8,
+      "track": "Janice STFU",
+      "artist": "Drake"
     },
     {
-      "rank": 12,
-      "track": "Last Thing You Need",
-      "artist": "Morgan Wallen"
+      "rank": 9,
+      "track": "Quebec",
+      "artist": "Drake"
     },
     {
-      "rank": 13,
-      "track": "stupid song",
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "rank": 14,
+      "rank": 10,
       "track": "In A Minute",
       "artist": "Lil Baby"
     },
     {
-      "rank": 15,
-      "track": "Cold Shoulder",
-      "artist": "Drake, Don Toliver & Yebba"
-    },
-    {
-      "rank": 16,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 17,
-      "track": "the cure",
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "rank": 18,
+      "rank": 11,
       "track": "WAIT FOR U (feat. Drake & Tems)",
       "artist": "Future"
     },
     {
-      "rank": 19,
-      "track": "Plainsman (feat. Turnpike Troubadours)",
-      "artist": "Zach Bryan & Turnpike Troubadours"
+      "rank": 12,
+      "track": "Freestyle",
+      "artist": "Lil Baby"
     },
     {
-      "rank": 20,
-      "track": "expectations",
-      "artist": "Olivia Rodrigo & Chappell Roan"
+      "rank": 13,
+      "track": "Last Thing You Need",
+      "artist": "Morgan Wallen"
     },
     {
-      "rank": 21,
-      "track": "You'll Get By",
-      "artist": "Zach Bryan"
+      "rank": 14,
+      "track": "Thriller 7\" (Special Edit)",
+      "artist": "Michael Jackson"
     },
     {
-      "rank": 22,
+      "rank": 15,
+      "track": "stupid song",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 16,
+      "track": "the cure",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 17,
       "track": "Wicked Games",
       "artist": "The Weeknd"
     },
     {
-      "rank": 23,
-      "track": "Backwards",
-      "artist": "Zach Bryan"
-    },
-    {
-      "rank": 24,
-      "track": "Best I Ever Had",
-      "artist": "Drake"
-    },
-    {
-      "rank": 25,
-      "track": "Dog Days",
-      "artist": "Zach Bryan"
-    },
-    {
-      "rank": 26,
+      "rank": 18,
       "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "artist": "Future"
     },
     {
-      "rank": 27,
-      "track": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen"
+      "rank": 19,
+      "track": "Best I Ever Had",
+      "artist": "Drake"
     },
     {
-      "rank": 28,
+      "rank": 20,
+      "track": "Cold Shoulder",
+      "artist": "Drake, Don Toliver & Yebba"
+    },
+    {
+      "rank": 21,
       "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 29,
-      "track": "Patient Zero",
-      "artist": "Taylor Swift"
+      "rank": 22,
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
     },
     {
-      "rank": 30,
-      "track": "Dead Fresh",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 31,
-      "track": "Broken Window Serenade",
-      "artist": "Whiskey Myers"
-    },
-    {
-      "rank": 32,
+      "rank": 23,
       "track": "Frozen",
       "artist": "Lil Baby"
     },
     {
-      "rank": 33,
+      "rank": 24,
       "track": "March Madness",
       "artist": "Future"
     },
     {
-      "rank": 34,
-      "track": "Marvins Room",
-      "artist": "Drake"
-    },
-    {
-      "rank": 35,
+      "rank": 25,
       "track": "Be Her",
       "artist": "Ella Langley"
     },
     {
-      "rank": 36,
-      "track": "Is The Blue Tangled In You?",
-      "artist": "Zach Bryan"
+      "rank": 26,
+      "track": "Broken Window Serenade",
+      "artist": "Whiskey Myers"
     },
     {
-      "rank": 37,
+      "rank": 27,
+      "track": "Marvins Room",
+      "artist": "Drake"
+    },
+    {
+      "rank": 28,
       "track": "I'M DAT N***A",
       "artist": "Future"
     },
     {
-      "rank": 38,
+      "rank": 29,
       "track": "Don't We",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 39,
+      "rank": 30,
+      "track": "Kacey Talk",
+      "artist": "YoungBoy Never Broke Again"
+    },
+    {
+      "rank": 31,
       "track": "Last Night",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 40,
+      "rank": 32,
+      "track": "Snooze",
+      "artist": "SZA"
+    },
+    {
+      "rank": 33,
+      "track": "Girls Need Love",
+      "artist": "Summer Walker"
+    },
+    {
+      "rank": 34,
       "track": "I’m Spent",
       "artist": "Drake & Loe Shimmy"
+    },
+    {
+      "rank": 35,
+      "track": "Lodi When",
+      "artist": "Zach Bryan"
+    },
+    {
+      "rank": 36,
+      "track": "Wants and Needs (feat. Lil Baby)",
+      "artist": "Drake"
+    },
+    {
+      "rank": 37,
+      "track": "Man I Need",
+      "artist": "Olivia Dean"
+    },
+    {
+      "rank": 38,
+      "track": "Stick Talk",
+      "artist": "Future"
+    },
+    {
+      "rank": 39,
+      "track": "Sum 2 Prove",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 40,
+      "track": "So Good (feat. Kendrick Lamar)",
+      "artist": "Jhené Aiko"
     }
   ]
 }
