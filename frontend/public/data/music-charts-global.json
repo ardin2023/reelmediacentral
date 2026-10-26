@@ -1,147 +1,147 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-26",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "+1",
-      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 67,
-      "url": null
-    },
-    {
-      "rank": 2,
-      "track": "+1",
-      "artist": "ADÃLA - Nicole Kidman",
-      "streams": 44,
-      "url": null
-    },
-    {
-      "rank": 3,
-      "track": "+2",
-      "artist": "ADÃLA - Ain't In LA",
-      "streams": 81,
-      "url": null
-    },
-    {
-      "rank": 4,
-      "track": "-3",
-      "artist": "Tate McRae - Housewife",
-      "streams": 2,
-      "url": null
-    },
-    {
-      "rank": 5,
-      "track": "+1",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 149,
-      "url": null
-    },
-    {
-      "rank": 6,
-      "track": "+3",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 202,
-      "url": null
-    },
-    {
-      "rank": 7,
       "track": "=",
-      "artist": "Ashe - Stop The Wedding!",
-      "streams": 40,
-      "url": null
-    },
-    {
-      "rank": 8,
-      "track": "+3",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 233,
-      "url": null
-    },
-    {
-      "rank": 9,
-      "track": "+12",
-      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
+      "artist": "Tate McRae - Housewife",
       "streams": 9,
       "url": null
     },
     {
+      "rank": 2,
+      "track": "=",
+      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "streams": 74,
+      "url": null
+    },
+    {
+      "rank": 3,
+      "track": "=",
+      "artist": "ADÃLA - Nicole Kidman",
+      "streams": 51,
+      "url": null
+    },
+    {
+      "rank": 4,
+      "track": "+1",
+      "artist": "ADÃLA - Ain't In LA",
+      "streams": 88,
+      "url": null
+    },
+    {
+      "rank": 5,
+      "track": "-1",
+      "artist": "Olivia Rodrigo - expectations (w/ Chappell Roan )",
+      "streams": 9,
+      "url": null
+    },
+    {
+      "rank": 6,
+      "track": "+1",
+      "artist": "Ashe - Stop The Wedding!",
+      "streams": 47,
+      "url": null
+    },
+    {
+      "rank": 7,
+      "track": "-1",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 156,
+      "url": null
+    },
+    {
+      "rank": 8,
+      "track": "=",
+      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
+      "streams": 16,
+      "url": null
+    },
+    {
+      "rank": 9,
+      "track": "=",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 209,
+      "url": null
+    },
+    {
       "rank": 10,
-      "track": "+3",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 213,
+      "track": "=",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 240,
       "url": null
     },
     {
       "rank": 11,
-      "track": "-3",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 128,
+      "track": "+2",
+      "artist": "P!nk - Just Give Me a Reason (w/ Nate Ruess )",
+      "streams": 151,
       "url": null
     },
     {
       "rank": 12,
-      "track": "=",
-      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
-      "streams": 793,
+      "track": "+3",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 220,
       "url": null
     },
     {
       "rank": 13,
-      "track": "-9",
-      "artist": "Olivia Rodrigo - expectations (w/ Chappell Roan )",
-      "streams": 2,
+      "track": "-1",
+      "artist": "sombr - back to friends",
+      "streams": 586,
       "url": null
     },
     {
       "rank": 14,
-      "track": "=",
-      "artist": "sombr - back to friends",
-      "streams": 579,
+      "track": "+2",
+      "artist": "The Neighbourhood - Sweater Weather",
+      "streams": 2337,
       "url": null
     },
     {
       "rank": 15,
       "track": "+2",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 424,
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 297,
       "url": null
     },
     {
       "rank": 16,
-      "track": "+2",
-      "artist": "Ravyn Lenae - Love Me Not",
-      "streams": 578,
+      "track": "-2",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1136,
       "url": null
     },
     {
       "rank": 17,
-      "track": "+2",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1129,
+      "track": "-6",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 135,
       "url": null
     },
     {
       "rank": 18,
-      "track": "+2",
-      "artist": "The Neighbourhood - Sweater Weather",
-      "streams": 2330,
+      "track": "+3",
+      "artist": "Tame Impala - Loser",
+      "streams": 86,
       "url": null
     },
     {
       "rank": 19,
-      "track": "-4",
-      "artist": "SIENNA SPIRO - Great Expectation",
-      "streams": 102,
+      "track": "-1",
+      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
+      "streams": 800,
       "url": null
     },
     {
       "rank": 20,
-      "track": "+2",
-      "artist": "Dominic Fike - Babydoll",
-      "streams": 329,
+      "track": "-1",
+      "artist": "SIENNA SPIRO - Great Expectation",
+      "streams": 109,
       "url": null
     }
   ]
