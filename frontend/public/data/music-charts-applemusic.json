@@ -1,98 +1,98 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-11-02",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
+      "track": "Thriller",
+      "artist": "Michael Jackson"
+    },
+    {
+      "rank": 2,
       "track": "Housewife",
       "artist": "Tate McRae"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track": "Choosin' Texas",
       "artist": "Ella Langley"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track": "BbY WOW",
       "artist": "KAROL G, Judeline & rusowsky"
     },
     {
-      "rank": 4,
-      "track": "Lies (feat. Lana Del Rey)",
-      "artist": "Zach Bryan & Lana Del Rey"
+      "rank": 5,
+      "track": "This Is Halloween",
+      "artist": "The Citizens of Halloween"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "track": "Ghostbusters",
+      "artist": "Ray Parker Jr."
+    },
+    {
+      "rank": 7,
+      "track": "Monster Mash",
+      "artist": "Bobby \"Boris\" Pickett"
+    },
+    {
+      "rank": 8,
       "track": "Solar Eclipse",
       "artist": "Drake & Don Toliver"
     },
     {
-      "rank": 6,
-      "track": "Nicole Kidman",
-      "artist": "ADÉLA"
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "track": "Been By Now",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "track": "Janice STFU",
       "artist": "Drake"
     },
     {
-      "rank": 9,
-      "track": "Quebec",
-      "artist": "Drake"
+      "rank": 11,
+      "track": "Lies (feat. Lana Del Rey)",
+      "artist": "Zach Bryan & Lana Del Rey"
     },
     {
-      "rank": 10,
+      "rank": 12,
+      "track": "Nicole Kidman",
+      "artist": "ADÉLA"
+    },
+    {
+      "rank": 13,
+      "track": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+      "artist": "Andrew Gold"
+    },
+    {
+      "rank": 14,
       "track": "In A Minute",
       "artist": "Lil Baby"
     },
     {
-      "rank": 11,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
-    },
-    {
-      "rank": 12,
+      "rank": 15,
       "track": "Freestyle",
       "artist": "Lil Baby"
     },
     {
-      "rank": 13,
-      "track": "Last Thing You Need",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 14,
-      "track": "Thriller 7\" (Special Edit)",
-      "artist": "Michael Jackson"
-    },
-    {
-      "rank": 15,
-      "track": "stupid song",
-      "artist": "Olivia Rodrigo"
-    },
-    {
       "rank": 16,
-      "track": "the cure",
-      "artist": "Olivia Rodrigo"
+      "track": "Quebec",
+      "artist": "Drake"
     },
     {
       "rank": 17,
-      "track": "Wicked Games",
-      "artist": "The Weeknd"
+      "track": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future"
     },
     {
       "rank": 18,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "artist": "Future"
+      "track": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey"
     },
     {
       "rank": 19,
@@ -101,108 +101,108 @@
     },
     {
       "rank": 20,
-      "track": "Cold Shoulder",
-      "artist": "Drake, Don Toliver & Yebba"
-    },
-    {
-      "rank": 21,
-      "track": "I'm The Problem",
+      "track": "Last Thing You Need",
       "artist": "Morgan Wallen"
     },
     {
-      "rank": 22,
-      "track": "I Can't Love You Anymore",
-      "artist": "Ella Langley & Morgan Wallen"
-    },
-    {
-      "rank": 23,
-      "track": "Frozen",
-      "artist": "Lil Baby"
-    },
-    {
-      "rank": 24,
-      "track": "March Madness",
+      "rank": 21,
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "artist": "Future"
     },
     {
-      "rank": 25,
+      "rank": 22,
+      "track": "Wicked Games",
+      "artist": "The Weeknd"
+    },
+    {
+      "rank": 23,
       "track": "Be Her",
       "artist": "Ella Langley"
     },
     {
+      "rank": 24,
+      "track": "stupid song",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 25,
+      "track": "March Madness",
+      "artist": "Future"
+    },
+    {
       "rank": 26,
-      "track": "Broken Window Serenade",
-      "artist": "Whiskey Myers"
+      "track": "the cure",
+      "artist": "Olivia Rodrigo"
     },
     {
       "rank": 27,
+      "track": "Frozen",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 28,
       "track": "Marvins Room",
       "artist": "Drake"
     },
     {
-      "rank": 28,
-      "track": "I'M DAT N***A",
-      "artist": "Future"
-    },
-    {
       "rank": 29,
-      "track": "Don't We",
+      "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
       "rank": 30,
+      "track": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen"
+    },
+    {
+      "rank": 31,
       "track": "Kacey Talk",
       "artist": "YoungBoy Never Broke Again"
     },
     {
-      "rank": 31,
-      "track": "Last Night",
-      "artist": "Morgan Wallen"
-    },
-    {
       "rank": 32,
-      "track": "Snooze",
-      "artist": "SZA"
-    },
-    {
-      "rank": 33,
-      "track": "Girls Need Love",
-      "artist": "Summer Walker"
-    },
-    {
-      "rank": 34,
-      "track": "I’m Spent",
-      "artist": "Drake & Loe Shimmy"
-    },
-    {
-      "rank": 35,
-      "track": "Lodi When",
-      "artist": "Zach Bryan"
-    },
-    {
-      "rank": 36,
       "track": "Wants and Needs (feat. Lil Baby)",
       "artist": "Drake"
     },
     {
-      "rank": 37,
-      "track": "Man I Need",
-      "artist": "Olivia Dean"
+      "rank": 33,
+      "track": "I'M DAT N***A",
+      "artist": "Future"
     },
     {
-      "rank": 38,
+      "rank": 34,
       "track": "Stick Talk",
       "artist": "Future"
     },
     {
-      "rank": 39,
+      "rank": 35,
       "track": "Sum 2 Prove",
       "artist": "Lil Baby"
     },
     {
+      "rank": 36,
+      "track": "Don't We",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 37,
+      "track": "Last Night",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 38,
+      "track": "Broken Window Serenade",
+      "artist": "Whiskey Myers"
+    },
+    {
+      "rank": 39,
+      "track": "Power Trip (feat. Miguel)",
+      "artist": "J. Cole"
+    },
+    {
       "rank": 40,
-      "track": "So Good (feat. Kendrick Lamar)",
-      "artist": "Jhené Aiko"
+      "track": "Girls Need Love",
+      "artist": "Summer Walker"
     }
   ]
 }
