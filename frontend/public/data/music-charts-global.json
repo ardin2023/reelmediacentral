@@ -1,147 +1,147 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-09",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "+7",
-      "artist": "Michael Jackson - Thriller",
-      "streams": 133,
+      "track": "+1",
+      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "streams": 88,
       "url": null
     },
     {
       "rank": 2,
-      "track": "+23",
-      "artist": "Ray Parker Jr. - Ghostbusters",
-      "streams": 22,
-      "url": null
-    },
-    {
-      "rank": 3,
-      "track": "+32",
-      "artist": "Bobby \"Boris\" Pickett - Monster Mash",
-      "streams": 3,
-      "url": null
-    },
-    {
-      "rank": 4,
-      "track": "-3",
+      "track": "-1",
       "artist": "Tate McRae - Housewife",
-      "streams": 16,
-      "url": null
-    },
-    {
-      "rank": 5,
-      "track": "-3",
-      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 81,
-      "url": null
-    },
-    {
-      "rank": 6,
-      "track": "+45",
-      "artist": "The Citizens of Halloween - This Is Halloween",
-      "streams": 13,
-      "url": null
-    },
-    {
-      "rank": 7,
-      "track": "-4",
-      "artist": "ADÃLA - Nicole Kidman",
-      "streams": 58,
-      "url": null
-    },
-    {
-      "rank": 8,
-      "track": "+76",
-      "artist": "Andrew Gold - Spooky, Scary Skeletons - Undead Tombstone Remix",
-      "streams": 8,
-      "url": null
-    },
-    {
-      "rank": 9,
-      "track": "+83",
-      "artist": "Rockwell - Somebody's Watching Me - Single Version",
-      "streams": 16,
-      "url": null
-    },
-    {
-      "rank": 10,
-      "track": "-6",
-      "artist": "Ashe - Stop The Wedding!",
-      "streams": 54,
-      "url": null
-    },
-    {
-      "rank": 11,
-      "track": "-6",
-      "artist": "ADÃLA - Ain't In LA",
-      "streams": 95,
-      "url": null
-    },
-    {
-      "rank": 12,
-      "track": "-5",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 247,
-      "url": null
-    },
-    {
-      "rank": 13,
-      "track": "-2",
-      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
       "streams": 23,
       "url": null
     },
     {
-      "rank": 14,
-      "track": "-8",
+      "rank": 3,
+      "track": "+1",
+      "artist": "Ashe - Stop The Wedding!",
+      "streams": 61,
+      "url": null
+    },
+    {
+      "rank": 4,
+      "track": "-1",
+      "artist": "ADÃLA - Nicole Kidman",
+      "streams": 65,
+      "url": null
+    },
+    {
+      "rank": 5,
+      "track": "=",
+      "artist": "ADÃLA - Ain't In LA",
+      "streams": 102,
+      "url": null
+    },
+    {
+      "rank": 6,
+      "track": "=",
       "artist": "Olivia Rodrigo - the cure",
-      "streams": 163,
+      "streams": 170,
+      "url": null
+    },
+    {
+      "rank": 7,
+      "track": "+1",
+      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
+      "streams": 30,
+      "url": null
+    },
+    {
+      "rank": 8,
+      "track": "+2",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 254,
+      "url": null
+    },
+    {
+      "rank": 9,
+      "track": "-2",
+      "artist": "sombr - back to friends",
+      "streams": 600,
+      "url": null
+    },
+    {
+      "rank": 10,
+      "track": "-1",
+      "artist": "Jamie Miller - Babydoll",
+      "streams": 35,
+      "url": null
+    },
+    {
+      "rank": 11,
+      "track": "=",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 234,
+      "url": null
+    },
+    {
+      "rank": 12,
+      "track": "=",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 223,
+      "url": null
+    },
+    {
+      "rank": 13,
+      "track": "=",
+      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
+      "streams": 814,
+      "url": null
+    },
+    {
+      "rank": 14,
+      "track": "+4",
+      "artist": "Ella Langley - Choosin' Texas",
+      "streams": 311,
       "url": null
     },
     {
       "rank": 15,
-      "track": "+3",
-      "artist": "Michael Jackson - Billie Jean",
-      "streams": 587,
+      "track": "-1",
+      "artist": "Olivia Rodrigo - stupid song",
+      "streams": 149,
       "url": null
     },
     {
       "rank": 16,
-      "track": "-7",
-      "artist": "sombr - back to friends",
-      "streams": 593,
+      "track": "=",
+      "artist": "The Neighbourhood - Sweater Weather",
+      "streams": 2351,
       "url": null
     },
     {
       "rank": 17,
-      "track": "-7",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 227,
+      "track": "=",
+      "artist": "P!nk - Just Give Me a Reason (w/ Nate Ruess )",
+      "streams": 165,
       "url": null
     },
     {
       "rank": 18,
-      "track": "+72",
-      "artist": "Tame Impala - Dracula",
-      "streams": 330,
+      "track": "-3",
+      "artist": "The Goo Goo Dolls - Iris",
+      "streams": 1150,
       "url": null
     },
     {
       "rank": 19,
-      "track": "RE",
-      "artist": "Lady Gaga - Bloody Mary",
-      "streams": 116,
+      "track": "=",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 445,
       "url": null
     },
     {
       "rank": 20,
-      "track": "+76",
-      "artist": "Rihanna - Disturbia",
-      "streams": 15,
+      "track": "+16",
+      "artist": "Wham! - Last Christmas",
+      "streams": 570,
       "url": null
     }
   ]
