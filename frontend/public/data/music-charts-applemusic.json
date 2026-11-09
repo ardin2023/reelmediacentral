@@ -1,53 +1,53 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-09",
   "platform": "Apple Music",
   "scope": "US",
   "source": "Apple Marketing Tools",
   "items": [
     {
       "rank": 1,
-      "track": "Thriller",
-      "artist": "Michael Jackson"
-    },
-    {
-      "rank": 2,
-      "track": "Housewife",
-      "artist": "Tate McRae"
-    },
-    {
-      "rank": 3,
       "track": "Choosin' Texas",
       "artist": "Ella Langley"
     },
     {
+      "rank": 2,
+      "track": "Mr. Do Something",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 3,
+      "track": "Dead Fresh",
+      "artist": "Lil Baby"
+    },
+    {
       "rank": 4,
+      "track": "Top Uh It",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 5,
       "track": "BbY WOW",
       "artist": "KAROL G, Judeline & rusowsky"
     },
     {
-      "rank": 5,
-      "track": "This Is Halloween",
-      "artist": "The Citizens of Halloween"
-    },
-    {
       "rank": 6,
-      "track": "Ghostbusters",
-      "artist": "Ray Parker Jr."
+      "track": "Housewife",
+      "artist": "Tate McRae"
     },
     {
       "rank": 7,
-      "track": "Monster Mash",
-      "artist": "Bobby \"Boris\" Pickett"
+      "track": "All My Partnas (feat. Future)",
+      "artist": "Lil Baby, Rylo Rodriguez & Young Thug"
     },
     {
       "rank": 8,
-      "track": "Solar Eclipse",
-      "artist": "Drake & Don Toliver"
+      "track": "Been By Now",
+      "artist": "Morgan Wallen"
     },
     {
       "rank": 9,
-      "track": "Been By Now",
-      "artist": "Morgan Wallen"
+      "track": "Burnt Shit",
+      "artist": "Lil Baby"
     },
     {
       "rank": 10,
@@ -56,153 +56,153 @@
     },
     {
       "rank": 11,
-      "track": "Lies (feat. Lana Del Rey)",
-      "artist": "Zach Bryan & Lana Del Rey"
+      "track": "Solar Eclipse",
+      "artist": "Drake & Don Toliver"
     },
     {
       "rank": 12,
-      "track": "Nicole Kidman",
-      "artist": "ADÉLA"
+      "track": "Ain’t Goin",
+      "artist": "Lil Baby"
     },
     {
       "rank": 13,
-      "track": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
-      "artist": "Andrew Gold"
+      "track": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "artist": "Future"
     },
     {
       "rank": 14,
-      "track": "In A Minute",
+      "track": "Be The One",
       "artist": "Lil Baby"
     },
     {
       "rank": 15,
-      "track": "Freestyle",
-      "artist": "Lil Baby"
+      "track": "Lies (feat. Lana Del Rey)",
+      "artist": "Zach Bryan & Lana Del Rey"
     },
     {
       "rank": 16,
-      "track": "Quebec",
-      "artist": "Drake"
+      "track": "From The Back",
+      "artist": "Lil Baby"
     },
     {
       "rank": 17,
-      "track": "WAIT FOR U (feat. Drake & Tems)",
-      "artist": "Future"
+      "track": "Nicole Kidman",
+      "artist": "ADÉLA"
     },
     {
       "rank": 18,
-      "track": "All I Want for Christmas Is You",
-      "artist": "Mariah Carey"
-    },
-    {
-      "rank": 19,
-      "track": "Best I Ever Had",
-      "artist": "Drake"
-    },
-    {
-      "rank": 20,
-      "track": "Last Thing You Need",
-      "artist": "Morgan Wallen"
-    },
-    {
-      "rank": 21,
-      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "artist": "Future"
-    },
-    {
-      "rank": 22,
-      "track": "Wicked Games",
-      "artist": "The Weeknd"
-    },
-    {
-      "rank": 23,
-      "track": "Be Her",
-      "artist": "Ella Langley"
-    },
-    {
-      "rank": 24,
-      "track": "stupid song",
-      "artist": "Olivia Rodrigo"
-    },
-    {
-      "rank": 25,
-      "track": "March Madness",
-      "artist": "Future"
-    },
-    {
-      "rank": 26,
       "track": "the cure",
       "artist": "Olivia Rodrigo"
     },
     {
+      "rank": 19,
+      "track": "In A Minute",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 20,
+      "track": "stupid song",
+      "artist": "Olivia Rodrigo"
+    },
+    {
+      "rank": 21,
+      "track": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future"
+    },
+    {
+      "rank": 22,
+      "track": "Be Her",
+      "artist": "Ella Langley"
+    },
+    {
+      "rank": 23,
+      "track": "Freestyle",
+      "artist": "Lil Baby"
+    },
+    {
+      "rank": 24,
+      "track": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey"
+    },
+    {
+      "rank": 25,
+      "track": "In Your Head",
+      "artist": "Lil Baby & Rylo Rodriguez"
+    },
+    {
+      "rank": 26,
+      "track": "My Side",
+      "artist": "Lil Baby"
+    },
+    {
       "rank": 27,
-      "track": "Frozen",
+      "track": "Your Fault",
       "artist": "Lil Baby"
     },
     {
       "rank": 28,
-      "track": "Marvins Room",
+      "track": "Best I Ever Had",
       "artist": "Drake"
     },
     {
       "rank": 29,
-      "track": "I'm The Problem",
-      "artist": "Morgan Wallen"
+      "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future"
     },
     {
       "rank": 30,
+      "track": "So Good (feat. Kendrick Lamar)",
+      "artist": "Jhené Aiko"
+    },
+    {
+      "rank": 31,
+      "track": "Last Thing You Need",
+      "artist": "Morgan Wallen"
+    },
+    {
+      "rank": 32,
       "track": "I Can't Love You Anymore",
       "artist": "Ella Langley & Morgan Wallen"
     },
     {
-      "rank": 31,
-      "track": "Kacey Talk",
-      "artist": "YoungBoy Never Broke Again"
-    },
-    {
-      "rank": 32,
-      "track": "Wants and Needs (feat. Lil Baby)",
+      "rank": 33,
+      "track": "Quebec",
       "artist": "Drake"
     },
     {
-      "rank": 33,
-      "track": "I'M DAT N***A",
-      "artist": "Future"
-    },
-    {
       "rank": 34,
-      "track": "Stick Talk",
+      "track": "March Madness",
       "artist": "Future"
     },
     {
       "rank": 35,
-      "track": "Sum 2 Prove",
-      "artist": "Lil Baby"
+      "track": "Marvins Room",
+      "artist": "Drake"
     },
     {
       "rank": 36,
-      "track": "Don't We",
-      "artist": "Morgan Wallen"
+      "track": "All Us",
+      "artist": "Lil Baby"
     },
     {
       "rank": 37,
-      "track": "Last Night",
+      "track": "I'm The Problem",
       "artist": "Morgan Wallen"
     },
     {
       "rank": 38,
-      "track": "Broken Window Serenade",
-      "artist": "Whiskey Myers"
+      "track": "Life Of the Party (L.O.T.P)",
+      "artist": "Lil Baby"
     },
     {
       "rank": 39,
-      "track": "Power Trip (feat. Miguel)",
-      "artist": "J. Cole"
+      "track": "Frozen",
+      "artist": "Lil Baby"
     },
     {
       "rank": 40,
-      "track": "Girls Need Love",
-      "artist": "Summer Walker"
+      "track": "Broken Window Serenade",
+      "artist": "Whiskey Myers"
     }
   ]
 }
