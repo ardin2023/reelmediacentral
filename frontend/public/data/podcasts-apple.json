@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-16",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -16,18 +16,18 @@
     },
     {
       "rank": 3,
-      "name": "Pod Save America",
-      "publisher": "Pod Save America"
-    },
-    {
-      "rank": 4,
       "name": "Up First from NPR",
       "publisher": "NPR"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "The Joe Rogan Experience",
       "publisher": "Joe Rogan"
+    },
+    {
+      "rank": 5,
+      "name": "Pod Save America",
+      "publisher": "Pod Save America"
     },
     {
       "rank": 6,
@@ -36,18 +36,18 @@
     },
     {
       "rank": 7,
+      "name": "This American Life",
+      "publisher": "This American Life"
+    },
+    {
+      "rank": 8,
       "name": "Pardon My Take",
       "publisher": "Barstool Sports"
     },
     {
-      "rank": 8,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
-    },
-    {
       "rank": 9,
-      "name": "This American Life",
-      "publisher": "This American Life"
+      "name": "The Bill Simmons Podcast",
+      "publisher": "The Ringer"
     },
     {
       "rank": 10,
@@ -56,8 +56,8 @@
     },
     {
       "rank": 11,
-      "name": "The Rest Is History",
-      "publisher": "Goalhanger"
+      "name": "20/20",
+      "publisher": "ABC News"
     },
     {
       "rank": 12,
@@ -66,13 +66,13 @@
     },
     {
       "rank": 13,
-      "name": "SmartLess",
-      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
+      "name": "The Rest Is History",
+      "publisher": "Goalhanger"
     },
     {
       "rank": 14,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
+      "name": "SmartLess",
+      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
     },
     {
       "rank": 15,
@@ -81,28 +81,28 @@
     },
     {
       "rank": 16,
-      "name": "The Mel Robbins Podcast",
-      "publisher": "Mel Robbins"
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
     },
     {
       "rank": 17,
-      "name": "Pivot",
-      "publisher": "New York Magazine"
+      "name": "NPR News Now",
+      "publisher": "NPR"
     },
     {
       "rank": 18,
-      "name": "All-In with Chamath, Jason, Sacks & Friedberg",
-      "publisher": "All-In Podcast, LLC"
+      "name": "Wait Wait... Don't Tell Me!",
+      "publisher": "NPR"
     },
     {
       "rank": 19,
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network"
+      "name": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
+      "publisher": "Exactly Right and iHeartPodcasts"
     },
     {
       "rank": 20,
-      "name": "NPR News Now",
-      "publisher": "NPR"
+      "name": "The Ezra Klein Show",
+      "publisher": "New York Times Opinion"
     }
   ]
 }
