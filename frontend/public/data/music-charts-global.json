@@ -1,147 +1,147 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-16",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "+1",
+      "track": "=",
       "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 88,
+      "streams": 95,
       "url": null
     },
     {
       "rank": 2,
-      "track": "-1",
-      "artist": "Tate McRae - Housewife",
-      "streams": 23,
+      "track": "=",
+      "artist": "Ashe - Stop The Wedding!",
+      "streams": 68,
       "url": null
     },
     {
       "rank": 3,
-      "track": "+1",
-      "artist": "Ashe - Stop The Wedding!",
-      "streams": 61,
+      "track": "=",
+      "artist": "Tate McRae - Housewife",
+      "streams": 30,
       "url": null
     },
     {
       "rank": 4,
-      "track": "-1",
+      "track": "=",
       "artist": "ADÃLA - Nicole Kidman",
-      "streams": 65,
+      "streams": 72,
       "url": null
     },
     {
       "rank": 5,
       "track": "=",
-      "artist": "ADÃLA - Ain't In LA",
-      "streams": 102,
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 177,
       "url": null
     },
     {
       "rank": 6,
       "track": "=",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 170,
+      "artist": "ADÃLA - Ain't In LA",
+      "streams": 109,
       "url": null
     },
     {
       "rank": 7,
-      "track": "+1",
-      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
-      "streams": 30,
+      "track": "=",
+      "artist": "Jamie Miller - Babydoll",
+      "streams": 42,
       "url": null
     },
     {
       "rank": 8,
-      "track": "+2",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 254,
+      "track": "+5",
+      "artist": "Wham! - Last Christmas",
+      "streams": 577,
       "url": null
     },
     {
       "rank": 9,
-      "track": "-2",
-      "artist": "sombr - back to friends",
-      "streams": 600,
+      "track": "+12",
+      "artist": "Mariah Carey - All I Want for Christmas Is You",
+      "streams": 636,
       "url": null
     },
     {
       "rank": 10,
-      "track": "-1",
-      "artist": "Jamie Miller - Babydoll",
-      "streams": 35,
+      "track": "=",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 261,
       "url": null
     },
     {
       "rank": 11,
-      "track": "=",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 234,
+      "track": "-3",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 230,
       "url": null
     },
     {
       "rank": 12,
-      "track": "=",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 223,
+      "track": "+10",
+      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
+      "streams": 37,
       "url": null
     },
     {
       "rank": 13,
-      "track": "=",
-      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
-      "streams": 814,
+      "track": "-4",
+      "artist": "sombr - back to friends",
+      "streams": 607,
       "url": null
     },
     {
       "rank": 14,
-      "track": "+4",
-      "artist": "Ella Langley - Choosin' Texas",
-      "streams": 311,
+      "track": "=",
+      "artist": "Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
+      "streams": 27,
       "url": null
     },
     {
       "rank": 15,
-      "track": "-1",
-      "artist": "Olivia Rodrigo - stupid song",
-      "streams": 149,
+      "track": "-4",
+      "artist": "P!nk - Just Give Me a Reason (w/ Nate Ruess )",
+      "streams": 172,
       "url": null
     },
     {
       "rank": 16,
-      "track": "=",
-      "artist": "The Neighbourhood - Sweater Weather",
-      "streams": 2351,
+      "track": "-4",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 241,
       "url": null
     },
     {
       "rank": 17,
-      "track": "=",
-      "artist": "P!nk - Just Give Me a Reason (w/ Nate Ruess )",
-      "streams": 165,
+      "track": "-2",
+      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
+      "streams": 821,
       "url": null
     },
     {
       "rank": 18,
-      "track": "-3",
-      "artist": "The Goo Goo Dolls - Iris",
-      "streams": 1150,
+      "track": "=",
+      "artist": "Olivia Dean - Man I Need",
+      "streams": 452,
       "url": null
     },
     {
       "rank": 19,
-      "track": "=",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 445,
+      "track": "-2",
+      "artist": "The Neighbourhood - Sweater Weather",
+      "streams": 2358,
       "url": null
     },
     {
       "rank": 20,
-      "track": "+16",
-      "artist": "Wham! - Last Christmas",
-      "streams": 570,
+      "track": "-4",
+      "artist": "Temper City - Self Aware",
+      "streams": 223,
       "url": null
     }
   ]
