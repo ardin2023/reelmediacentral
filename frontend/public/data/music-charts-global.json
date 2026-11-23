@@ -1,147 +1,147 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-23",
   "platform": "Spotify",
   "scope": "Global",
   "source": "Kworb",
   "items": [
     {
       "rank": 1,
-      "track": "=",
-      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
-      "streams": 95,
+      "track": "+2",
+      "artist": "Ashe - Stop The Wedding!",
+      "streams": 76,
       "url": null
     },
     {
       "rank": 2,
       "track": "=",
-      "artist": "Ashe - Stop The Wedding!",
-      "streams": 68,
+      "artist": "Justice - Flower In A Hurricane (w/ Tame Impala , SZA , Grand Theft Auto VI , King Gizzard & The Lizard Wizard )",
+      "streams": 24,
       "url": null
     },
     {
       "rank": 3,
-      "track": "=",
-      "artist": "Tate McRae - Housewife",
-      "streams": 30,
+      "track": "-2",
+      "artist": "KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "streams": 103,
       "url": null
     },
     {
       "rank": 4,
       "track": "=",
-      "artist": "ADÃLA - Nicole Kidman",
-      "streams": 72,
+      "artist": "Wham! - Last Christmas",
+      "streams": 585,
       "url": null
     },
     {
       "rank": 5,
       "track": "=",
-      "artist": "Olivia Rodrigo - the cure",
-      "streams": 177,
+      "artist": "Mariah Carey - All I Want for Christmas Is You",
+      "streams": 644,
       "url": null
     },
     {
       "rank": 6,
-      "track": "=",
-      "artist": "ADÃLA - Ain't In LA",
-      "streams": 109,
+      "track": "+2",
+      "artist": "Olivia Rodrigo - the cure",
+      "streams": 185,
       "url": null
     },
     {
       "rank": 7,
-      "track": "=",
-      "artist": "Jamie Miller - Babydoll",
-      "streams": 42,
+      "track": "-1",
+      "artist": "Tate McRae - Housewife",
+      "streams": 38,
       "url": null
     },
     {
       "rank": 8,
-      "track": "+5",
-      "artist": "Wham! - Last Christmas",
-      "streams": 577,
+      "track": "-1",
+      "artist": "Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
+      "streams": 35,
       "url": null
     },
     {
       "rank": 9,
-      "track": "+12",
-      "artist": "Mariah Carey - All I Want for Christmas Is You",
-      "streams": 636,
+      "track": "=",
+      "artist": "ADÃLA - Nicole Kidman",
+      "streams": 80,
       "url": null
     },
     {
       "rank": 10,
       "track": "=",
-      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
-      "streams": 261,
+      "artist": "ADÃLA - Ain't In LA",
+      "streams": 117,
       "url": null
     },
     {
       "rank": 11,
-      "track": "-3",
-      "artist": "Malcolm Todd - Earrings",
-      "streams": 230,
+      "track": "+6",
+      "artist": "Bobby Helms - Jingle Bell Rock",
+      "streams": 438,
       "url": null
     },
     {
       "rank": 12,
-      "track": "+10",
-      "artist": "Felipe e Rodrigo - PÃ³s - Ao Vivo",
-      "streams": 37,
+      "track": "=",
+      "artist": "Katy Perry - The One That Got Away",
+      "streams": 249,
       "url": null
     },
     {
       "rank": 13,
-      "track": "-4",
-      "artist": "sombr - back to friends",
-      "streams": 607,
+      "track": "-2",
+      "artist": "Jamie Miller - Babydoll",
+      "streams": 50,
       "url": null
     },
     {
       "rank": 14,
-      "track": "=",
-      "artist": "Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
-      "streams": 27,
+      "track": "+5",
+      "artist": "Brenda Lee - Rockin' Around The Christmas Tree",
+      "streams": 433,
       "url": null
     },
     {
       "rank": 15,
-      "track": "-4",
-      "artist": "P!nk - Just Give Me a Reason (w/ Nate Ruess )",
-      "streams": 172,
+      "track": "-2",
+      "artist": "Malcolm Todd - Earrings",
+      "streams": 238,
       "url": null
     },
     {
       "rank": 16,
-      "track": "-4",
-      "artist": "Katy Perry - The One That Got Away",
-      "streams": 241,
+      "track": "+2",
+      "artist": "Sia - Snowman",
+      "streams": 351,
       "url": null
     },
     {
       "rank": 17,
-      "track": "-2",
-      "artist": "Lady Gaga - Die With A Smile (w/ Bruno Mars )",
-      "streams": 821,
+      "track": "-1",
+      "artist": "sombr - back to friends",
+      "streams": 615,
       "url": null
     },
     {
       "rank": 18,
-      "track": "=",
-      "artist": "Olivia Dean - Man I Need",
-      "streams": 452,
+      "track": "+6",
+      "artist": "Ariana Grande - Santa Tell Me",
+      "streams": 508,
       "url": null
     },
     {
       "rank": 19,
-      "track": "-2",
-      "artist": "The Neighbourhood - Sweater Weather",
-      "streams": 2358,
+      "track": "-4",
+      "artist": "P!nk - Just Give Me a Reason (w/ Nate Ruess )",
+      "streams": 180,
       "url": null
     },
     {
       "rank": 20,
-      "track": "-4",
-      "artist": "Temper City - Self Aware",
-      "streams": 223,
+      "track": "-6",
+      "artist": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "streams": 269,
       "url": null
     }
   ]
