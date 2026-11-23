@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-23",
   "platform": "Apple Podcasts",
   "scope": "US",
   "source": "Apple Marketing Tools",
@@ -31,8 +31,8 @@
     },
     {
       "rank": 6,
-      "name": "Dateline NBC",
-      "publisher": "NBC News"
+      "name": "Pardon My Take",
+      "publisher": "Barstool Sports"
     },
     {
       "rank": 7,
@@ -41,8 +41,8 @@
     },
     {
       "rank": 8,
-      "name": "Pardon My Take",
-      "publisher": "Barstool Sports"
+      "name": "Dateline NBC",
+      "publisher": "NBC News"
     },
     {
       "rank": 9,
@@ -51,13 +51,13 @@
     },
     {
       "rank": 10,
-      "name": "Morbid",
-      "publisher": "Ash Kelley & Alaina Urquhart"
+      "name": "20/20",
+      "publisher": "ABC News"
     },
     {
       "rank": 11,
-      "name": "20/20",
-      "publisher": "ABC News"
+      "name": "SmartLess",
+      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
     },
     {
       "rank": 12,
@@ -66,43 +66,43 @@
     },
     {
       "rank": 13,
+      "name": "Morbid",
+      "publisher": "Ash Kelley & Alaina Urquhart"
+    },
+    {
+      "rank": 14,
       "name": "The Rest Is History",
       "publisher": "Goalhanger"
     },
     {
-      "rank": 14,
-      "name": "SmartLess",
-      "publisher": "Jason Bateman, Sean Hayes, Will Arnett"
-    },
-    {
       "rank": 15,
-      "name": "The Bible in a Year (with Fr. Mike Schmitz)",
-      "publisher": "Ascension"
-    },
-    {
-      "rank": 16,
-      "name": "Stuff You Should Know",
-      "publisher": "iHeartPodcasts"
-    },
-    {
-      "rank": 17,
-      "name": "NPR News Now",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 18,
-      "name": "Wait Wait... Don't Tell Me!",
-      "publisher": "NPR"
-    },
-    {
-      "rank": 19,
       "name": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
       "publisher": "Exactly Right and iHeartPodcasts"
     },
     {
+      "rank": 16,
+      "name": "Good Hang with Amy Poehler",
+      "publisher": "The Ringer"
+    },
+    {
+      "rank": 17,
+      "name": "The Bible in a Year (with Fr. Mike Schmitz)",
+      "publisher": "Ascension"
+    },
+    {
+      "rank": 18,
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts"
+    },
+    {
+      "rank": 19,
+      "name": "The Mel Robbins Podcast",
+      "publisher": "Mel Robbins"
+    },
+    {
       "rank": 20,
-      "name": "The Ezra Klein Show",
-      "publisher": "New York Times Opinion"
+      "name": "NPR News Now",
+      "publisher": "NPR"
     }
   ]
 }
